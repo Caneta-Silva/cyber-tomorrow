@@ -1,0 +1,66 @@
+{
+    "id": "a500b6a0baf476935d50b41779e02c2c",
+    "name": "Galactic Guardian: A 19th-Century Tale of the Future in Oil",
+    "created": "2024-03-17 23:24:15.020750",
+    "prompt": {
+        "prompt": "Full body portrait of a futuristic riot police robot astride an extraterrestrial deer-like creature, set against a backdrop of an alien fortress. The image should represent the stylistic elements of late 19th-century Romanticism with a focus on atmospheric effects, intricate detailing, and narrative storytelling, primarily executed in oil, like the works of artists before 1912.",
+        "id": "d56f3e7f-373a-4976-a279-e4ce04c88771",
+        "created_at": "2024-03-17 23:23:31.499546",
+        "prompt_history": [
+            {
+                "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of John Schoenherr against the backdrop of a alien fortress",
+                "output": "Full body portrait of a futuristic riot police robot astride an extraterrestrial deer-like creature, set against a backdrop of an alien fortress. The image should represent the stylistic elements of late 19th-century Romanticism with a focus on atmospheric effects, intricate detailing, and narrative storytelling, primarily executed in oil, like the works of artists before 1912.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-17 23:24:12.442207",
+        "revised_prompt": true,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "riot police robot",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "tags": []
+    },
+    "tags": [
+        "futuristic",
+        "riot police",
+        "robot",
+        "extraterrestrial",
+        "deer",
+        "alien",
+        "fortress",
+        "late 19th-century Romanticism",
+        "atmospheric effects",
+        "intricate detailing",
+        "narrative storytelling",
+        "oil painting",
+        "artists before 1912"
+    ],
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-4r2MsQxTWVX2UPezZQ3gi3b3.png?st=2024-03-17T22%3A24%3A10Z&se=2024-03-18T00%3A24%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T16%3A34%3A48Z&ske=2024-03-18T16%3A34%3A48Z&sks=b&skv=2021-08-06&sig=ygzH%2BOsH1HTmpmuBBK662MYI9AI1zq3tWfdZooEbqPY%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a500b6a0baf476935d50b41779e02c2c/a500b6a0baf476935d50b41779e02c2c.jpg"
+    }
+}
