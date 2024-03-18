@@ -1,0 +1,46 @@
+{
+    "id": "ccff240b8c67955c40d3eafe52521447",
+    "title": "Galactic Enforcers: The Alien Riot Police Robot and Elephant",
+    "description": "Experience a futuristic scene as an alien riot police robot elegantly rides an alien-like elephant, set against the grand backdrop of an otherworldly spaceship. This unique and artistic representation, inspired by the style of Rafal Olbinski, blends technology and nature in a harmonious and captivating way.",
+    "created": "2024-03-18 00:53:02.182688",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "id": "f0cc9a6c-e090-48c8-b2b3-43945b025a61",
+        "created_at": "2024-03-18 00:46:36.160814",
+        "prompt_history": [],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        }
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Fp3BZ5Xx9ESuGrhvhIBuwhJ8.png?st=2024-03-17T23%3A52%3A56Z&se=2024-03-18T01%3A52%3A56Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T17%3A34%3A19Z&ske=2024-03-18T17%3A34%3A19Z&sks=b&skv=2021-08-06&sig=R/6MVfU%2BvTFQhuoxJelZupCkjRcxQqdoXZ4SDlUn7Ng%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ccff240b8c67955c40d3eafe52521447/ccff240b8c67955c40d3eafe52521447.jpg"
+    },
+    "tags": []
+}
