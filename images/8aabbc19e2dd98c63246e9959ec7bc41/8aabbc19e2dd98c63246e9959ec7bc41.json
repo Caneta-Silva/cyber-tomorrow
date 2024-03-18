@@ -1,0 +1,52 @@
+{
+    "id": "8aabbc19e2dd98c63246e9959ec7bc41",
+    "title": "The Extraterrestrial Paladin: An Enigmatic Fusion of Past and Future",
+    "description": "This image portrays an alien figure resembling an archetypal paladin, adorned in elaborate military attire that seamlessly integrates elements of surrealism and intricate detailing. Evoking the artistic styles of the 19th century, the figure stands as a symbol of fantastical otherworldliness against the backdrop of a complexly designed alien spaceship. The scene captures a juxtaposition of past aesthetic sensibilities with futuristic elements, creating a mesmerizing fusion of historical symbolism and sci-fi imagination.",
+    "created": "2024-03-18 00:32:47.972378",
+    "prompt": {
+        "prompt": "Craft a landscape-oriented, full-body depiction of an alien figure evoking the archetypal paladin in military attire. This extra-terrestrial soldier is rendered with characteristics of surrealism, intricate detailing, and fantastical elements, akin to artists working during the 19th century, with an evident focus on symbolism. The figure stands stark against a complexly designed alien spaceship. The aesthetic is reminiscent of a mid-1800s oil painting, encapsulating a futuristic otherworldliness.",
+        "id": "cf21d1e6-0dc9-4bfd-bce7-9e900343fd92",
+        "created_at": "2024-03-18 00:32:03.723898",
+        "prompt_history": [
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien spaceship",
+                "output": "Craft a landscape-oriented, full-body depiction of an alien figure evoking the archetypal paladin in military attire. This extra-terrestrial soldier is rendered with characteristics of surrealism, intricate detailing, and fantastical elements, akin to artists working during the 19th century, with an evident focus on symbolism. The figure stands stark against a complexly designed alien spaceship. The aesthetic is reminiscent of a mid-1800s oil painting, encapsulating a futuristic otherworldliness.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-18 00:32:43.129945",
+        "revised_prompt": true,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        }
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-L8gFQm5djiruQrXlg59rclbg.png?st=2024-03-17T23%3A32%3A41Z&se=2024-03-18T01%3A32%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T06%3A53%3A44Z&ske=2024-03-18T06%3A53%3A44Z&sks=b&skv=2021-08-06&sig=EUgIXAey4Buv44toP%2BJqslTWQpYAPwjjgfxtemkHNAc%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8aabbc19e2dd98c63246e9959ec7bc41/8aabbc19e2dd98c63246e9959ec7bc41.jpg"
+    },
+    "tags": []
+}
