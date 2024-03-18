@@ -1,0 +1,46 @@
+{
+    "id": "c75690db4f2ed151eda39497c721fac2",
+    "title": "Futuristic Paladin Military in the Shadow of the Spacecraft",
+    "description": "This image depicts a futuristic paladin style military figure standing proudly in front of a massive futuristic spaceship, designed in the style reminiscent of renowned artist Bob Pepper. The landscape is rich with sci-fi elements and conveys a sense of awe and power.",
+    "created": "2024-03-18 00:55:31.171045",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "id": "a642178b-984f-4c24-86f4-9e8f2e185ac3",
+        "created_at": "2024-03-18 00:47:34.377237",
+        "prompt_history": [],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        }
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-f77kLUpOJgajpsZur42vJExC.png?st=2024-03-17T23%3A55%3A27Z&se=2024-03-18T01%3A55%3A27Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T07%3A30%3A39Z&ske=2024-03-18T07%3A30%3A39Z&sks=b&skv=2021-08-06&sig=kFyYCzPp9CTVEtdJ855ua8yXEgXiuRwrmqLKRT8Ooa8%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c75690db4f2ed151eda39497c721fac2/c75690db4f2ed151eda39497c721fac2.jpg"
+    },
+    "tags": []
+}
