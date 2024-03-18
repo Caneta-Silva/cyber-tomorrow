@@ -1,0 +1,46 @@
+{
+    "id": "d744efb2cbc071667fa402c629f8b7aa",
+    "title": "Futuristic Alien Paladin Military in Wally Wood Style",
+    "description": "An epic scene depicting a futuristic alien paladin military, inspired by the artistic style of Wally Wood. The alien warriors stand tall against a backdrop of a martial landscape, blending advanced technology with noble armor and a sense of otherworldly power. The intricate details and dynamic composition make this image a breathtaking visual journey into a sci-fi realm of bravery and honor.",
+    "created": "2024-03-18 00:52:12.172735",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+        "id": "8513475b-8414-431a-a406-0ecc489d38e1",
+        "created_at": "2024-03-18 00:46:16.678551",
+        "prompt_history": [],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        }
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-wAlYeqImacaMR3LruOfZNCNk.png?st=2024-03-17T23%3A52%3A07Z&se=2024-03-18T01%3A52%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T12%3A19%3A33Z&ske=2024-03-18T12%3A19%3A33Z&sks=b&skv=2021-08-06&sig=qwbadRZoA7KqpP3doKtmJ%2BttedndD8O%2BjWJTCUhQQhU%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/d744efb2cbc071667fa402c629f8b7aa/d744efb2cbc071667fa402c629f8b7aa.jpg"
+    },
+    "tags": []
+}
