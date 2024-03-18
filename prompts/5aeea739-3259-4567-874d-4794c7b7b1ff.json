@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a striking landscape where a formidable cybernetic enforcer, inspired by the visionary style of Rafal Olbinski, stands tall as a futuristic alien riot police robot. Adorned in sleek metallic armor and pulsating with otherworldly energy, this imposing figure promises a glimpse into a world where technology and authority merge seamlessly.",
+    "id": "5aeea739-3259-4567-874d-4794c7b7b1ff",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski",
+        {
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski",
+            "output": "Immerse yourself in a striking landscape where a formidable cybernetic enforcer, inspired by the visionary style of Rafal Olbinski, stands tall as a futuristic alien riot police robot. Adorned in sleek metallic armor and pulsating with otherworldly energy, this imposing figure promises a glimpse into a world where technology and authority merge seamlessly.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-03-18 23:53:26.163872",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-18 23:52:46.512935",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Cybernetic Enforcer: A Futuristic Alien Riot Police Robot"
+}
