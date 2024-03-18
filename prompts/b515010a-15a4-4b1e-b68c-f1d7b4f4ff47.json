@@ -1,0 +1,44 @@
+{
+    "prompt": "Step into a science fiction realm with this captivating landscape showcasing a futuristic alien paladin military, inspired by the imaginative style of artist Bob Pepper. Marvel at the ornate armor, advanced weaponry, and alien landscape that bring this otherworldly scene to life. Join this elite squad of alien warriors as they stand ready to defend their realm against any intergalactic threat.",
+    "id": "b515010a-15a4-4b1e-b68c-f1d7b4f4ff47",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+        {
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+            "output": "Step into a science fiction realm with this captivating landscape showcasing a futuristic alien paladin military, inspired by the imaginative style of artist Bob Pepper. Marvel at the ornate armor, advanced weaponry, and alien landscape that bring this otherworldly scene to life. Join this elite squad of alien warriors as they stand ready to defend their realm against any intergalactic threat.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-03-18 23:57:16.274051",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-18 23:54:26.364539",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Paladin Military Landscape"
+}
