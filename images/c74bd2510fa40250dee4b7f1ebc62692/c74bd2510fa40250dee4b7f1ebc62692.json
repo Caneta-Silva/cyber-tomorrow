@@ -1,0 +1,73 @@
+{
+    "id": "c74bd2510fa40250dee4b7f1ebc62692",
+    "name": "Futuristic Paladin: A Journey Through Alien Realms",
+    "created": "2024-03-18 00:23:41.871225",
+    "prompt": {
+        "prompt": "Create an image depicting a full body landscape scene featuring an otherworldly futuristic paladin of undetermined lineage clad in alien armor, mounted on a creature which resembles an extraterrestrial deer. The style of the image should reflect dramatic contrasts and intricate detailing similar to those in works from the late 19th century pre-modern art, with a touch of fantastical elements, done primarily with watercolors and embellished with penetrating pops of color. Behind them, illustrate a martial landscape indicative of a technologically advanced alien civilization, interweaving elements of both harmony and combat.",
+        "id": "e1c73c75-83ec-4f24-b143-e7d4e41d84d9",
+        "created_at": "2024-03-18 00:22:43.953937",
+        "prompt_history": [
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+                "output": "Create an image depicting a full body landscape scene featuring an otherworldly futuristic paladin of undetermined lineage clad in alien armor, mounted on a creature which resembles an extraterrestrial deer. The style of the image should reflect dramatic contrasts and intricate detailing similar to those in works from the late 19th century pre-modern art, with a touch of fantastical elements, done primarily with watercolors and embellished with penetrating pops of color. Behind them, illustrate a martial landscape indicative of a technologically advanced alien civilization, interweaving elements of both harmony and combat.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-18 00:23:39.016173",
+        "revised_prompt": true,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "tags": [
+            "image",
+            "full body",
+            "landscape scene",
+            "otherworldly",
+            "futuristic",
+            "paladin",
+            "alien armor",
+            "mounted",
+            "extraterrestrial deer",
+            "dramatic contrasts",
+            "intricate detailing",
+            "late 19th century",
+            "pre-modern art",
+            "fantastical elements",
+            "watercolors",
+            "pops of color",
+            "martial landscape",
+            "technologically advanced",
+            "alien civilization",
+            "harmony",
+            "combat"
+        ]
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-UDCpWzLwWgJRxvvmbJrtIF4A.png?st=2024-03-17T23%3A23%3A37Z&se=2024-03-18T01%3A23%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-17T06%3A33%3A30Z&ske=2024-03-18T06%3A33%3A30Z&sks=b&skv=2021-08-06&sig=x75hiRbRFJfQIGnZsMFhZOWCzJC5U1vElgikx9WLhLE%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c74bd2510fa40250dee4b7f1ebc62692/c74bd2510fa40250dee4b7f1ebc62692.jpg"
+    }
+}
