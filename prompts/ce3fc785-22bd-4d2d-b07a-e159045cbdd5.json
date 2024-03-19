@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a stunning landscape as you gaze upon the alien paladin, clad in military-style armor, standing proudly in front of a majestic futuristic alien spaceship. This captivating image, inspired by the artistry of Rafal Olbinski, captures the essence of courage, strength, and otherworldly beauty.",
+    "prompt": "Capture the essence of a futuristic paladin in military attire, inspired by the legendary artist John Schoenherr. This full-body landscape image portrays a vision of a gallant warrior equipped with advanced technology and a sense of honor.",
     "id": "ce3fc785-22bd-4d2d-b07a-e159045cbdd5",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+        "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
-            "output": "Immerse yourself in a stunning landscape as you gaze upon the alien paladin, clad in military-style armor, standing proudly in front of a majestic futuristic alien spaceship. This captivating image, inspired by the artistry of Rafal Olbinski, captures the essence of courage, strength, and otherworldly beauty.",
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
+            "output": "Capture the essence of a futuristic paladin in military attire, inspired by the legendary artist John Schoenherr. This full-body landscape image portrays a vision of a gallant warrior equipped with advanced technology and a sense of honor.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 00:14:42.433284",
+    "enhanced_at": "2024-03-19 00:17:11.313668",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-18 23:58:42.895548",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+    "seeded_at": "2024-03-18 23:58:42.828939",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
     "metadata": {
         "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "elephant",
+        "backdrop": "Martial landscape",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic alien"
+            "element": "futuristic",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "The Alien Paladin: Guardian of the Futuristic Mothership"
+    "title": "Futuristic Paladin: A Tribute to John Schoenherr"
 }
