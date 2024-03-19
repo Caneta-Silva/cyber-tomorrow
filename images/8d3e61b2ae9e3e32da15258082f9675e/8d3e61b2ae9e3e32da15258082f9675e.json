@@ -1,0 +1,60 @@
+{
+    "id": "8d3e61b2ae9e3e32da15258082f9675e",
+    "title": "Futuristic Paladin Warrior at the Alien Fortress",
+    "description": "A stunning scene showing a futuristic paladin warrior of South Asian descent, outfitted in advanced military armor, standing tall and exuding strength and resilience. The warrior has an impressive and strong demeanor and his armor has a intricate and technological design. Positioned in front of him is an alien fortress that's towering and imposing, adding an element of mystery and tension to the scene. This juxtaposition against the fortress creates a fascinating mix of fantasy and science fiction, evoking a sense of curiosity and wonder.",
+    "created": "2024-03-19 18:36:37.715244",
+    "prompt": {
+        "prompt": "A stunning scene showing a futuristic paladin warrior of South Asian descent, outfitted in advanced military armor, standing tall and exuding strength and resilience. The warrior has an impressive and strong demeanor and his armor has a intricate and technological design. Positioned in front of him is an alien fortress that's towering and imposing, adding an element of mystery and tension to the scene. This juxtaposition against the fortress creates a fascinating mix of fantasy and science fiction, evoking a sense of curiosity and wonder.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+                "output": "An awe-inspiring scene depicting a futuristic paladin warrior standing proudly in front of an imposing alien fortress. The warrior is adorned in advanced military armor, exuding strength and resilience. The backdrop of the alien fortress adds an element of mystery and danger to the image, creating a captivating blend of fantasy and science fiction.",
+                "type": "enhanced"
+            },
+            {
+                "input": "An awe-inspiring scene depicting a futuristic paladin warrior standing proudly in front of an imposing alien fortress. The warrior is adorned in advanced military armor, exuding strength and resilience. The backdrop of the alien fortress adds an element of mystery and danger to the image, creating a captivating blend of fantasy and science fiction.",
+                "output": "A stunning scene showing a futuristic paladin warrior of South Asian descent, outfitted in advanced military armor, standing tall and exuding strength and resilience. The warrior has an impressive and strong demeanor and his armor has a intricate and technological design. Positioned in front of him is an alien fortress that's towering and imposing, adding an element of mystery and tension to the scene. This juxtaposition against the fortress creates a fascinating mix of fantasy and science fiction, evoking a sense of curiosity and wonder.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-19 18:36:34.968419",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-19 18:35:47.481830",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.372904",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Warrior at the Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-iEfLrJX1KhhNbJpNeAZICtWc.png?st=2024-03-19T17%3A36%3A33Z&se=2024-03-19T19%3A36%3A33Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-19T07%3A22%3A40Z&ske=2024-03-20T07%3A22%3A40Z&sks=b&skv=2021-08-06&sig=pDWW26wN3gdVhpKFYOiHJmrUdae0BnH70efsfXtuuPQ%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8d3e61b2ae9e3e32da15258082f9675e/8d3e61b2ae9e3e32da15258082f9675e.jpg"
+    },
+    "tags": []
+}
