@@ -1,0 +1,44 @@
+{
+    "prompt": "An awe-inspiring scene depicting a futuristic paladin warrior standing proudly in front of an imposing alien fortress. The warrior is adorned in advanced military armor, exuding strength and resilience. The backdrop of the alien fortress adds an element of mystery and danger to the image, creating a captivating blend of fantasy and science fiction.",
+    "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+        {
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+            "output": "An awe-inspiring scene depicting a futuristic paladin warrior standing proudly in front of an imposing alien fortress. The warrior is adorned in advanced military armor, exuding strength and resilience. The backdrop of the alien fortress adds an element of mystery and danger to the image, creating a captivating blend of fantasy and science fiction.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-03-19 18:35:47.481830",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.372904",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a alien fortress",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Paladin Warrior at the Alien Fortress"
+}
