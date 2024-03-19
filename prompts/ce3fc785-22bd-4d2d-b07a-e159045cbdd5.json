@@ -1,29 +1,29 @@
 {
-    "prompt": "This stunning image showcases a futuristic alien riot police robot riding triumphantly atop an alien-like gnu across a vivid and otherworldly Martial landscape. Inspired by the style of Rafal Olbinski, this artwork seamlessly combines futuristic elements with a touch of the surreal to create a truly captivating scene.",
+    "prompt": "An epic and fantastical scene featuring an alien paladin style military figure mounted on an alien-like elephant, set against the backdrop of a grand alien fortress. The intricate details and vibrant colors bring to life a unique and captivating world full of mystery and wonder, reminiscent of the style of Wally Wood.",
     "id": "ce3fc785-22bd-4d2d-b07a-e159045cbdd5",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
-            "output": "This stunning image showcases a futuristic alien riot police robot riding triumphantly atop an alien-like gnu across a vivid and otherworldly Martial landscape. Inspired by the style of Rafal Olbinski, this artwork seamlessly combines futuristic elements with a touch of the surreal to create a truly captivating scene.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
+            "output": "An epic and fantastical scene featuring an alien paladin style military figure mounted on an alien-like elephant, set against the backdrop of a grand alien fortress. The intricate details and vibrant colors bring to life a unique and captivating world full of mystery and wonder, reminiscent of the style of Wally Wood.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 00:24:37.037576",
+    "enhanced_at": "2024-03-19 00:32:24.328962",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-18 23:58:42.802394",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-18 23:58:42.758895",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "element": "paladin style military",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "gnu",
+        "backdrop": "fortress",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "alien",
             "backdrop": "alien"
         }
     },
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "The Sentinel of the Alien Martial Landscape"
+    "title": "Alien Paladin Military on Elephant in Alien Fortress"
 }
