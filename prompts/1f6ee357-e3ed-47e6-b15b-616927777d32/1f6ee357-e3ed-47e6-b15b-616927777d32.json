@@ -1,26 +1,26 @@
 {
-    "prompt": "A captivating image depicting an alien riot police robot standing guard in front of a majestic alien fortress, inspired by the iconic style of artist Rafal Olbinski. The towering fortress looms in the background, exuding an aura of mystery and power, while the robotic sentinel is ready to defend its grounds with advanced technology and precision. The design blends futuristic elements with a touch of otherworldly beauty, creating a scene that captures the imagination and transports viewers to a fascinating alien world.",
+    "prompt": "Witness the majestic sight of an alien paladin, clad in futuristic military armor, standing strong against the surreal backdrop of an alien martial landscape. This sci-fi artwork, inspired by the style of Bob Pepper, captures the essence of courage and resilience in the face of unknown frontiers.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
-            "output": "A captivating image depicting an alien riot police robot standing guard in front of a majestic alien fortress, inspired by the iconic style of artist Rafal Olbinski. The towering fortress looms in the background, exuding an aura of mystery and power, while the robotic sentinel is ready to defend its grounds with advanced technology and precision. The design blends futuristic elements with a touch of otherworldly beauty, creating a scene that captures the imagination and transports viewers to a fascinating alien world.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            "output": "Witness the majestic sight of an alien paladin, clad in futuristic military armor, standing strong against the surreal backdrop of an alien martial landscape. This sci-fi artwork, inspired by the style of Bob Pepper, captures the essence of courage and resilience in the face of unknown frontiers.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 01:24:57.660254",
+    "enhanced_at": "2024-03-19 01:30:03.664895",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.389978",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.365262",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "element": "paladin style military",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "gnu",
+        "backdrop": "Martial landscape",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
             "element": "alien",
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Sentinel of the Alien Fortress"
+    "title": "Galactic Paladin: Defender of the Alien Realm"
 }
