@@ -1,44 +1,44 @@
 {
-    "prompt": "An epic and fantastical scene featuring an alien paladin style military figure mounted on an alien-like elephant, set against the backdrop of a grand alien fortress. The intricate details and vibrant colors bring to life a unique and captivating world full of mystery and wonder, reminiscent of the style of Wally Wood.",
+    "prompt": "A stunning landscape image depicting a full-body view of a futuristic alien riot police robot designed in the style of the legendary artist Wally Wood. The robot stands tall and imposing, ready to maintain order in a technologically advanced world. The scene is dynamic and detailed, capturing a sense of futuristic warfare and law enforcement in a visually captivating way.",
     "id": "ce3fc785-22bd-4d2d-b07a-e159045cbdd5",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
-            "output": "An epic and fantastical scene featuring an alien paladin style military figure mounted on an alien-like elephant, set against the backdrop of a grand alien fortress. The intricate details and vibrant colors bring to life a unique and captivating world full of mystery and wonder, reminiscent of the style of Wally Wood.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
+            "output": "A stunning landscape image depicting a full-body view of a futuristic alien riot police robot designed in the style of the legendary artist Wally Wood. The robot stands tall and imposing, ready to maintain order in a technologically advanced world. The scene is dynamic and detailed, capturing a sense of futuristic warfare and law enforcement in a visually captivating way.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 00:32:24.328962",
+    "enhanced_at": "2024-03-19 00:34:41.620952",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-18 23:58:42.758895",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Wally Wood against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-18 23:58:42.817614",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
     "metadata": {
-        "element": "paladin style military",
+        "element": "riot police robot",
         "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "elephant",
+        "backdrop": "Martial landscape",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Alien Paladin Military on Elephant in Alien Fortress"
+    "title": "Futuristic Alien Riot Police Robot Patrol"
 }
