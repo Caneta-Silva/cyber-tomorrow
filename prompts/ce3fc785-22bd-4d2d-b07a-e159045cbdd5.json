@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a futuristic scene where a riot police robot rides atop an otherworldly deer, set against the backdrop of a towering spaceship. Inspired by the imaginative style of artist Bob Pepper, this captivating image combines elements of technology, nature, and extraterrestrial beauty.",
+    "id": "ce3fc785-22bd-4d2d-b07a-e159045cbdd5",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        {
+            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+            "output": "Immerse yourself in a futuristic scene where a riot police robot rides atop an otherworldly deer, set against the backdrop of a towering spaceship. Inspired by the imaginative style of artist Bob Pepper, this captivating image combines elements of technology, nature, and extraterrestrial beauty.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-03-19 00:06:16.975771",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-18 23:58:42.770438",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Riot Police Robot on Alien Deer: A Dynamic Encounter"
+}
