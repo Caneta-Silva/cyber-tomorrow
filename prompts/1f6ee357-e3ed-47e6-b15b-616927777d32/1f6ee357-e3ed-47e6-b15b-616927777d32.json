@@ -1,44 +1,44 @@
 {
-    "prompt": "This stunning image showcases a futuristic alien paladin military character standing proudly in front of a futuristic fortress. Inspired by the iconic art style of Wally Wood, the scene is filled with intricate details and vibrant colors, making it a true masterpiece of science fiction art.",
+    "prompt": "Immerse yourself in a futuristic world with this striking image of a riot police robot designed in the style reminiscent of artist Bob Pepper. With its imposing presence and cutting-edge design, this robot stands ready to maintain order in a world unknown to us. The attention to detail and atmospheric rendering bring this sci-fi landscape to life, capturing the essence of a distant future where technology and law enforcement intersect.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
-            "output": "This stunning image showcases a futuristic alien paladin military character standing proudly in front of a futuristic fortress. Inspired by the iconic art style of Wally Wood, the scene is filled with intricate details and vibrant colors, making it a true masterpiece of science fiction art.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
+            "output": "Immerse yourself in a futuristic world with this striking image of a riot police robot designed in the style reminiscent of artist Bob Pepper. With its imposing presence and cutting-edge design, this robot stands ready to maintain order in a world unknown to us. The attention to detail and atmospheric rendering bring this sci-fi landscape to life, capturing the essence of a distant future where technology and law enforcement intersect.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 01:21:20.867294",
+    "enhanced_at": "2024-03-19 01:22:50.337940",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.356752",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
+    "seeded_at": "2024-03-19 01:00:55.312246",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Wally Wood",
+        "element": "riot police robot",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
         "backdrop": "fortress",
-        "animal": "gnu",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "futuristic",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin Military in Wally Wood Style"
+    "title": "Futuristic Riot Police Robot on Patrol"
 }
