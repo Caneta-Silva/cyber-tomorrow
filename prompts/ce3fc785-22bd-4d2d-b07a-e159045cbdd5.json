@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a futuristic scene where a riot police robot rides atop an otherworldly deer, set against the backdrop of a towering spaceship. Inspired by the imaginative style of artist Bob Pepper, this captivating image combines elements of technology, nature, and extraterrestrial beauty.",
+    "prompt": "A stunning full-body image of an alien riot police robot patrolling a futuristic landscape with intricately designed armor and weaponry, capturing the essence of legendary artist John Schoenherr's style.",
     "id": "ce3fc785-22bd-4d2d-b07a-e159045cbdd5",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
-            "output": "Immerse yourself in a futuristic scene where a riot police robot rides atop an otherworldly deer, set against the backdrop of a towering spaceship. Inspired by the imaginative style of artist Bob Pepper, this captivating image combines elements of technology, nature, and extraterrestrial beauty.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
+            "output": "A stunning full-body image of an alien riot police robot patrolling a futuristic landscape with intricately designed armor and weaponry, capturing the essence of legendary artist John Schoenherr's style.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 00:06:16.975771",
+    "enhanced_at": "2024-03-19 00:08:12.484725",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-18 23:58:42.770438",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-18 23:58:42.837727",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
     "metadata": {
         "element": "riot police robot",
-        "style": "Bob Pepper",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "deer",
+        "backdrop": "fortress",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Riot Police Robot on Alien Deer: A Dynamic Encounter"
+    "title": "Mechanical Enforcer: Alien Riot Police Robot"
 }
