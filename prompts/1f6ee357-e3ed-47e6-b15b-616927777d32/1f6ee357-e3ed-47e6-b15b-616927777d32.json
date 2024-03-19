@@ -1,30 +1,30 @@
 {
-    "prompt": "Witness the incredible scene of a towering riot police robot atop an alien gnu, both outfitted with advanced technology and weapons, standing before an alien fortress. This stunning image, inspired by the visionary style of Bob Pepper, captures a futuristic alien world in turmoil and the undying sentinel of justice amidst the chaos.",
+    "prompt": "An imaginative scene of an alien riot police robot mounted on an alien-like camel, set against the backdrop of a futuristic alien spaceship. This artwork is inspired by the style of Rafal Olbinski, blending elements of fantasy and sci-fi in a visually striking composition.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Bob Pepper against the backdrop of a alien fortress",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Bob Pepper against the backdrop of a alien fortress",
-            "output": "Witness the incredible scene of a towering riot police robot atop an alien gnu, both outfitted with advanced technology and weapons, standing before an alien fortress. This stunning image, inspired by the visionary style of Bob Pepper, captures a futuristic alien world in turmoil and the undying sentinel of justice amidst the chaos.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            "output": "An imaginative scene of an alien riot police robot mounted on an alien-like camel, set against the backdrop of a futuristic alien spaceship. This artwork is inspired by the style of Rafal Olbinski, blending elements of fantasy and sci-fi in a visually striking composition.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-19 01:34:56.741636",
+    "enhanced_at": "2024-03-19 14:05:59.267381",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.268135",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like gnu in the style of Bob Pepper against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.290151",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
     "metadata": {
         "element": "riot police robot",
-        "style": "Bob Pepper",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "gnu",
+        "backdrop": "spaceship",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "alien"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Guardian"
+    "title": "Alien Riot Police Robot on Camel - A Futuristic Encounter"
 }
