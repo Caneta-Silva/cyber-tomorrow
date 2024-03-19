@@ -1,0 +1,55 @@
+{
+    "id": "fb6ec02c97a67924093e87a4b83451f7",
+    "title": "Alien Riot Police Robot on Camel - A Futuristic Encounter",
+    "description": "An imaginative scene of an alien riot police robot mounted on an alien-like camel, set against the backdrop of a futuristic alien spaceship. This artwork is inspired by the style of Rafal Olbinski, blending elements of fantasy and sci-fi in a visually striking composition.",
+    "created": "2024-03-19 14:06:49.339221",
+    "prompt": {
+        "prompt": "An imaginative scene of an alien riot police robot mounted on an alien-like camel, set against the backdrop of a futuristic alien spaceship. This artwork is inspired by the style of Rafal Olbinski, blending elements of fantasy and sci-fi in a visually striking composition.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+                "output": "An imaginative scene of an alien riot police robot mounted on an alien-like camel, set against the backdrop of a futuristic alien spaceship. This artwork is inspired by the style of Rafal Olbinski, blending elements of fantasy and sci-fi in a visually striking composition.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-03-19 14:05:59.267381",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.290151",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot on Camel - A Futuristic Encounter"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-n5M5G2FOWHCivcIDHobW9h6g.png?st=2024-03-19T13%3A06%3A47Z&se=2024-03-19T15%3A06%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-19T02%3A00%3A58Z&ske=2024-03-20T02%3A00%3A58Z&sks=b&skv=2021-08-06&sig=WyAC6W4LBxKTQ49ee98fS7lAgkyJ1zrsc/Y8kKm8Lu4%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/fb6ec02c97a67924093e87a4b83451f7/fb6ec02c97a67924093e87a4b83451f7.jpg"
+    },
+    "tags": []
+}
