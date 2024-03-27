@@ -1,44 +1,44 @@
 {
-    "prompt": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
+    "prompt": "An epic full body image of an alien riot police robot, designed in the iconic style of Wally Wood, standing against the backdrop of a formidable alien fortress. The intricate details and dynamic perspective capture the tension and power of this futuristic scene.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+            "output": "An epic full body image of an alien riot police robot, designed in the iconic style of Wally Wood, standing against the backdrop of a formidable alien fortress. The intricate details and dynamic perspective capture the tension and power of this futuristic scene.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 18:59:49.486266",
+    "enhanced_at": "2024-03-27 19:01:35.761799",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.338501",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.355489",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
             "element": "alien",
-            "backdrop": "futuristic alien"
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Galactic Guardian: An Alien Paladin in the Style of Rafal Olbinski"
+    "title": "Alien Riot Police Robot in Wally Wood Style"
 }
