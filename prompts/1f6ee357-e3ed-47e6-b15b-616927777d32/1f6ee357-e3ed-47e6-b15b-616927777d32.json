@@ -1,44 +1,44 @@
 {
-    "prompt": "Experience a futuristic alien riot police robot as it stands guard over a technologically advanced landscape, blending the mesmerizing style of John Schoenherr with a touch of extraterrestrial essence.",
+    "prompt": "Immerse yourself in the futuristic world as you witness the majestic presence of an alien paladin in military attire riding an otherworldly deer. The scene is set against the backdrop of a technologically advanced alien spaceship, combining elements of fantasy and science fiction in a visually stunning illustration reminiscent of the style of artist Rafal Olbinski.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
-            "output": "Experience a futuristic alien riot police robot as it stands guard over a technologically advanced landscape, blending the mesmerizing style of John Schoenherr with a touch of extraterrestrial essence.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            "output": "Immerse yourself in the futuristic world as you witness the majestic presence of an alien paladin in military attire riding an otherworldly deer. The scene is set against the backdrop of a technologically advanced alien spaceship, combining elements of fantasy and science fiction in a visually stunning illustration reminiscent of the style of artist Rafal Olbinski.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:02:39.009649",
+    "enhanced_at": "2024-03-27 19:03:13.042591",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.331623",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.287988",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
     "metadata": {
-        "element": "riot police robot",
-        "style": "John Schoenherr",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "spaceship",
-        "animal": "giraffe",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Sentinel of the Future"
+    "title": "Galactic Warrior: The Alien Paladin on Alien Deer"
 }
