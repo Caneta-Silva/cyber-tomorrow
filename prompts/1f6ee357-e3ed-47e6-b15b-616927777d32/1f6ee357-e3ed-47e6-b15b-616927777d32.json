@@ -1,26 +1,26 @@
 {
-    "prompt": "Immerse yourself in this captivating scene of a futuristic alien riot police robot mounted on an otherworldly horse, set against the backdrop of a magnificent futuristic fortress. Inspired by the iconic style of Wally Wood, this image transports you to a dynamic and thrilling sci-fi world where advanced technology meets ancient creatures.",
+    "prompt": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
+        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
-            "output": "Immerse yourself in this captivating scene of a futuristic alien riot police robot mounted on an otherworldly horse, set against the backdrop of a magnificent futuristic fortress. Inspired by the iconic style of Wally Wood, this image transports you to a dynamic and thrilling sci-fi world where advanced technology meets ancient creatures.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+            "output": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 18:51:33.006384",
+    "enhanced_at": "2024-03-27 18:55:35.154942",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.255169",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
+    "seeded_at": "2024-03-19 01:00:55.253297",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "horse",
+        "backdrop": "spaceship",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot on Alien Horse"
+    "title": "Galactic Defender: Alien Paladin on Gnu"
 }
