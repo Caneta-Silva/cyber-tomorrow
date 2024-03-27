@@ -1,0 +1,60 @@
+{
+    "id": "fd94c3a241c67c1d48b21819e33d7f99",
+    "title": "Alien Riot Police Robot in Wally Wood Style",
+    "description": "Generate an epic full body image of an alien riot police robot drawn using a meticulous style characterized by complex mechanical, iconic science fiction illustrations. The robot stands against a menacing alien fortress backdrop. Depth and complexity are central to the design, depicting a detailed and dynamic perspective to capture the tension and power of the futuristic scene.",
+    "created": "2024-03-27 19:04:32.682612",
+    "prompt": {
+        "prompt": "Generate an epic full body image of an alien riot police robot drawn using a meticulous style characterized by complex mechanical, iconic science fiction illustrations. The robot stands against a menacing alien fortress backdrop. Depth and complexity are central to the design, depicting a detailed and dynamic perspective to capture the tension and power of the futuristic scene.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+                "output": "An epic full body image of an alien riot police robot, designed in the iconic style of Wally Wood, standing against the backdrop of a formidable alien fortress. The intricate details and dynamic perspective capture the tension and power of this futuristic scene.",
+                "type": "enhanced"
+            },
+            {
+                "input": "An epic full body image of an alien riot police robot, designed in the iconic style of Wally Wood, standing against the backdrop of a formidable alien fortress. The intricate details and dynamic perspective capture the tension and power of this futuristic scene.",
+                "output": "Generate an epic full body image of an alien riot police robot drawn using a meticulous style characterized by complex mechanical, iconic science fiction illustrations. The robot stands against a menacing alien fortress backdrop. Depth and complexity are central to the design, depicting a detailed and dynamic perspective to capture the tension and power of the futuristic scene.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-27 19:04:30.851495",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-27 19:01:35.761799",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.355489",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot in Wally Wood Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Kd3kotl6ZBAYiMCQ1qWlVZRZ.png?st=2024-03-27T18%3A04%3A29Z&se=2024-03-27T20%3A04%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A41%3A30Z&ske=2024-03-28T17%3A41%3A30Z&sks=b&skv=2021-08-06&sig=lFHCDhmnmSYjYtL/pBASLj1QgonhmxxSqO6iMjnxUL0%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/fd94c3a241c67c1d48b21819e33d7f99/fd94c3a241c67c1d48b21819e33d7f99.jpg"
+    },
+    "tags": []
+}
