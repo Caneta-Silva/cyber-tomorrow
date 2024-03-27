@@ -1,26 +1,26 @@
 {
-    "prompt": "An imaginative scene depicting a futuristic alien riot police robot mounted on an exotic alien-like camel, set against the backdrop of a captivating and otherworldly martial landscape. The artwork is inspired by the style of renowned artist Bob Pepper, showcasing a fusion of sci-fi, alien aesthetics, and action-packed drama.",
+    "prompt": "This stunning image depicts a futuristic alien paladin military in the captivating style of Rafal Olbinski. The landscape is filled with intricate details of otherworldly armor and weapons, evoking a sense of power and majesty. The design pays homage to Olbinski's unique artistic vision while offering a fresh and imaginative take on a sci-fi warrior concept.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
-            "output": "An imaginative scene depicting a futuristic alien riot police robot mounted on an exotic alien-like camel, set against the backdrop of a captivating and otherworldly martial landscape. The artwork is inspired by the style of renowned artist Bob Pepper, showcasing a fusion of sci-fi, alien aesthetics, and action-packed drama.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            "output": "This stunning image depicts a futuristic alien paladin military in the captivating style of Rafal Olbinski. The landscape is filled with intricate details of otherworldly armor and weapons, evoking a sense of power and majesty. The design pays homage to Olbinski's unique artistic vision while offering a fresh and imaginative take on a sci-fi warrior concept.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 22:41:12.094962",
+    "enhanced_at": "2024-03-27 22:42:06.078656",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.267222",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.340987",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Bob Pepper",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "camel",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Riot Police Robot on Alien Camel in Martial Landscape"
+    "title": "Futuristic Alien Paladin Military Landscape"
 }
