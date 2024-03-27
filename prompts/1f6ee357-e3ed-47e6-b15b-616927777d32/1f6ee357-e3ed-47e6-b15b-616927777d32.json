@@ -1,44 +1,44 @@
 {
-    "prompt": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
+    "prompt": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
-            "output": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            "output": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 18:55:35.154942",
+    "enhanced_at": "2024-03-27 18:59:49.486266",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.253297",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.338501",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
         "element": "paladin style military",
-        "style": "Wally Wood",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "spaceship",
-        "animal": "gnu",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Defender: Alien Paladin on Gnu"
+    "title": "Galactic Guardian: An Alien Paladin in the Style of Rafal Olbinski"
 }
