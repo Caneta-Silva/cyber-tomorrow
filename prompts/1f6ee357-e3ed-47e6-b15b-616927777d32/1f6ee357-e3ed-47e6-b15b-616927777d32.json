@@ -1,30 +1,30 @@
 {
-    "prompt": "An imaginative landscape featuring a futuristic alien riot police robot riding an alien-like deer in a scene reminiscent of Bob Pepper's style. The backdrop is an alien martial landscape, creating a surreal and captivating image of a unique and otherworldly encounter.",
+    "prompt": "Immerse yourself in this stunning image featuring a futuristic alien paladin, adorned in military gear, riding atop an otherworldly camel. The scene unfolds against the backdrop of a grand and imposing futuristic fortress, echoing the iconic style of renowned artist Bob Pepper. Let your imagination soar as you delve into this mesmerizing landscape that blends fantasy and sci-fi elements seamlessly.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
-            "output": "An imaginative landscape featuring a futuristic alien riot police robot riding an alien-like deer in a scene reminiscent of Bob Pepper's style. The backdrop is an alien martial landscape, creating a surreal and captivating image of a unique and otherworldly encounter.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            "output": "Immerse yourself in this stunning image featuring a futuristic alien paladin, adorned in military gear, riding atop an otherworldly camel. The scene unfolds against the backdrop of a grand and imposing futuristic fortress, echoing the iconic style of renowned artist Bob Pepper. Let your imagination soar as you delve into this mesmerizing landscape that blends fantasy and sci-fi elements seamlessly.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:26:16.523017",
+    "enhanced_at": "2024-03-27 19:31:44.067855",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.267732",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.265848",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "deer",
+        "backdrop": "fortress",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
-            "backdrop": "alien"
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot Mounted on Alien Deer in Alien Martial Landscape"
+    "title": "Futuristic Alien Paladin on Alien Camel at Fortified Outpost"
 }
