@@ -120,6 +120,61 @@
         "tags": []
     },
     {
+        "id": "05bff16d9f911c686f913fadfa40103a",
+        "title": "Futuristic Alien Paladin in Wally Wood Style",
+        "description": "This stunning image depicts a futuristic alien paladin in the iconic style of Wally Wood. The alien warrior stands in impressive full body armor against the backdrop of a futuristic spaceship, exuding power and strength. With intricate detailing and dynamic composition, this artwork perfectly captures the essence of a sci-fi military hero from another world.",
+        "created": "2024-03-27 22:30:13.160975",
+        "prompt": {
+            "prompt": "This stunning image depicts a futuristic alien paladin in the iconic style of Wally Wood. The alien warrior stands in impressive full body armor against the backdrop of a futuristic spaceship, exuding power and strength. With intricate detailing and dynamic composition, this artwork perfectly captures the essence of a sci-fi military hero from another world.",
+            "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+                {
+                    "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+                    "output": "This stunning image depicts a futuristic alien paladin in the iconic style of Wally Wood. The alien warrior stands in impressive full body armor against the backdrop of a futuristic spaceship, exuding power and strength. With intricate detailing and dynamic composition, this artwork perfectly captures the essence of a sci-fi military hero from another world.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-03-27 22:26:58.450410",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.356552",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Paladin in Wally Wood Style"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-dfjk57jXF6dh8gGPG8Qn0WMM.png?st=2024-03-27T21%3A30%3A10Z&se=2024-03-27T23%3A30%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A45%3A15Z&ske=2024-03-28T17%3A45%3A15Z&sks=b&skv=2021-08-06&sig=NXGE6Iu%2BU62A2Hkm8CZMwzQ69frSJjqJVw4ml6IWIL4%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/05bff16d9f911c686f913fadfa40103a/05bff16d9f911c686f913fadfa40103a.jpg"
+        },
+        "tags": []
+    },
+    {
         "id": "9e071c9d44c825770b48c6b08e8d7aa7",
         "title": "Sentinel of the Future",
         "description": "Imagine a futuristic robotic entity, functioning as riot police, from a different galaxy, maintaining order over a landscape rich with advanced technology. The scene is delightsomely colorful, presenting a mix of shadowing and illumination akin to the works of artists from the early 20th century, reminiscent of John Schoenherr's captivating depth and detail, while also encompassing a slight hint of extraterrestrial exoticness. The robot is a sight to behold, radiating with metallic shimmer, carrying an authoritative aura. Various devices and structures in the landscape express the pinnacle of alien technology, while the celestial bodies in the backdrop seal the otherworldly milieu.",
@@ -236,6 +291,61 @@
         "urls": {
             "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-GGPBB6OuUFY0Vm70srGvDeat.png?st=2024-03-27T17%3A52%3A23Z&se=2024-03-27T19%3A52%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A38%3A30Z&ske=2024-03-28T17%3A38%3A30Z&sks=b&skv=2021-08-06&sig=8SqW0%2Bx5UFoHspMn2tlYl0d2K3ib8IrSYRtDBsv/6yA%3D",
             "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/51351cf8f5a7f32aba91e45c6e066601/51351cf8f5a7f32aba91e45c6e066601.jpg"
+        },
+        "tags": []
+    },
+    {
+        "id": "59bba1ced67cac528b73598b13eef38a",
+        "title": "Futuristic Paladin Military Landscape",
+        "description": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
+        "created": "2024-03-27 22:33:57.408071",
+        "prompt": {
+            "prompt": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
+            "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+                {
+                    "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+                    "output": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-03-27 22:29:16.359939",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.333752",
+            "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Rafal Olbinski",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "deer",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Paladin Military Landscape"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-IgHDOWKP4vnbUIvVHsX6gAIF.png?st=2024-03-27T21%3A33%3A54Z&se=2024-03-27T23%3A33%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A40%3A18Z&ske=2024-03-28T17%3A40%3A18Z&sks=b&skv=2021-08-06&sig=WK4tu2wV5cEmRmIlzdLjWbNoYYAo/ul1FHy7pJf7XW0%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/59bba1ced67cac528b73598b13eef38a/59bba1ced67cac528b73598b13eef38a.jpg"
         },
         "tags": []
     },
@@ -716,6 +826,61 @@
         "urls": {
             "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Kd3kotl6ZBAYiMCQ1qWlVZRZ.png?st=2024-03-27T18%3A04%3A29Z&se=2024-03-27T20%3A04%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A41%3A30Z&ske=2024-03-28T17%3A41%3A30Z&sks=b&skv=2021-08-06&sig=lFHCDhmnmSYjYtL/pBASLj1QgonhmxxSqO6iMjnxUL0%3D",
             "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/fd94c3a241c67c1d48b21819e33d7f99/fd94c3a241c67c1d48b21819e33d7f99.jpg"
+        },
+        "tags": []
+    },
+    {
+        "id": "372c81fd707976890897a2b423f55e8c",
+        "title": "Futuristic Alien Riot Police Robot Riding Alien Deer in Martial Landscape",
+        "description": "An imaginative and adventurous scene of a futuristic alien riot police robot mounted on a majestic alien deer, depicted in the unique and captivating style reminiscent of artist Bob Pepper. The duo stands against a backdrop of a futuristic Martial landscape, showcasing a fusion of sci-fi and nature in an otherworldly setting.",
+        "created": "2024-03-27 22:31:36.129258",
+        "prompt": {
+            "prompt": "An imaginative and adventurous scene of a futuristic alien riot police robot mounted on a majestic alien deer, depicted in the unique and captivating style reminiscent of artist Bob Pepper. The duo stands against a backdrop of a futuristic Martial landscape, showcasing a fusion of sci-fi and nature in an otherworldly setting.",
+            "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+                {
+                    "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+                    "output": "An imaginative and adventurous scene of a futuristic alien riot police robot mounted on a majestic alien deer, depicted in the unique and captivating style reminiscent of artist Bob Pepper. The duo stands against a backdrop of a futuristic Martial landscape, showcasing a fusion of sci-fi and nature in an otherworldly setting.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-03-27 22:27:42.531079",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.267166",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Bob Pepper",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "deer",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Riot Police Robot Riding Alien Deer in Martial Landscape"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-v5CZb2bgQm7eRzaadY3iJzGS.png?st=2024-03-27T21%3A31%3A30Z&se=2024-03-27T23%3A31%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A35%3A52Z&ske=2024-03-28T17%3A35%3A52Z&sks=b&skv=2021-08-06&sig=ifMib2hTPMyaPrV9oza0Wwvp5GTL6RDMRdo8UEg%2BTVM%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/372c81fd707976890897a2b423f55e8c/372c81fd707976890897a2b423f55e8c.jpg"
         },
         "tags": []
     },
