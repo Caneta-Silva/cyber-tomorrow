@@ -1,29 +1,29 @@
 {
-    "prompt": "A stunning and captivating image depicting an alien riot police robot mounted on a majestic alien-like rhino, set against the backdrop of a formidable alien fortress. Inspired by the unique style of Bob Pepper, this artwork showcases a futuristic and otherworldly scene that combines elements of power, protection, and adventure.",
+    "prompt": "An imaginative landscape featuring a futuristic alien riot police robot riding an alien-like deer in a scene reminiscent of Bob Pepper's style. The backdrop is an alien martial landscape, creating a surreal and captivating image of a unique and otherworldly encounter.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
-            "output": "A stunning and captivating image depicting an alien riot police robot mounted on a majestic alien-like rhino, set against the backdrop of a formidable alien fortress. Inspired by the unique style of Bob Pepper, this artwork showcases a futuristic and otherworldly scene that combines elements of power, protection, and adventure.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            "output": "An imaginative landscape featuring a futuristic alien riot police robot riding an alien-like deer in a scene reminiscent of Bob Pepper's style. The backdrop is an alien martial landscape, creating a surreal and captivating image of a unique and otherworldly encounter.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:25:33.243047",
+    "enhanced_at": "2024-03-27 19:26:16.523017",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.264512",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.267732",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien Martial landscape",
     "metadata": {
         "element": "riot police robot",
         "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "rhino",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
+            "element": "futuristic alien",
             "backdrop": "alien"
         }
     },
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Defender of the Alien Fortress"
+    "title": "Futuristic Alien Riot Police Robot Mounted on Alien Deer in Alien Martial Landscape"
 }
