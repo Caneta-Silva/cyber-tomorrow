@@ -1,44 +1,44 @@
 {
-    "prompt": "This stunning image portrays an otherworldly figure dressed in ornate military attire reminiscent of a paladin. Inspired by the surreal and dreamlike style of renowned artist Rafal Olbinski, the alien warrior exudes a sense of nobility and power as they stand guard in a mystical landscape. Rich colors and intricate details bring this celestial guardian to life, capturing a sense of mystery and wonder in this captivating scene.",
+    "prompt": "An imaginative scene depicting a futuristic alien riot police robot mounted on an exotic alien-like camel, set against the backdrop of a captivating and otherworldly martial landscape. The artwork is inspired by the style of renowned artist Bob Pepper, showcasing a fusion of sci-fi, alien aesthetics, and action-packed drama.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "This stunning image portrays an otherworldly figure dressed in ornate military attire reminiscent of a paladin. Inspired by the surreal and dreamlike style of renowned artist Rafal Olbinski, the alien warrior exudes a sense of nobility and power as they stand guard in a mystical landscape. Rich colors and intricate details bring this celestial guardian to life, capturing a sense of mystery and wonder in this captivating scene.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+            "output": "An imaginative scene depicting a futuristic alien riot police robot mounted on an exotic alien-like camel, set against the backdrop of a captivating and otherworldly martial landscape. The artwork is inspired by the style of renowned artist Bob Pepper, showcasing a fusion of sci-fi, alien aesthetics, and action-packed drama.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 22:40:22.950027",
+    "enhanced_at": "2024-03-27 22:41:12.094962",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.338337",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.267222",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Celestial Guardian: An Alien Paladin in the Style of Rafal Olbinski"
+    "title": "Futuristic Alien Riot Police Robot on Alien Camel in Martial Landscape"
 }
