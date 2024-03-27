@@ -1,29 +1,29 @@
 {
-    "prompt": "Enjoy this stunning image of a futuristic riot police robot riding a creature resembling an alien deer, set against the backdrop of a majestic alien spaceship. This artwork combines elements of sci-fi and fantasy, transporting you to a mesmerizing otherworldly landscape.",
+    "prompt": "Immerse yourself in a stunning landscape featuring a futuristic alien paladin military, exquisitely crafted in the iconic style reminiscent of Wally Wood. Witness the blend of advanced technology and noble warrior spirit as the alien paladins stand ready for battle in a visually captivating scene that captures the essence of otherworldly heroism.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien spaceship",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien spaceship",
-            "output": "Enjoy this stunning image of a futuristic riot police robot riding a creature resembling an alien deer, set against the backdrop of a majestic alien spaceship. This artwork combines elements of sci-fi and fantasy, transporting you to a mesmerizing otherworldly landscape.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+            "output": "Immerse yourself in a stunning landscape featuring a futuristic alien paladin military, exquisitely crafted in the iconic style reminiscent of Wally Wood. Witness the blend of advanced technology and noble warrior spirit as the alien paladins stand ready for battle in a visually captivating scene that captures the essence of otherworldly heroism.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:03:46.843462",
+    "enhanced_at": "2024-03-27 19:24:13.632673",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.259273",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like deer in the style of Bob Pepper against the backdrop of a alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.306657",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Bob Pepper",
+        "element": "paladin style military",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "deer",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "futuristic alien",
             "backdrop": "alien"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Riot Police Robot Riding Alien Deer in Front of Alien Spaceship"
+    "title": "Futuristic Alien Paladin: A Wally Wood Inspired Artwork"
 }
