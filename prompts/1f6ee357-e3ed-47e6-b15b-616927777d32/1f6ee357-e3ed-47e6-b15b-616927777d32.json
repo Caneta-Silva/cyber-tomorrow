@@ -1,44 +1,44 @@
 {
-    "prompt": "Inspired by the style of renowned artist John Schoenherr, this image features a landscape view of a futuristic alien paladin military. The soldiers are depicted in a sleek and advanced armor design, blending elements of technology and ancient warrior aesthetics. The scene captures a sense of honor, strength, and otherworldly prowess as they stand amidst a unique and alien landscape.",
+    "prompt": "A stunning and captivating image depicting an alien riot police robot mounted on a majestic alien-like rhino, set against the backdrop of a formidable alien fortress. Inspired by the unique style of Bob Pepper, this artwork showcases a futuristic and otherworldly scene that combines elements of power, protection, and adventure.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
-            "output": "Inspired by the style of renowned artist John Schoenherr, this image features a landscape view of a futuristic alien paladin military. The soldiers are depicted in a sleek and advanced armor design, blending elements of technology and ancient warrior aesthetics. The scene captures a sense of honor, strength, and otherworldly prowess as they stand amidst a unique and alien landscape.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
+            "output": "A stunning and captivating image depicting an alien riot police robot mounted on a majestic alien-like rhino, set against the backdrop of a formidable alien fortress. Inspired by the unique style of Bob Pepper, this artwork showcases a futuristic and otherworldly scene that combines elements of power, protection, and adventure.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:24:52.747168",
+    "enhanced_at": "2024-03-27 19:25:33.243047",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.329356",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.264512",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "John Schoenherr",
+        "element": "riot police robot",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "gnu",
+        "backdrop": "fortress",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin Military"
+    "title": "Defender of the Alien Fortress"
 }
