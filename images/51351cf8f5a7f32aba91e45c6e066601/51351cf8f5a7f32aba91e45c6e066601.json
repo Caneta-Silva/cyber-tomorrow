@@ -1,0 +1,60 @@
+{
+    "id": "51351cf8f5a7f32aba91e45c6e066601",
+    "title": "Futuristic Alien Riot Police Robot on Alien Horse",
+    "description": "Picture a captivating futuristic scene. An alien riot police robot, coated in luminescent silver, sits mounted on an otherworldly horse that seems to glow with an eerie light. The horse and its metallic rider are set against the backdrop of a magnificent fortress of the future, replete with towering spires and glowing neon accents. The scene recalls the thrilling dynamism and compelling complexity of comic illustrations from the mid-20th century, a fusion of the gleaming sophistication of technologically advanced elements with the raw, primordial aura of mythical creatures. This riveting juxtaposition of the advanced technology of a sci-fi future with the mythical ancientness forms the heart of this image.",
+    "created": "2024-03-27 18:52:27.746243",
+    "prompt": {
+        "prompt": "Picture a captivating futuristic scene. An alien riot police robot, coated in luminescent silver, sits mounted on an otherworldly horse that seems to glow with an eerie light. The horse and its metallic rider are set against the backdrop of a magnificent fortress of the future, replete with towering spires and glowing neon accents. The scene recalls the thrilling dynamism and compelling complexity of comic illustrations from the mid-20th century, a fusion of the gleaming sophistication of technologically advanced elements with the raw, primordial aura of mythical creatures. This riveting juxtaposition of the advanced technology of a sci-fi future with the mythical ancientness forms the heart of this image.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
+                "output": "Immerse yourself in this captivating scene of a futuristic alien riot police robot mounted on an otherworldly horse, set against the backdrop of a magnificent futuristic fortress. Inspired by the iconic style of Wally Wood, this image transports you to a dynamic and thrilling sci-fi world where advanced technology meets ancient creatures.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in this captivating scene of a futuristic alien riot police robot mounted on an otherworldly horse, set against the backdrop of a magnificent futuristic fortress. Inspired by the iconic style of Wally Wood, this image transports you to a dynamic and thrilling sci-fi world where advanced technology meets ancient creatures.",
+                "output": "Picture a captivating futuristic scene. An alien riot police robot, coated in luminescent silver, sits mounted on an otherworldly horse that seems to glow with an eerie light. The horse and its metallic rider are set against the backdrop of a magnificent fortress of the future, replete with towering spires and glowing neon accents. The scene recalls the thrilling dynamism and compelling complexity of comic illustrations from the mid-20th century, a fusion of the gleaming sophistication of technologically advanced elements with the raw, primordial aura of mythical creatures. This riveting juxtaposition of the advanced technology of a sci-fi future with the mythical ancientness forms the heart of this image.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-27 18:52:24.879517",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-27 18:51:33.006384",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.255169",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot on Alien Horse"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-GGPBB6OuUFY0Vm70srGvDeat.png?st=2024-03-27T17%3A52%3A23Z&se=2024-03-27T19%3A52%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A38%3A30Z&ske=2024-03-28T17%3A38%3A30Z&sks=b&skv=2021-08-06&sig=8SqW0%2Bx5UFoHspMn2tlYl0d2K3ib8IrSYRtDBsv/6yA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/51351cf8f5a7f32aba91e45c6e066601/51351cf8f5a7f32aba91e45c6e066601.jpg"
+    },
+    "tags": []
+}
