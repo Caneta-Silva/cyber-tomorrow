@@ -1,29 +1,29 @@
 {
-    "prompt": "A stunning image depicting an alien riot police robot riding on an alien-like rhino through a surreal martial landscape on an alien planet. The artwork is inspired by the unique style of renowned artist Bob Pepper, showcasing a futuristic and otherworldly scene of law enforcement in a far-off galaxy.",
+    "prompt": "Immerse yourself in a futuristic world as you gaze upon this stunning landscape depicting an alien riot police robot designed in the classic style of Wally Wood. Prepare to be awe-struck by the intricate details and dynamic composition of this otherworldly creation.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien Martial landscape",
-            "output": "A stunning image depicting an alien riot police robot riding on an alien-like rhino through a surreal martial landscape on an alien planet. The artwork is inspired by the unique style of renowned artist Bob Pepper, showcasing a futuristic and otherworldly scene of law enforcement in a far-off galaxy.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
+            "output": "Immerse yourself in a futuristic world as you gaze upon this stunning landscape depicting an alien riot police robot designed in the classic style of Wally Wood. Prepare to be awe-struck by the intricate details and dynamic composition of this otherworldly creation.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:33:10.647925",
+    "enhanced_at": "2024-03-27 19:43:30.813414",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.263786",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.308858",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
     "metadata": {
         "element": "riot police robot",
-        "style": "Bob Pepper",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "fortress",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
+            "element": "futuristic alien",
             "backdrop": "alien"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Enforcers: Alien Riot Police Robot and Rhino in Bob Pepper Style"
+    "title": "Futuristic Alien Riot Police Robot in Wally Wood Style"
 }
