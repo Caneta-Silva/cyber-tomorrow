@@ -1,29 +1,29 @@
 {
-    "prompt": "Immerse yourself in this stunning image featuring a futuristic alien paladin, adorned in military gear, riding atop an otherworldly camel. The scene unfolds against the backdrop of a grand and imposing futuristic fortress, echoing the iconic style of renowned artist Bob Pepper. Let your imagination soar as you delve into this mesmerizing landscape that blends fantasy and sci-fi elements seamlessly.",
+    "prompt": "Immerse yourself in a fantastical world where a majestic alien paladin, clad in futuristic military armor, rides atop a magnificent alien deer through a breathtaking landscape. The artwork, inspired by the iconic style of Wally Wood, showcases a blend of nature and technology in a futuristic setting, creating a stunning visual experience.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
-            "output": "Immerse yourself in this stunning image featuring a futuristic alien paladin, adorned in military gear, riding atop an otherworldly camel. The scene unfolds against the backdrop of a grand and imposing futuristic fortress, echoing the iconic style of renowned artist Bob Pepper. Let your imagination soar as you delve into this mesmerizing landscape that blends fantasy and sci-fi elements seamlessly.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "output": "Immerse yourself in a fantastical world where a majestic alien paladin, clad in futuristic military armor, rides atop a magnificent alien deer through a breathtaking landscape. The artwork, inspired by the iconic style of Wally Wood, showcases a blend of nature and technology in a futuristic setting, creating a stunning visual experience.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 19:31:44.067855",
+    "enhanced_at": "2024-03-27 19:32:26.209598",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.265848",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like camel in the style of Bob Pepper against the backdrop of a futuristic fortress",
+    "seeded_at": "2024-03-19 01:00:55.248704",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
     "metadata": {
         "element": "paladin style military",
-        "style": "Bob Pepper",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "camel",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "alien",
             "backdrop": "futuristic"
         }
     },
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin on Alien Camel at Fortified Outpost"
+    "title": "Galactic Guardian: Alien Paladin Riding on Alien Deer in Futuristic Martial Landscape"
 }
