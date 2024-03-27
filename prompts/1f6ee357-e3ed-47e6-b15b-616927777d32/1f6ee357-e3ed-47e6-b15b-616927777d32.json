@@ -1,26 +1,26 @@
 {
-    "prompt": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
+    "prompt": "An awe-inspiring digital painting of a futuristic paladin-style military standing proudly in a landscape, echoing the surreal and dreamlike artistry of Rafal Olbinski. The image captures a blend of futuristic technology with ancient knightly aesthetics, creating a striking and mythical vision of a warrior from a distant future.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
         "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
         {
             "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
-            "output": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
+            "output": "An awe-inspiring digital painting of a futuristic paladin-style military standing proudly in a landscape, echoing the surreal and dreamlike artistry of Rafal Olbinski. The image captures a blend of futuristic technology with ancient knightly aesthetics, creating a striking and mythical vision of a warrior from a distant future.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 22:29:16.359939",
+    "enhanced_at": "2024-03-27 22:39:34.706194",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.333752",
+    "seeded_at": "2024-03-19 01:00:55.333538",
     "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
     "metadata": {
         "element": "paladin style military",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "deer",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Paladin Military Landscape"
+    "title": "Futuristic Paladin Military in the Style of Rafal Olbinski"
 }
