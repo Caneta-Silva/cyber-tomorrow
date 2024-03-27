@@ -1,0 +1,60 @@
+{
+    "id": "465aef8b9a5d29a5d5d16922817e72e3",
+    "title": "Futuristic Paladin Military in the Style of Bob Pepper",
+    "description": "Visualize a futuristic image capturing a squad of paladins in a high-tech urban environment, surrounded by towering skyscrapers and advanced technology. The paladins don an armor reflecting light in an iridescent manner and carry powerful weapons signifying their might. Though this imagery combines elements of fantasy and science fiction, it doesn't correspond to any specific artist's style. The scene should provoke feelings of awe and wonder, blending the familiar with the unknown, and merging past and future in an interesting interplay.",
+    "created": "2024-03-27 21:30:33.592106",
+    "prompt": {
+        "prompt": "Visualize a futuristic image capturing a squad of paladins in a high-tech urban environment, surrounded by towering skyscrapers and advanced technology. The paladins don an armor reflecting light in an iridescent manner and carry powerful weapons signifying their might. Though this imagery combines elements of fantasy and science fiction, it doesn't correspond to any specific artist's style. The scene should provoke feelings of awe and wonder, blending the familiar with the unknown, and merging past and future in an interesting interplay.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+                "output": "This stunning image depicts a futuristic paladin military unit in the iconic style of Bob Pepper. The landscape is filled with towering skyscrapers and advanced technology, while the paladins don gleaming armor and wield powerful weapons. A true blend of fantasy and sci-fi, this artwork evokes a sense of awe and wonder.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This stunning image depicts a futuristic paladin military unit in the iconic style of Bob Pepper. The landscape is filled with towering skyscrapers and advanced technology, while the paladins don gleaming armor and wield powerful weapons. A true blend of fantasy and sci-fi, this artwork evokes a sense of awe and wonder.",
+                "output": "Visualize a futuristic image capturing a squad of paladins in a high-tech urban environment, surrounded by towering skyscrapers and advanced technology. The paladins don an armor reflecting light in an iridescent manner and carry powerful weapons signifying their might. Though this imagery combines elements of fantasy and science fiction, it doesn't correspond to any specific artist's style. The scene should provoke feelings of awe and wonder, blending the familiar with the unknown, and merging past and future in an interesting interplay.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-27 21:30:31.571270",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-27 21:29:33.658920",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.310287",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Military in the Style of Bob Pepper"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-qVA8KT3qX49DJERBTQKOWPh7.png?st=2024-03-27T20%3A30%3A29Z&se=2024-03-27T22%3A30%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A41%3A37Z&ske=2024-03-28T17%3A41%3A37Z&sks=b&skv=2021-08-06&sig=ef6hhEEKZOzjtFG69b3y7JTs47n4B9rapZcGtpuCQ5A%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/465aef8b9a5d29a5d5d16922817e72e3/465aef8b9a5d29a5d5d16922817e72e3.jpg"
+    },
+    "tags": []
+}
