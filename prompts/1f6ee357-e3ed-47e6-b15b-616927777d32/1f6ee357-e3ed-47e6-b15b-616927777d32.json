@@ -1,44 +1,44 @@
 {
-    "prompt": "This stunning image depicts a futuristic paladin military unit in the iconic style of Bob Pepper. The landscape is filled with towering skyscrapers and advanced technology, while the paladins don gleaming armor and wield powerful weapons. A true blend of fantasy and sci-fi, this artwork evokes a sense of awe and wonder.",
+    "prompt": "This stunning image depicts a futuristic alien paladin in the iconic style of Wally Wood. The alien warrior stands in impressive full body armor against the backdrop of a futuristic spaceship, exuding power and strength. With intricate detailing and dynamic composition, this artwork perfectly captures the essence of a sci-fi military hero from another world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
-            "output": "This stunning image depicts a futuristic paladin military unit in the iconic style of Bob Pepper. The landscape is filled with towering skyscrapers and advanced technology, while the paladins don gleaming armor and wield powerful weapons. A true blend of fantasy and sci-fi, this artwork evokes a sense of awe and wonder.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+            "output": "This stunning image depicts a futuristic alien paladin in the iconic style of Wally Wood. The alien warrior stands in impressive full body armor against the backdrop of a futuristic spaceship, exuding power and strength. With intricate detailing and dynamic composition, this artwork perfectly captures the essence of a sci-fi military hero from another world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 21:29:33.658920",
+    "enhanced_at": "2024-03-27 22:26:58.450410",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.310287",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.356552",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
     "metadata": {
         "element": "paladin style military",
-        "style": "Bob Pepper",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
         "backdrop": "spaceship",
-        "animal": "horse",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military in the Style of Bob Pepper"
+    "title": "Futuristic Alien Paladin in Wally Wood Style"
 }
