@@ -1,29 +1,29 @@
 {
-    "prompt": "Immerse yourself in a captivating landscape featuring a futuristic alien paladin military, inspired by the unique artistic style of Bob Pepper. This stunning image showcases the essence of otherworldly strength and honor, with intricate details that transport you to a realm beyond imagination.",
+    "prompt": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
-            "output": "Immerse yourself in a captivating landscape featuring a futuristic alien paladin military, inspired by the unique artistic style of Bob Pepper. This stunning image showcases the essence of otherworldly strength and honor, with intricate details that transport you to a realm beyond imagination.",
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+            "output": "Experience a stunning landscape featuring a futuristic paladin style military inspired by the stylings of renowned artist Rafal Olbinski. Vibrant colors and dynamic composition come together to create a captivating visual journey through a world where ancient warrior traditions meet cutting-edge technology.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-27 22:28:32.492741",
+    "enhanced_at": "2024-03-27 22:29:16.359939",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.318247",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.333752",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
     "metadata": {
         "element": "paladin style military",
-        "style": "Bob Pepper",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "gnu",
+        "backdrop": "spaceship",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "futuristic",
             "backdrop": "futuristic"
         }
     },
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin Military Landscape"
+    "title": "Futuristic Paladin Military Landscape"
 }
