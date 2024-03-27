@@ -1,0 +1,60 @@
+{
+    "id": "7ad0e20d0f8a9cda54b4de308bef0176",
+    "title": "Galactic Guardian: An Alien Paladin in the Style of Rafal Olbinski",
+    "description": "Create a visually striking image featuring a sci-fi themed warrior dressed in paladin-style military armor, standing as a symbol of protection and strength. The armor should be intricate, reflecting both elegance and formidable power. Set this warrior against a surreal and vibrant landscape inspired by surrealist art movements of the 19th century, primarily using mediums like oil, charcoal, and canvas. This landscape should be dreamlike, comprising swirling colors and imaginative shapes, transposing the viewer to an awe-inspiring realm where elements of science fiction and fantasy intermingle seamlessly.",
+    "created": "2024-03-27 19:00:38.000518",
+    "prompt": {
+        "prompt": "Create a visually striking image featuring a sci-fi themed warrior dressed in paladin-style military armor, standing as a symbol of protection and strength. The armor should be intricate, reflecting both elegance and formidable power. Set this warrior against a surreal and vibrant landscape inspired by surrealist art movements of the 19th century, primarily using mediums like oil, charcoal, and canvas. This landscape should be dreamlike, comprising swirling colors and imaginative shapes, transposing the viewer to an awe-inspiring realm where elements of science fiction and fantasy intermingle seamlessly.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+                "output": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This striking image features an otherworldly warrior dressed in paladin-style military armor, set against a vibrant and surreal landscape inspired by the distinctive artistry of Rafal Olbinski. The Galactic Guardian stands tall as a symbol of protection and strength, with an intricately designed armor that reflects both elegance and formidable power. The background showcases a dream-like world with swirling colors and imaginative shapes, transporting the viewer to a fantastical realm where science fiction and fantasy merge seamlessly.",
+                "output": "Create a visually striking image featuring a sci-fi themed warrior dressed in paladin-style military armor, standing as a symbol of protection and strength. The armor should be intricate, reflecting both elegance and formidable power. Set this warrior against a surreal and vibrant landscape inspired by surrealist art movements of the 19th century, primarily using mediums like oil, charcoal, and canvas. This landscape should be dreamlike, comprising swirling colors and imaginative shapes, transposing the viewer to an awe-inspiring realm where elements of science fiction and fantasy intermingle seamlessly.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-27 19:00:35.621669",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-27 18:59:49.486266",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.338501",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Guardian: An Alien Paladin in the Style of Rafal Olbinski"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-qKae4euHPXRppQPmJ6OcbhIz.png?st=2024-03-27T18%3A00%3A34Z&se=2024-03-27T20%3A00%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A50%3A26Z&ske=2024-03-28T17%3A50%3A26Z&sks=b&skv=2021-08-06&sig=Frn%2BxJsVcW4P3QyHsN7tPBzqV1NCZLMJeaE93dqvMZw%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7ad0e20d0f8a9cda54b4de308bef0176/7ad0e20d0f8a9cda54b4de308bef0176.jpg"
+    },
+    "tags": []
+}
