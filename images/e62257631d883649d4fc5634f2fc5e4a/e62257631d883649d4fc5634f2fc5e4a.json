@@ -1,0 +1,60 @@
+{
+    "id": "e62257631d883649d4fc5634f2fc5e4a",
+    "title": "Galactic Defender: Alien Paladin on Gnu",
+    "description": "Create a visually stunning image of a futuristic character, evoking the idea of a paladin from another world. Their attire should consist of advanced extraterrestrial armor, equipped with high-tech weapons, while gallantly riding an extraordinary alien gnu. In the background, a large, cutting-edge spaceship that exudes a future technological era should be visible, resulting in a vivid juxtaposition of traditional-ridden creature with modernized machinery. Capture the image with bold line work, high contrast, and a focus on intricate technological details \u2014 reminiscent of mid-20th-century science fiction comic art but not imitating any specific artist. Set the mood to be a harmonious blend of conventional and extraterrestrial elements.",
+    "created": "2024-03-27 18:56:34.051694",
+    "prompt": {
+        "prompt": "Create a visually stunning image of a futuristic character, evoking the idea of a paladin from another world. Their attire should consist of advanced extraterrestrial armor, equipped with high-tech weapons, while gallantly riding an extraordinary alien gnu. In the background, a large, cutting-edge spaceship that exudes a future technological era should be visible, resulting in a vivid juxtaposition of traditional-ridden creature with modernized machinery. Capture the image with bold line work, high contrast, and a focus on intricate technological details \u2014 reminiscent of mid-20th-century science fiction comic art but not imitating any specific artist. Set the mood to be a harmonious blend of conventional and extraterrestrial elements.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+                "output": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
+                "type": "enhanced"
+            },
+            {
+                "input": "A stunning image depicting a futuristic alien paladin, clad in advanced armor and armed with high-tech weaponry, riding a majestic alien gnu into battle. The scene is set against the backdrop of a massive futuristic spaceship, creating a striking contrast between ancient mount and modern technology. Inspired by the style of Wally Wood, this artwork captures the blend of traditional and sci-fi elements in a visually captivating way.",
+                "output": "Create a visually stunning image of a futuristic character, evoking the idea of a paladin from another world. Their attire should consist of advanced extraterrestrial armor, equipped with high-tech weapons, while gallantly riding an extraordinary alien gnu. In the background, a large, cutting-edge spaceship that exudes a future technological era should be visible, resulting in a vivid juxtaposition of traditional-ridden creature with modernized machinery. Capture the image with bold line work, high contrast, and a focus on intricate technological details \u2014 reminiscent of mid-20th-century science fiction comic art but not imitating any specific artist. Set the mood to be a harmonious blend of conventional and extraterrestrial elements.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-03-27 18:56:29.788917",
+        "revised_prompt": true,
+        "enhanced_at": "2024-03-27 18:55:35.154942",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.253297",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Galactic Defender: Alien Paladin on Gnu"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-88xjbnCDGjhDj8hxhPXnLIKd.png?st=2024-03-27T17%3A56%3A28Z&se=2024-03-27T19%3A56%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A37%3A54Z&ske=2024-03-28T17%3A37%3A54Z&sks=b&skv=2021-08-06&sig=UmFRWqZqDMLId/Io0Uv0qmgB5FLexrh9/d3ULIbM2NE%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/e62257631d883649d4fc5634f2fc5e4a/e62257631d883649d4fc5634f2fc5e4a.jpg"
+    },
+    "tags": []
+}
