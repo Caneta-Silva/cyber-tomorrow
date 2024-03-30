@@ -1,0 +1,55 @@
+{
+    "id": "ed56c60b9015b1b610503446242a33a0",
+    "title": "Futuristic Paladin Military in the Style of Rafal Olbinski",
+    "description": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
+    "created": "2024-03-30 12:22:26.235733",
+    "prompt": {
+        "prompt": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+                "output": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-03-30 12:17:01.697446",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.334587",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Military in the Style of Rafal Olbinski"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-LNUAJzgagc94rmuvV8xkvO7o.png?st=2024-03-30T11%3A22%3A23Z&se=2024-03-30T13%3A22%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-30T00%3A11%3A11Z&ske=2024-03-31T00%3A11%3A11Z&sks=b&skv=2021-08-06&sig=xpLsc80VY4Vq%2BBogJboXG5%2BEmj9P86cSvPfgJUtq3u0%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ed56c60b9015b1b610503446242a33a0/ed56c60b9015b1b610503446242a33a0.jpg"
+    },
+    "tags": []
+}
