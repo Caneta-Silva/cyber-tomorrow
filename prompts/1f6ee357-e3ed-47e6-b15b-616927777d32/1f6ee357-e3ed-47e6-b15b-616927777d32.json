@@ -1,44 +1,44 @@
 {
-    "prompt": "A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.",
+    "prompt": "This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+        "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
-            "output": "A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
+            "output": "This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-30 12:15:20.733912",
+    "enhanced_at": "2024-03-30 12:16:09.829794",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.267249",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.303448",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Bob Pepper",
+        "element": "paladin style military",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "spaceship",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Riot Police Robot on Alien Rhino in Martial Landscape"
+    "title": "Galactic Warrior: Alien Paladin in Wally Wood Style"
 }
