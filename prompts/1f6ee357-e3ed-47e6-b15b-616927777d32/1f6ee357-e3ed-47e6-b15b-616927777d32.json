@@ -1,29 +1,29 @@
 {
-    "prompt": "This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.",
+    "prompt": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
+        "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
-            "output": "This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.",
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+            "output": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-30 12:16:09.829794",
+    "enhanced_at": "2024-03-30 12:17:01.697446",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.303448",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Wally Wood",
+    "seeded_at": "2024-03-19 01:00:55.334587",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
     "metadata": {
         "element": "paladin style military",
-        "style": "Wally Wood",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
+            "element": "futuristic",
             "backdrop": "alien"
         }
     },
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Warrior: Alien Paladin in Wally Wood Style"
+    "title": "Futuristic Paladin Military in the Style of Rafal Olbinski"
 }
