@@ -1,30 +1,30 @@
 {
-    "prompt": "This image portrays a majestic alien riot police robot standing proudly amidst the backdrop of an alien fortress. Inspired by the style of Rafal Olbinski, the robot exudes power and authority as it watches over the futuristic landscape.",
+    "prompt": "A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
-            "output": "This image portrays a majestic alien riot police robot standing proudly amidst the backdrop of an alien fortress. Inspired by the style of Rafal Olbinski, the robot exudes power and authority as it watches over the futuristic landscape.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+            "output": "A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-30 12:14:33.013047",
+    "enhanced_at": "2024-03-30 12:15:20.733912",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.390003",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.267249",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
     "metadata": {
         "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "camel",
+        "backdrop": "Martial landscape",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
+            "element": true,
             "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Guardian of the Alien Fortress"
+    "title": "Futuristic Alien Riot Police Robot on Alien Rhino in Martial Landscape"
 }
