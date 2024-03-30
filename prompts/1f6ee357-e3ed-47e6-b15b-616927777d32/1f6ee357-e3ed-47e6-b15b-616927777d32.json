@@ -1,30 +1,30 @@
 {
-    "prompt": "A stunning image showcasing a futuristic paladin style military standing tall in front of a futuristic fortress. The scene is reminiscent of Wally Wood's iconic style, with intricate details and a sense of grandeur. The landscape is a mix of advanced technology and ancient knightly elements, creating a captivating and visually striking composition.",
+    "prompt": "This image portrays a majestic alien riot police robot standing proudly amidst the backdrop of an alien fortress. Inspired by the style of Rafal Olbinski, the robot exudes power and authority as it watches over the futuristic landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
+        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
-            "output": "A stunning image showcasing a futuristic paladin style military standing tall in front of a futuristic fortress. The scene is reminiscent of Wally Wood's iconic style, with intricate details and a sense of grandeur. The landscape is a mix of advanced technology and ancient knightly elements, creating a captivating and visually striking composition.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "output": "This image portrays a majestic alien riot police robot standing proudly amidst the backdrop of an alien fortress. Inspired by the style of Rafal Olbinski, the robot exudes power and authority as it watches over the futuristic landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-30 12:13:42.057051",
+    "enhanced_at": "2024-03-30 12:14:33.013047",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.349615",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic fortress",
+    "seeded_at": "2024-03-19 01:00:55.390003",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Wally Wood",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "fortress",
-        "animal": "deer",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military Landscape"
+    "title": "Guardian of the Alien Fortress"
 }
