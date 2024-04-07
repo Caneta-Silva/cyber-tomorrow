@@ -1,0 +1,55 @@
+{
+    "id": "64669049b78242c9ebbe716f097fd469",
+    "title": "Galactic Riot Police on Alien Gnu",
+    "description": "A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.",
+    "created": "2024-04-07 19:18:22.027262",
+    "prompt": {
+        "prompt": "A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+                "output": "A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-04-07 19:07:41.773062",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.288468",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Galactic Riot Police on Alien Gnu"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-O0MApEkQ4JhF6TBwDKNlCWkG.png?st=2024-04-07T17%3A18%3A17Z&se=2024-04-07T19%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A08%3A21Z&ske=2024-04-08T00%3A08%3A21Z&sks=b&skv=2021-08-06&sig=/eu7IY5wBAlsLHP3jw9KxU3JPf6pECQaeyfTzpTTHnk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/64669049b78242c9ebbe716f097fd469/64669049b78242c9ebbe716f097fd469.jpg"
+    },
+    "tags": []
+}
