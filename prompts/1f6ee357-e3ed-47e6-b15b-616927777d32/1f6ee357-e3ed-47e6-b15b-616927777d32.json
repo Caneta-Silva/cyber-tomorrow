@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in an alien realm where a paladin-style military leader rides a majestic alien horse against the impressive backdrop of an otherworldly fortress. This futuristic landscape, reminiscent of Wally Wood's iconic style, captivates with its blend of technology and mystique, promising an epic tale of interstellar conflict and valor.",
+    "prompt": "Immerse yourself in a world of futuristic warfare as you behold a majestic landscape featuring alien paladins adorned in advanced military attire, inspired by the legendary artist John Schoenherr. Witness the harmonious blend of high-tech weaponry, ancient warrior traditions, and otherworldly landscapes in this captivating piece of art.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
-            "output": "Immerse yourself in an alien realm where a paladin-style military leader rides a majestic alien horse against the impressive backdrop of an otherworldly fortress. This futuristic landscape, reminiscent of Wally Wood's iconic style, captivates with its blend of technology and mystique, promising an epic tale of interstellar conflict and valor.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
+            "output": "Immerse yourself in a world of futuristic warfare as you behold a majestic landscape featuring alien paladins adorned in advanced military attire, inspired by the legendary artist John Schoenherr. Witness the harmonious blend of high-tech weaponry, ancient warrior traditions, and otherworldly landscapes in this captivating piece of art.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:15:32.286534",
+    "enhanced_at": "2024-04-07 19:16:07.452968",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.250244",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.329298",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr",
     "metadata": {
         "element": "paladin style military",
-        "style": "Wally Wood",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "horse",
+        "backdrop": "spaceship",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Clash of Alien Worlds"
+    "title": "Futuristic Alien Paladin Military in the Style of John Schoenherr"
 }
