@@ -1,29 +1,29 @@
 {
-    "prompt": "Experience the awe-inspiring sight of a futuristic paladin-style military unit, depicted in the iconic artistic style reminiscent of Bob Pepper. Marvel at the intricate details of their advanced armor and weaponry set against a stunning landscape, transporting you to a world where honor and technological prowess unite.",
+    "prompt": "A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
-            "output": "Experience the awe-inspiring sight of a futuristic paladin-style military unit, depicted in the iconic artistic style reminiscent of Bob Pepper. Marvel at the intricate details of their advanced armor and weaponry set against a stunning landscape, transporting you to a world where honor and technological prowess unite.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+            "output": "A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:07:05.464347",
+    "enhanced_at": "2024-04-07 19:07:41.773062",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.309830",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.288468",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
+        "backdrop": "Martial landscape",
         "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "alien",
             "backdrop": "futuristic"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military Landscape"
+    "title": "Galactic Riot Police on Alien Gnu"
 }
