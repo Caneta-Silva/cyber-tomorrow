@@ -1,44 +1,44 @@
 {
-    "prompt": "Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.",
+    "prompt": "A captivating image inspired by the style of Rafal Olbinski, showcasing a futuristic paladin in military armor mounted on an alien-like deer. The scene is set against a backdrop of a surreal and mesmerizing futuristic alien martial landscape, creating a striking contrast between futuristic technology and otherworldly aesthetics.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
-            "output": "Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.",
+            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+            "output": "A captivating image inspired by the style of Rafal Olbinski, showcasing a futuristic paladin in military armor mounted on an alien-like deer. The scene is set against a backdrop of a surreal and mesmerizing futuristic alien martial landscape, creating a striking contrast between futuristic technology and otherworldly aesthetics.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:08:53.787888",
+    "enhanced_at": "2024-04-07 19:09:31.957397",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.340946",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.283236",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
     "metadata": {
         "element": "paladin style military",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "giraffe",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin: A Vision of Military Majesty"
+    "title": "Futuristic Paladin in Alien Martial Landscape"
 }
