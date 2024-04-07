@@ -1,0 +1,56 @@
+{
+    "id": "9a4e353a86625f4c1f014c79bc365c5e",
+    "title": "Futuristic Alien Paladin Military in the Landscape",
+    "description": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
+    "created": "2024-04-08 00:10:49.616692",
+    "prompt": {
+        "prompt": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+                "output": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-04-08 00:10:00.916352",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.376662",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin Military in the Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-pdByBcUal94GmDR2XCCj1ezM.png?st=2024-04-07T22%3A10%3A45Z&se=2024-04-08T00%3A10%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A56%3A55Z&ske=2024-04-07T23%3A56%3A55Z&sks=b&skv=2021-08-06&sig=kC99RoTg7j4N0dZkaE9aKg4H1rqgvOk8%2BlQYKjFZ7%2B8%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9a4e353a86625f4c1f014c79bc365c5e/9a4e353a86625f4c1f014c79bc365c5e.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
