@@ -1,29 +1,29 @@
 {
-    "prompt": "Immerse yourself in a scene of wonder and imagination with this stunning image of a futuristic paladin riding an alien-like giraffe across a captivating alien martial landscape. The intricate details and dynamic composition draw you into a unique world where science fiction meets fantasy, created in the style reminiscent of artist Bob Pepper. Let your imagination soar as you explore the synergy between futuristic armor, mystical creatures, and otherworldly environments in this captivating artwork.",
+    "prompt": "An epic scene showcasing a futuristic alien riot police robot standing tall amidst an otherworldly martial landscape. The artwork is inspired by the iconic style of artist Bob Pepper, featuring vibrant colors and intricate details that capture the essence of a sci-fi adventure.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
-            "output": "Immerse yourself in a scene of wonder and imagination with this stunning image of a futuristic paladin riding an alien-like giraffe across a captivating alien martial landscape. The intricate details and dynamic composition draw you into a unique world where science fiction meets fantasy, created in the style reminiscent of artist Bob Pepper. Let your imagination soar as you explore the synergy between futuristic armor, mystical creatures, and otherworldly environments in this captivating artwork.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            "output": "An epic scene showcasing a futuristic alien riot police robot standing tall amidst an otherworldly martial landscape. The artwork is inspired by the iconic style of artist Bob Pepper, featuring vibrant colors and intricate details that capture the essence of a sci-fi adventure.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-08 00:12:46.038479",
+    "enhanced_at": "2024-04-08 00:15:53.621351",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.257340",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.367104",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
     "metadata": {
-        "element": "paladin style military",
+        "element": "riot police robot",
         "style": "Bob Pepper",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "giraffe",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "alien",
             "backdrop": "alien"
         }
     },
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin on Alien Giraffe in Alien Martial Landscape"
+    "title": "Galactic Enforcer in the Alien Martial Landscape"
 }
