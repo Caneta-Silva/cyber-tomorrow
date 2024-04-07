@@ -1,0 +1,55 @@
+{
+    "id": "ec291cdde42c2a648d6c69c7209a926c",
+    "title": "Futuristic Alien Riot Police Robot on Alien Spaceship",
+    "description": "This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other.",
+    "created": "2024-04-07 23:32:29.461960",
+    "prompt": {
+        "prompt": "This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+                "output": "This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-04-07 23:31:41.245112",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.370895",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot on Alien Spaceship"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Ba4A1lt13qFM9M3t2WoVXUP2.png?st=2024-04-07T21%3A32%3A25Z&se=2024-04-07T23%3A32%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A00%3A33Z&ske=2024-04-08T00%3A00%3A33Z&sks=b&skv=2021-08-06&sig=uO0/SpL22Bk6Dp43QkoytvyOfLpgvWNpz7z10evr0Gk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ec291cdde42c2a648d6c69c7209a926c/ec291cdde42c2a648d6c69c7209a926c.jpg"
+    },
+    "tags": []
+}
