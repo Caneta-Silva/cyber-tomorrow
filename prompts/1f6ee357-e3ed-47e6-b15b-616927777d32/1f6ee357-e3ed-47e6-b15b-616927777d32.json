@@ -1,26 +1,26 @@
 {
-    "prompt": "A stunning landscape image capturing an alien paladin style military riding on an alien-like giraffe in the artistic style reminiscent of John Schoenherr. The scene unfolds against the backdrop of a futuristic alien spaceship, blending elements of fantasy and science fiction seamlessly.",
+    "prompt": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+        "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
-            "output": "A stunning landscape image capturing an alien paladin style military riding on an alien-like giraffe in the artistic style reminiscent of John Schoenherr. The scene unfolds against the backdrop of a futuristic alien spaceship, blending elements of fantasy and science fiction seamlessly.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+            "output": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-08 00:02:24.212127",
+    "enhanced_at": "2024-04-08 00:10:00.916352",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.273860",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.376662",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
     "metadata": {
         "element": "paladin style military",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "giraffe",
+        "backdrop": "Martial landscape",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
             "element": "alien",
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military on Alien Giraffe"
+    "title": "Futuristic Alien Paladin Military in the Landscape"
 }
