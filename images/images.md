@@ -95,6 +95,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 4ee744fd3ce61096bbf23b6cb988c252 
+
+![data.id](./4ee744fd3ce61096bbf23b6cb988c252/4ee744fd3ce61096bbf23b6cb988c252.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 4ee744fd3ce61096bbf23b6cb988c252                                                                                                             |
+| **Title**           | Galactic Enforcer in the Alien Martial Landscape                                                                                                       |
+| **Description**           | An epic scene showcasing a futuristic alien riot police robot standing tall amidst an otherworldly martial landscape. The artwork is inspired by the iconic style of artist Bob Pepper, featuring vibrant colors and intricate details that capture the essence of a sci-fi adventure.                                                                                                       |
+| **CreatedAt**        | 2024-04-08 00:16:45.023527                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-jJYDIZ4hmpT7eafZ2f2TS92g.png?st=2024-04-07T22%3A16%3A40Z&se=2024-04-08T00%3A16%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A49%3A57Z&ske=2024-04-07T23%3A49%3A57Z&sks=b&skv=2021-08-06&sig=yH3zQiWaUP3q8QiBK%2BBuhi%2BJ8GvVZP0y/ZFJQXtN59w%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/4ee744fd3ce61096bbf23b6cb988c252/4ee744fd3ce61096bbf23b6cb988c252.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> An epic scene showcasing a futuristic alien riot police robot standing tall amidst an otherworldly martial landscape. The artwork is inspired by the iconic style of artist Bob Pepper, featuring vibrant colors and intricate details that capture the essence of a sci-fi adventure.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape <br> **Output:** An epic scene showcasing a futuristic alien riot police robot standing tall amidst an otherworldly martial landscape. The artwork is inspired by the iconic style of artist Bob Pepper, featuring vibrant colors and intricate details that capture the essence of a sci-fi adventure. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-08 00:15:53.621351                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 9e071c9d44c825770b48c6b08e8d7aa7 
 
 ![data.id](./9e071c9d44c825770b48c6b08e8d7aa7/9e071c9d44c825770b48c6b08e8d7aa7.jpg)
@@ -1085,6 +1117,70 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** John Schoenherr <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 70d7c18ab440455c5116a300993fa984 
+
+![data.id](./70d7c18ab440455c5116a300993fa984/70d7c18ab440455c5116a300993fa984.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 70d7c18ab440455c5116a300993fa984                                                                                                             |
+| **Title**           | The Celestial Guardian                                                                                                       |
+| **Description**           | This captivating image features an alien paladin styled military figure, standing tall and majestic in front of a futuristic fortress. The scene is painted in the mesmerizing style reminiscent of the great artist Rafal Olbinski, blending surrealism with futuristic elements to create a truly otherworldly landscape.                                                                                                       |
+| **CreatedAt**        | 2024-04-08 00:13:36.678202                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-rRKShbUiIOyELIsKNSyOtL3M.png?st=2024-04-07T22%3A13%3A32Z&se=2024-04-08T00%3A13%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T01%3A57%3A59Z&ske=2024-04-08T01%3A57%3A59Z&sks=b&skv=2021-08-06&sig=Jtj89cpnjZKWUmpa%2BSBR5A9B9b2lb57hcfuJ3gfVObM%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/70d7c18ab440455c5116a300993fa984/70d7c18ab440455c5116a300993fa984.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This captivating image features an alien paladin styled military figure, standing tall and majestic in front of a futuristic fortress. The scene is painted in the mesmerizing style reminiscent of the great artist Rafal Olbinski, blending surrealism with futuristic elements to create a truly otherworldly landscape.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic fortress <br> **Output:** This captivating image features an alien paladin styled military figure, standing tall and majestic in front of a futuristic fortress. The scene is painted in the mesmerizing style reminiscent of the great artist Rafal Olbinski, blending surrealism with futuristic elements to create a truly otherworldly landscape. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-08 00:12:08.855085                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 9a4e353a86625f4c1f014c79bc365c5e 
+
+![data.id](./9a4e353a86625f4c1f014c79bc365c5e/9a4e353a86625f4c1f014c79bc365c5e.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 9a4e353a86625f4c1f014c79bc365c5e                                                                                                             |
+| **Title**           | Futuristic Alien Paladin Military in the Landscape                                                                                                       |
+| **Description**           | An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.                                                                                                       |
+| **CreatedAt**        | 2024-04-08 00:10:49.616692                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-pdByBcUal94GmDR2XCCj1ezM.png?st=2024-04-07T22%3A10%3A45Z&se=2024-04-08T00%3A10%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A56%3A55Z&ske=2024-04-07T23%3A56%3A55Z&sks=b&skv=2021-08-06&sig=kC99RoTg7j4N0dZkaE9aKg4H1rqgvOk8%2BlQYKjFZ7%2B8%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9a4e353a86625f4c1f014c79bc365c5e/9a4e353a86625f4c1f014c79bc365c5e.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape <br> **Output:** An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-08 00:10:00.916352                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** John Schoenherr <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** camel <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 a304672c2b8fe8ebb5386d7aed25a42c 
