@@ -1,0 +1,55 @@
+{
+    "id": "6169dbc3a60980bafbf19a3f3791572b",
+    "title": "Futuristic Alien Paladin: A Vision of Bob Pepper",
+    "description": "Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.",
+    "created": "2024-04-07 19:22:51.045543",
+    "prompt": {
+        "prompt": "Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+                "output": "Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-04-07 19:14:56.871449",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.319371",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin: A Vision of Bob Pepper"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-iDjtHjFI0gBbNHRmgojObkuh.png?st=2024-04-07T17%3A22%3A46Z&se=2024-04-07T19%3A22%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A45%3A49Z&ske=2024-04-07T23%3A45%3A49Z&sks=b&skv=2021-08-06&sig=m2eu3IauYiWn8xhjktSoeNkx/LAqEzAdsw4DlDy7C2Q%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/6169dbc3a60980bafbf19a3f3791572b/6169dbc3a60980bafbf19a3f3791572b.jpg"
+    },
+    "tags": []
+}
