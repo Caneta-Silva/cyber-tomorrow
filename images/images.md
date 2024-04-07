@@ -127,6 +127,102 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
+### 📷 9cc9cb56f50a4215d8940ff4ab168ec2 
+
+![data.id](./9cc9cb56f50a4215d8940ff4ab168ec2/9cc9cb56f50a4215d8940ff4ab168ec2.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 9cc9cb56f50a4215d8940ff4ab168ec2                                                                                                             |
+| **Title**           | Futuristic Alien Paladin: A Vision of Military Majesty                                                                                                       |
+| **Description**           | Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:19:18.082231                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-4aECMpOWVA2s3XB2QrYQGfIC.png?st=2024-04-07T17%3A19%3A13Z&se=2024-04-07T19%3A19%3A13Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A53%3A10Z&ske=2024-04-07T23%3A53%3A10Z&sks=b&skv=2021-08-06&sig=STH6enXj33/3nMcAr54iXB0MkybfwkY/BZkZNE57G1c%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9cc9cb56f50a4215d8940ff4ab168ec2/9cc9cb56f50a4215d8940ff4ab168ec2.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski <br> **Output:** Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:08:53.787888                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 be2cf46df37bb1972cdb4ce76fc5c4d6 
+
+![data.id](./be2cf46df37bb1972cdb4ce76fc5c4d6/be2cf46df37bb1972cdb4ce76fc5c4d6.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | be2cf46df37bb1972cdb4ce76fc5c4d6                                                                                                             |
+| **Title**           | Futuristic Alien Riot Police Robot on Alien Rhino in Martial Landscape                                                                                                       |
+| **Description**           | A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.                                                                                                       |
+| **CreatedAt**        | 2024-03-30 12:19:55.519655                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-jug9ZKnUXk49cuy7rrx7lFwr.png?st=2024-03-30T11%3A19%3A52Z&se=2024-03-30T13%3A19%3A52Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-30T00%3A10%3A07Z&ske=2024-03-31T00%3A10%3A07Z&sks=b&skv=2021-08-06&sig=v3ecMRzEoXAo7dPXmtBWzxx4gtdrj1cCVES7MQvBspw%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/be2cf46df37bb1972cdb4ce76fc5c4d6/be2cf46df37bb1972cdb4ce76fc5c4d6.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic Martial landscape <br> **Output:** A stunning image depicting a futuristic alien riot police robot, towering atop a majestic alien-like rhino, navigating a martial landscape straight out of a sci-fi realm. The scene is brought to life in the distinctive style reminiscent of Bob Pepper's imaginative artwork, showcasing a blend of advanced technology and otherworldly elements. Get ready to be captivated by this surreal and thrilling vision of a futuristic world. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-30 12:15:20.733912                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 8185e66cc7c70db3075fabc5f1c3c8cb 
+
+![data.id](./8185e66cc7c70db3075fabc5f1c3c8cb/8185e66cc7c70db3075fabc5f1c3c8cb.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 8185e66cc7c70db3075fabc5f1c3c8cb                                                                                                             |
+| **Title**           | In the Shadow of The Future: A Futuristic Paladin in the Style of John Schoenherr                                                                                                       |
+| **Description**           | Envision a futuristic landscape depiction, featuring a powerful paladin wearing extraordinary military armor. He stands impressively against an environment filled with alien technology and a far-reaching horizon. The image brings together a blend of elements from the worlds of science fiction and classical warrior motifs, achieving a depiction that embodies strength and bravery in an undiscovered future setting. The visuals are highly detailed, pulsating with vibrant hues, similar to the aesthetic echoes in works produced by esteemed artists prior to 1912, with a particular accentuation towards grandeur and valor.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:20:22.857920                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-r7XyDQMBKdxvY1eyDLMcjXeh.png?st=2024-04-07T17%3A20%3A17Z&se=2024-04-07T19%3A20%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A04%3A30Z&ske=2024-04-08T00%3A04%3A30Z&sks=b&skv=2021-08-06&sig=nF2v7Cbr5AbB9523C2iqBJb4hi7bXn9geT0OgGhU5JY%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8185e66cc7c70db3075fabc5f1c3c8cb/8185e66cc7c70db3075fabc5f1c3c8cb.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> Envision a futuristic landscape depiction, featuring a powerful paladin wearing extraordinary military armor. He stands impressively against an environment filled with alien technology and a far-reaching horizon. The image brings together a blend of elements from the worlds of science fiction and classical warrior motifs, achieving a depiction that embodies strength and bravery in an undiscovered future setting. The visuals are highly detailed, pulsating with vibrant hues, similar to the aesthetic echoes in works produced by esteemed artists prior to 1912, with a particular accentuation towards grandeur and valor.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr <br> **Output:** This stunning landscape image depicts a futuristic paladin, adorned in breathtaking military armor, standing tall amidst a backdrop of unknown technology and a distant horizon. The intricate details and vibrant colors evoke the style and essence of renowned artist John Schoenherr, blending sci-fi elements with a classical warrior aesthetic to create a vision of strength and valor in a world yet to come. <br> **Type:** enhanced</li></ul><ul><li>**Input:** This stunning landscape image depicts a futuristic paladin, adorned in breathtaking military armor, standing tall amidst a backdrop of unknown technology and a distant horizon. The intricate details and vibrant colors evoke the style and essence of renowned artist John Schoenherr, blending sci-fi elements with a classical warrior aesthetic to create a vision of strength and valor in a world yet to come. <br> **Output:** Envision a futuristic landscape depiction, featuring a powerful paladin wearing extraordinary military armor. He stands impressively against an environment filled with alien technology and a far-reaching horizon. The image brings together a blend of elements from the worlds of science fiction and classical warrior motifs, achieving a depiction that embodies strength and bravery in an undiscovered future setting. The visuals are highly detailed, pulsating with vibrant hues, similar to the aesthetic echoes in works produced by esteemed artists prior to 1912, with a particular accentuation towards grandeur and valor. <br> **Type:** revised</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | 2024-04-07 19:20:20.778320                                                                                                                                                   |
+| **Revised Prompt** | Yes                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:10:42.928945                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** John Schoenherr <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 51351cf8f5a7f32aba91e45c6e066601 
 
 ![data.id](./51351cf8f5a7f32aba91e45c6e066601/51351cf8f5a7f32aba91e45c6e066601.jpg)
@@ -157,6 +253,38 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** horse <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 509d8dcdbcd990b9e133a440f4dddca9 
+
+![data.id](./509d8dcdbcd990b9e133a440f4dddca9/509d8dcdbcd990b9e133a440f4dddca9.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 509d8dcdbcd990b9e133a440f4dddca9                                                                                                             |
+| **Title**           | Cybernetic Enforcer: Sentinel of the Alien Martial Highlands                                                                                                       |
+| **Description**           | Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:21:57.583405                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-9VBQVSSK820HrLbnEzT4m9vq.png?st=2024-04-07T17%3A21%3A53Z&se=2024-04-07T19%3A21%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A52%3A20Z&ske=2024-04-07T23%3A52%3A20Z&sks=b&skv=2021-08-06&sig=IbDygG5FGR0wcCNP55utCwlB7WH%2B9cYGDJakkAvlkpo%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/509d8dcdbcd990b9e133a440f4dddca9/509d8dcdbcd990b9e133a440f4dddca9.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape <br> **Output:** Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:13:44.387771                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 59bba1ced67cac528b73598b13eef38a 
@@ -287,6 +415,134 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 64669049b78242c9ebbe716f097fd469 
+
+![data.id](./64669049b78242c9ebbe716f097fd469/64669049b78242c9ebbe716f097fd469.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 64669049b78242c9ebbe716f097fd469                                                                                                             |
+| **Title**           | Galactic Riot Police on Alien Gnu                                                                                                       |
+| **Description**           | A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:18:22.027262                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-O0MApEkQ4JhF6TBwDKNlCWkG.png?st=2024-04-07T17%3A18%3A17Z&se=2024-04-07T19%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A08%3A21Z&ske=2024-04-08T00%3A08%3A21Z&sks=b&skv=2021-08-06&sig=/eu7IY5wBAlsLHP3jw9KxU3JPf6pECQaeyfTzpTTHnk%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/64669049b78242c9ebbe716f097fd469/64669049b78242c9ebbe716f097fd469.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape <br> **Output:** A stunning image capturing an alien riot police robot mounted on a majestic alien-like gnu, set against the backdrop of a futuristic martial landscape. Inspired by the distinct style of artist Rafal Olbinski, this scene combines elements of sci-fi and surrealism to create a truly captivating visual narrative. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:07:41.773062                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 ed56c60b9015b1b610503446242a33a0 
+
+![data.id](./ed56c60b9015b1b610503446242a33a0/ed56c60b9015b1b610503446242a33a0.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | ed56c60b9015b1b610503446242a33a0                                                                                                             |
+| **Title**           | Futuristic Paladin Military in the Style of Rafal Olbinski                                                                                                       |
+| **Description**           | A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.                                                                                                       |
+| **CreatedAt**        | 2024-03-30 12:22:26.235733                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-LNUAJzgagc94rmuvV8xkvO7o.png?st=2024-03-30T11%3A22%3A23Z&se=2024-03-30T13%3A22%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-30T00%3A11%3A11Z&ske=2024-03-31T00%3A11%3A11Z&sks=b&skv=2021-08-06&sig=xpLsc80VY4Vq%2BBogJboXG5%2BEmj9P86cSvPfgJUtq3u0%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ed56c60b9015b1b610503446242a33a0/ed56c60b9015b1b610503446242a33a0.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski <br> **Output:** A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-30 12:17:01.697446                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 3b99b858a2197503d55a710cd3fa5fdf 
+
+![data.id](./3b99b858a2197503d55a710cd3fa5fdf/3b99b858a2197503d55a710cd3fa5fdf.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 3b99b858a2197503d55a710cd3fa5fdf                                                                                                             |
+| **Title**           | Galactic Warrior: Alien Paladin in Wally Wood Style                                                                                                       |
+| **Description**           | This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.                                                                                                       |
+| **CreatedAt**        | 2024-03-30 12:21:09.740539                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-0S0cDxBGXDXZxIAHdIb2eg1z.png?st=2024-03-30T11%3A21%3A07Z&se=2024-03-30T13%3A21%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-30T00%3A09%3A40Z&ske=2024-03-31T00%3A09%3A40Z&sks=b&skv=2021-08-06&sig=CVriqpiK/fDOrDWYmZ52v8lE9n4hdtgECnOaMcD00b8%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/3b99b858a2197503d55a710cd3fa5fdf/3b99b858a2197503d55a710cd3fa5fdf.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien paladin style military in the style of Wally Wood <br> **Output:** This stunning image showcases an otherworldly warrior in the style of Wally Wood, inspired by the blend of science fiction and fantasy. The alien paladin exudes a sense of nobility and strength, dressed in intricate armor crafted with futuristic technology. The landscape background amplifies the epic nature of this warrior, set against a surreal and captivating environment. A masterpiece that seamlessly combines elements of sci-fi and medieval military aesthetics. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-30 12:16:09.829794                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** camel <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 95cdc48823da47b34ff5d421d063ec27 
+
+![data.id](./95cdc48823da47b34ff5d421d063ec27/95cdc48823da47b34ff5d421d063ec27.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 95cdc48823da47b34ff5d421d063ec27                                                                                                             |
+| **Title**           | Futuristic Alien Paladin Military Landscape                                                                                                       |
+| **Description**           | This stunning image depicts a futuristic alien paladin military in the captivating style of Rafal Olbinski. The landscape is filled with intricate details of otherworldly armor and weapons, evoking a sense of power and majesty. The design pays homage to Olbinski's unique artistic vision while offering a fresh and imaginative take on a sci-fi warrior concept.                                                                                                       |
+| **CreatedAt**        | 2024-03-27 22:45:44.564078                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Fi9rOcoL8OIJHF2IeGcRRHuN.png?st=2024-03-27T21%3A45%3A41Z&se=2024-03-27T23%3A45%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A43%3A19Z&ske=2024-03-28T17%3A43%3A19Z&sks=b&skv=2021-08-06&sig=044mbiY2%2BcIXFJEsBzZ4QsVQ/K7er23pZinRkfWKFR4%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/95cdc48823da47b34ff5d421d063ec27/95cdc48823da47b34ff5d421d063ec27.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This stunning image depicts a futuristic alien paladin military in the captivating style of Rafal Olbinski. The landscape is filled with intricate details of otherworldly armor and weapons, evoking a sense of power and majesty. The design pays homage to Olbinski's unique artistic vision while offering a fresh and imaginative take on a sci-fi warrior concept.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski <br> **Output:** This stunning image depicts a futuristic alien paladin military in the captivating style of Rafal Olbinski. The landscape is filled with intricate details of otherworldly armor and weapons, evoking a sense of power and majesty. The design pays homage to Olbinski's unique artistic vision while offering a fresh and imaginative take on a sci-fi warrior concept. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-27 22:42:06.078656                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 e62257631d883649d4fc5634f2fc5e4a 
 
 ![data.id](./e62257631d883649d4fc5634f2fc5e4a/e62257631d883649d4fc5634f2fc5e4a.jpg)
@@ -319,6 +575,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 ec291cdde42c2a648d6c69c7209a926c 
+
+![data.id](./ec291cdde42c2a648d6c69c7209a926c/ec291cdde42c2a648d6c69c7209a926c.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | ec291cdde42c2a648d6c69c7209a926c                                                                                                             |
+| **Title**           | Futuristic Alien Riot Police Robot on Alien Spaceship                                                                                                       |
+| **Description**           | This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 23:32:29.461960                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Ba4A1lt13qFM9M3t2WoVXUP2.png?st=2024-04-07T21%3A32%3A25Z&se=2024-04-07T23%3A32%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A00%3A33Z&ske=2024-04-08T00%3A00%3A33Z&sks=b&skv=2021-08-06&sig=uO0/SpL22Bk6Dp43QkoytvyOfLpgvWNpz7z10evr0Gk%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ec291cdde42c2a648d6c69c7209a926c/ec291cdde42c2a648d6c69c7209a926c.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship <br> **Output:** This stunning image depicts a futuristic alien riot police robot standing tall against the backdrop of an alien spaceship. The robot, designed with intricate detail and bold features, exudes a powerful presence as it surveys its surroundings with vigilance. The scene is brought to life with vibrant colors and a sense of awe-inspiring wonder, transporting viewers to a sci-fi world like no other. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 23:31:41.245112                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 d24174c7d6b2d47b38811e13e3d4fa21 
 
 ![data.id](./d24174c7d6b2d47b38811e13e3d4fa21/d24174c7d6b2d47b38811e13e3d4fa21.jpg)
@@ -349,6 +637,70 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 517290d3c1d792e61b836910529e9c3c 
+
+![data.id](./517290d3c1d792e61b836910529e9c3c/517290d3c1d792e61b836910529e9c3c.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 517290d3c1d792e61b836910529e9c3c                                                                                                             |
+| **Title**           | Futuristic Paladin Military Riding Alien Elephant in Alien Martial Landscape                                                                                                       |
+| **Description**           | This captivating image features a futuristic paladin-style military figure mounted on an alien-like elephant, set against a backdrop of a surreal alien martial landscape. Inspired by the striking artistry of Rafal Olbinski, this scene transports you to a world where technology and mysticism blend seamlessly, creating a truly mesmerizing visual experience.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:21:10.387296                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-pVLQZcM6ttTbIlKcUXBGoHiV.png?st=2024-04-07T17%3A21%3A06Z&se=2024-04-07T19%3A21%3A06Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A02%3A48Z&ske=2024-04-08T00%3A02%3A48Z&sks=b&skv=2021-08-06&sig=/kSjpEkT1vLbmLNmiMd3fczePzJyFX2Qe0sN3/9Ixu8%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/517290d3c1d792e61b836910529e9c3c/517290d3c1d792e61b836910529e9c3c.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This captivating image features a futuristic paladin-style military figure mounted on an alien-like elephant, set against a backdrop of a surreal alien martial landscape. Inspired by the striking artistry of Rafal Olbinski, this scene transports you to a world where technology and mysticism blend seamlessly, creating a truly mesmerizing visual experience.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape <br> **Output:** This captivating image features a futuristic paladin-style military figure mounted on an alien-like elephant, set against a backdrop of a surreal alien martial landscape. Inspired by the striking artistry of Rafal Olbinski, this scene transports you to a world where technology and mysticism blend seamlessly, creating a truly mesmerizing visual experience. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:11:53.460903                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 751ff8ea62485578c442292d48054fc5 
+
+![data.id](./751ff8ea62485578c442292d48054fc5/751ff8ea62485578c442292d48054fc5.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 751ff8ea62485578c442292d48054fc5                                                                                                             |
+| **Title**           | Celestial Guardian: An Alien Paladin in the Style of Rafal Olbinski                                                                                                       |
+| **Description**           | This stunning image portrays an otherworldly figure dressed in ornate military attire reminiscent of a paladin. Inspired by the surreal and dreamlike style of renowned artist Rafal Olbinski, the alien warrior exudes a sense of nobility and power as they stand guard in a mystical landscape. Rich colors and intricate details bring this celestial guardian to life, capturing a sense of mystery and wonder in this captivating scene.                                                                                                       |
+| **CreatedAt**        | 2024-03-27 22:44:28.933613                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-rYBLnU3H59DRmlgAzZPEV86e.png?st=2024-03-27T21%3A44%3A25Z&se=2024-03-27T23%3A44%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A41%3A40Z&ske=2024-03-28T17%3A41%3A40Z&sks=b&skv=2021-08-06&sig=tMO/JC86iH2Q03PLe8hJSKzXwsxbMqbcY0Us7uZ3E4Y%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/751ff8ea62485578c442292d48054fc5/751ff8ea62485578c442292d48054fc5.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> This stunning image portrays an otherworldly figure dressed in ornate military attire reminiscent of a paladin. Inspired by the surreal and dreamlike style of renowned artist Rafal Olbinski, the alien warrior exudes a sense of nobility and power as they stand guard in a mystical landscape. Rich colors and intricate details bring this celestial guardian to life, capturing a sense of mystery and wonder in this captivating scene.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski <br> **Output:** This stunning image portrays an otherworldly figure dressed in ornate military attire reminiscent of a paladin. Inspired by the surreal and dreamlike style of renowned artist Rafal Olbinski, the alien warrior exudes a sense of nobility and power as they stand guard in a mystical landscape. Rich colors and intricate details bring this celestial guardian to life, capturing a sense of mystery and wonder in this captivating scene. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-27 22:40:22.950027                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
 ### 📷 7a267e279af5251d4a17ea86084a0d84 
@@ -445,6 +797,38 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 ed84100c7c5f63628c9c0b2a7d707bd4 
+
+![data.id](./ed84100c7c5f63628c9c0b2a7d707bd4/ed84100c7c5f63628c9c0b2a7d707bd4.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | ed84100c7c5f63628c9c0b2a7d707bd4                                                                                                             |
+| **Title**           | Futuristic Paladin Military in the Style of Rafal Olbinski                                                                                                       |
+| **Description**           | An awe-inspiring digital painting of a futuristic paladin-style military standing proudly in a landscape, echoing the surreal and dreamlike artistry of Rafal Olbinski. The image captures a blend of futuristic technology with ancient knightly aesthetics, creating a striking and mythical vision of a warrior from a distant future.                                                                                                       |
+| **CreatedAt**        | 2024-03-27 22:43:04.821658                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-xwqGpMDzapeflMF1GQm7ysYp.png?st=2024-03-27T21%3A43%3A02Z&se=2024-03-27T23%3A43%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-03-27T17%3A43%3A31Z&ske=2024-03-28T17%3A43%3A31Z&sks=b&skv=2021-08-06&sig=hQ4RSjIcFiL1uPCCTimFcON6m0MuHkclSFRBC0fNEdo%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/ed84100c7c5f63628c9c0b2a7d707bd4/ed84100c7c5f63628c9c0b2a7d707bd4.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> An awe-inspiring digital painting of a futuristic paladin-style military standing proudly in a landscape, echoing the surreal and dreamlike artistry of Rafal Olbinski. The image captures a blend of futuristic technology with ancient knightly aesthetics, creating a striking and mythical vision of a warrior from a distant future.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski <br> **Output:** An awe-inspiring digital painting of a futuristic paladin-style military standing proudly in a landscape, echoing the surreal and dreamlike artistry of Rafal Olbinski. The image captures a blend of futuristic technology with ancient knightly aesthetics, creating a striking and mythical vision of a warrior from a distant future. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-03-27 22:39:34.706194                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
 ### 📷 372c81fd707976890897a2b423f55e8c 
@@ -607,6 +991,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 6169dbc3a60980bafbf19a3f3791572b 
+
+![data.id](./6169dbc3a60980bafbf19a3f3791572b/6169dbc3a60980bafbf19a3f3791572b.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 6169dbc3a60980bafbf19a3f3791572b                                                                                                             |
+| **Title**           | Futuristic Alien Paladin: A Vision of Bob Pepper                                                                                                       |
+| **Description**           | Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:22:51.045543                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-iDjtHjFI0gBbNHRmgojObkuh.png?st=2024-04-07T17%3A22%3A46Z&se=2024-04-07T19%3A22%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A45%3A49Z&ske=2024-04-07T23%3A45%3A49Z&sks=b&skv=2021-08-06&sig=m2eu3IauYiWn8xhjktSoeNkx/LAqEzAdsw4DlDy7C2Q%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/6169dbc3a60980bafbf19a3f3791572b/6169dbc3a60980bafbf19a3f3791572b.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper <br> **Output:** Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:14:56.871449                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 cfbf425f212342a1071f1c1797dd44de 
 
 ![data.id](./cfbf425f212342a1071f1c1797dd44de/cfbf425f212342a1071f1c1797dd44de.jpg)
@@ -636,5 +1052,69 @@
 | **Enhanced At** | 2024-03-27 19:25:33.243047                                                                                                                                                  |
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 e883035d1b109d9613cf5fd10a03726c 
+
+![data.id](./e883035d1b109d9613cf5fd10a03726c/e883035d1b109d9613cf5fd10a03726c.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | e883035d1b109d9613cf5fd10a03726c                                                                                                             |
+| **Title**           | Futuristic Alien Paladin Military in the Style of John Schoenherr                                                                                                       |
+| **Description**           | Immerse yourself in a world of futuristic warfare as you behold a majestic landscape featuring alien paladins adorned in advanced military attire, inspired by the legendary artist John Schoenherr. Witness the harmonious blend of high-tech weaponry, ancient warrior traditions, and otherworldly landscapes in this captivating piece of art.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:23:45.632606                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ySMBLvSMz99VOk49HqI0gxrL.png?st=2024-04-07T17%3A23%3A39Z&se=2024-04-07T19%3A23%3A39Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-06T23%3A52%3A25Z&ske=2024-04-07T23%3A52%3A25Z&sks=b&skv=2021-08-06&sig=dUm%2BRHnYuLjLITynTSocgWtjL78uEqrPqAx/aW7rbvo%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/e883035d1b109d9613cf5fd10a03726c/e883035d1b109d9613cf5fd10a03726c.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> Immerse yourself in a world of futuristic warfare as you behold a majestic landscape featuring alien paladins adorned in advanced military attire, inspired by the legendary artist John Schoenherr. Witness the harmonious blend of high-tech weaponry, ancient warrior traditions, and otherworldly landscapes in this captivating piece of art.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a futuristic alien paladin style military in the style of John Schoenherr <br> **Output:** Immerse yourself in a world of futuristic warfare as you behold a majestic landscape featuring alien paladins adorned in advanced military attire, inspired by the legendary artist John Schoenherr. Witness the harmonious blend of high-tech weaponry, ancient warrior traditions, and otherworldly landscapes in this captivating piece of art. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:16:07.452968                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** John Schoenherr <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 a304672c2b8fe8ebb5386d7aed25a42c 
+
+![data.id](./a304672c2b8fe8ebb5386d7aed25a42c/a304672c2b8fe8ebb5386d7aed25a42c.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | a304672c2b8fe8ebb5386d7aed25a42c                                                                                                             |
+| **Title**           | Futuristic Alien Riot Police Robot Riding Gnu                                                                                                       |
+| **Description**           | An intriguing image of an alien riot police robot mounted on an alien-like gnu, set against the backdrop of a futuristic spaceship. The scene, inspired by the style of Wally Wood, features a landscape that combines elements of alien worlds and advanced technology, creating a visually captivating and unique composition.                                                                                                       |
+| **CreatedAt**        | 2024-04-07 19:17:29.527560                                                                                                        |
+| **Model**        | None                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-B0VtZH4Fqh2iPdvyeU0WvMJY.png?st=2024-04-07T17%3A17%3A25Z&se=2024-04-07T19%3A17%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-07T00%3A03%3A51Z&ske=2024-04-08T00%3A03%3A51Z&sks=b&skv=2021-08-06&sig=1uHPPz82RqO79Yrsf0mdS3oEwzGaNQs/PN23FMpVcCg%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a304672c2b8fe8ebb5386d7aed25a42c/a304672c2b8fe8ebb5386d7aed25a42c.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 1f6ee357-e3ed-47e6-b15b-616927777d32
+
+> An intriguing image of an alien riot police robot mounted on an alien-like gnu, set against the backdrop of a futuristic spaceship. The scene, inspired by the style of Wally Wood, features a landscape that combines elements of alien worlds and advanced technology, creating a visually captivating and unique composition.
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 1f6ee357-e3ed-47e6-b15b-616927777d32                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul><ul><li>**Input:** Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic spaceship <br> **Output:** An intriguing image of an alien riot police robot mounted on an alien-like gnu, set against the backdrop of a futuristic spaceship. The scene, inspired by the style of Wally Wood, features a landscape that combines elements of alien worlds and advanced technology, creating a visually captivating and unique composition. <br> **Type:** enhanced</li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | 2024-04-07 19:06:29.702083                                                                                                                                                  |
+| **Enhanced Prompt** | Yes                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
