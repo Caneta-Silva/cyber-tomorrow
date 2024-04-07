@@ -1,29 +1,29 @@
 {
-    "prompt": "This captivating image features a futuristic paladin-style military figure mounted on an alien-like elephant, set against a backdrop of a surreal alien martial landscape. Inspired by the striking artistry of Rafal Olbinski, this scene transports you to a world where technology and mysticism blend seamlessly, creating a truly mesmerizing visual experience.",
+    "prompt": "A breathtaking image capturing the essence of a celestial crusader, an alien paladin donned in futuristic military armor, riding gracefully atop a majestic alien gnu. The scene is set against the backdrop of a towering futuristic alien spaceship, reminiscent of the iconic artwork by John Schoenherr. Symbolizing a harmonious blend of tradition and advanced technology in an otherworldly setting.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
-            "output": "This captivating image features a futuristic paladin-style military figure mounted on an alien-like elephant, set against a backdrop of a surreal alien martial landscape. Inspired by the striking artistry of Rafal Olbinski, this scene transports you to a world where technology and mysticism blend seamlessly, creating a truly mesmerizing visual experience.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+            "output": "A breathtaking image capturing the essence of a celestial crusader, an alien paladin donned in futuristic military armor, riding gracefully atop a majestic alien gnu. The scene is set against the backdrop of a towering futuristic alien spaceship, reminiscent of the iconic artwork by John Schoenherr. Symbolizing a harmonious blend of tradition and advanced technology in an otherworldly setting.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:11:53.460903",
+    "enhanced_at": "2024-04-07 19:12:29.766343",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.283179",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.273920",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
     "metadata": {
         "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "elephant",
+        "backdrop": "spaceship",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "alien",
             "backdrop": "futuristic alien"
         }
     },
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military Riding Alien Elephant in Alien Martial Landscape"
+    "title": "Celestial Crusader: Alien Paladin and Gnu Mount"
 }
