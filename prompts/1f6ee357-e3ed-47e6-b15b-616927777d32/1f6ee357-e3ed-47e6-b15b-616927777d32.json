@@ -1,29 +1,29 @@
 {
-    "prompt": "Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.",
+    "prompt": "Immerse yourself in an alien realm where a paladin-style military leader rides a majestic alien horse against the impressive backdrop of an otherworldly fortress. This futuristic landscape, reminiscent of Wally Wood's iconic style, captivates with its blend of technology and mystique, promising an epic tale of interstellar conflict and valor.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
-            "output": "Experience a captivating landscape full body image of a futuristic alien paladin style military, inspired by the legendary artistry of Bob Pepper. Immerse yourself in a world where advanced technology meets ancient warrior spirit, depicted with Pepper's unique blend of detail and imagination.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
+            "output": "Immerse yourself in an alien realm where a paladin-style military leader rides a majestic alien horse against the impressive backdrop of an otherworldly fortress. This futuristic landscape, reminiscent of Wally Wood's iconic style, captivates with its blend of technology and mystique, promising an epic tale of interstellar conflict and valor.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:14:56.871449",
+    "enhanced_at": "2024-04-07 19:15:32.286534",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.319371",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.250244",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien fortress",
     "metadata": {
         "element": "paladin style military",
-        "style": "Bob Pepper",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
         "backdrop": "fortress",
-        "animal": "rhino",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "alien",
             "backdrop": "alien"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin: A Vision of Bob Pepper"
+    "title": "Clash of Alien Worlds"
 }
