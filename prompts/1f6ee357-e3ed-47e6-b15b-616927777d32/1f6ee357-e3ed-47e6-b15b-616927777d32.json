@@ -1,44 +1,44 @@
 {
-    "prompt": "This striking image showcases an alien riot police robot, mounted on a majestic alien-like horse, patrolling in front of an otherworldly fortress. Inspired by the artistic style of Rafal Olbinski, the scene is a mix of futuristic technology and ancient majesty, combining the themes of power, authority, and the unknown in a captivating way.",
+    "prompt": "Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
-            "output": "This striking image showcases an alien riot police robot, mounted on a majestic alien-like horse, patrolling in front of an otherworldly fortress. Inspired by the artistic style of Rafal Olbinski, the scene is a mix of futuristic technology and ancient majesty, combining the themes of power, authority, and the unknown in a captivating way.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            "output": "Step into the mesmerizing world of a futuristic alien paladin, exuding power and elegance in the unique style of Rafal Olbinski. This landscape full-body image captures the essence of otherworldly warriors ready to defend their realm with a blend of advanced technology and ancient valor.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:08:18.488914",
+    "enhanced_at": "2024-04-07 19:08:53.787888",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.289488",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.340946",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "horse",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Enforcer: The Alien Cavalry"
+    "title": "Futuristic Alien Paladin: A Vision of Military Majesty"
 }
