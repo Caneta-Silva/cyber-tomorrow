@@ -1,30 +1,30 @@
 {
-    "prompt": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
+    "prompt": "This captivating image features an alien paladin styled military figure, standing tall and majestic in front of a futuristic fortress. The scene is painted in the mesmerizing style reminiscent of the great artist Rafal Olbinski, blending surrealism with futuristic elements to create a truly otherworldly landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
-            "output": "An awe-inspiring image of an alien paladin with futuristic military armor, standing tall in a landscape that captures the essence of alien martial prowess. The scene is reminiscent of the iconic style of artist John Schoenherr, with intricate details and a sense of grandeur that transports the viewer to a distant and captivating world.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
+            "output": "This captivating image features an alien paladin styled military figure, standing tall and majestic in front of a futuristic fortress. The scene is painted in the mesmerizing style reminiscent of the great artist Rafal Olbinski, blending surrealism with futuristic elements to create a truly otherworldly landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-08 00:10:00.916352",
+    "enhanced_at": "2024-04-08 00:12:08.855085",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.376662",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.387685",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
     "metadata": {
         "element": "paladin style military",
-        "style": "John Schoenherr",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
             "element": "alien",
-            "backdrop": "futuristic alien"
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin Military in the Landscape"
+    "title": "The Celestial Guardian"
 }
