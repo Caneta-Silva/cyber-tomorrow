@@ -1,29 +1,29 @@
 {
-    "prompt": "This stunning image showcases a futuristic alien paladin in a military setting, inspired by the iconic style of artist Wally Wood. The vibrant colors and intricate details bring this otherworldly warrior to life, capturing the essence of a powerful and noble character ready for battle.",
+    "prompt": "This stunning landscape image depicts a futuristic paladin, adorned in breathtaking military armor, standing tall amidst a backdrop of unknown technology and a distant horizon. The intricate details and vibrant colors evoke the style and essence of renowned artist John Schoenherr, blending sci-fi elements with a classical warrior aesthetic to create a vision of strength and valor in a world yet to come.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+        "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
-            "output": "This stunning image showcases a futuristic alien paladin in a military setting, inspired by the iconic style of artist Wally Wood. The vibrant colors and intricate details bring this otherworldly warrior to life, capturing the essence of a powerful and noble character ready for battle.",
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
+            "output": "This stunning landscape image depicts a futuristic paladin, adorned in breathtaking military armor, standing tall amidst a backdrop of unknown technology and a distant horizon. The intricate details and vibrant colors evoke the style and essence of renowned artist John Schoenherr, blending sci-fi elements with a classical warrior aesthetic to create a vision of strength and valor in a world yet to come.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:10:07.482461",
+    "enhanced_at": "2024-04-07 19:10:42.928945",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.306709",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+    "seeded_at": "2024-03-19 01:00:55.322530",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr",
     "metadata": {
         "element": "paladin style military",
-        "style": "Wally Wood",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
         "animal": "giraffe",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "futuristic",
             "backdrop": "alien"
         }
     },
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin in Wally Wood Style"
+    "title": "In the Shadow of The Future: A Futuristic Paladin in the Style of John Schoenherr"
 }
