@@ -1,29 +1,29 @@
 {
-    "prompt": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
+    "prompt": "Experience a captivating scene featuring a futuristic alien paladin, mounted on a magnificent alien-like giraffe, set against the backdrop of an awe-inspiring alien spaceship. This imaginative illustration combines elements of science fiction and fantasy in the iconic style reminiscent of Wally Wood's renowned artwork.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Wally Wood against the backdrop of a alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
-            "output": "A stunning landscape full-body image capturing the essence of a futuristic military paladin, designed in the unique and compelling style reminiscent of artist Rafal Olbinski. The artwork showcases a blend of advanced technology and noble warrior aesthetics, creating a visually captivating and otherworldly scene.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Wally Wood against the backdrop of a alien spaceship",
+            "output": "Experience a captivating scene featuring a futuristic alien paladin, mounted on a magnificent alien-like giraffe, set against the backdrop of an awe-inspiring alien spaceship. This imaginative illustration combines elements of science fiction and fantasy in the iconic style reminiscent of Wally Wood's renowned artwork.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-03-30 12:17:01.697446",
+    "enhanced_at": "2024-04-07 19:05:52.869005",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.334587",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.253809",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Wally Wood against the backdrop of a alien spaceship",
     "metadata": {
         "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "rhino",
+        "backdrop": "spaceship",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "futuristic alien",
             "backdrop": "alien"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military in the Style of Rafal Olbinski"
+    "title": "Futuristic Alien Paladin and Alien Giraffe in Wally Wood's Style"
 }
