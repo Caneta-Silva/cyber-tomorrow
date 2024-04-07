@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a futuristic world as you witness the majestic presence of an alien paladin bearing advanced armor and weaponry. Inspired by the iconic style of artist Rafal Olbinski, this full-body image captures the essence of strength, honor, and protection in the cosmic battlefield.",
+    "prompt": "Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "Immerse yourself in a futuristic world as you witness the majestic presence of an alien paladin bearing advanced armor and weaponry. Inspired by the iconic style of artist Rafal Olbinski, this full-body image captures the essence of strength, honor, and protection in the cosmic battlefield.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
+            "output": "Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:13:08.154856",
+    "enhanced_at": "2024-04-07 19:13:44.387771",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.337441",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.351626",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "giraffe",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic"
+            "element": "futuristic",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Galactic Defender: An Alien Paladin's Military Portrait"
+    "title": "Cybernetic Enforcer: Sentinel of the Alien Martial Highlands"
 }
