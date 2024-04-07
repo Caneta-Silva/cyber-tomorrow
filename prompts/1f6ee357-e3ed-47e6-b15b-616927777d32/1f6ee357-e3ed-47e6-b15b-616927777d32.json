@@ -1,30 +1,30 @@
 {
-    "prompt": "Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.",
+    "prompt": "This stunning image portrays an alien paladin in elaborate military attire riding a majestic alien-like horse, set against the backdrop of a futuristic alien fortress. Inspired by the artistic style of Rafal Olbinski, the scene captures a sense of grandeur and otherworldly beauty. The galactic guardian stands ready to defend the fortress with unwavering courage and strength.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
-            "output": "Witness the imposing figure of a futuristic riot police robot, designed with sleek cybernetic enhancements, standing as a silent guardian amidst the exotic and otherworldly terrain of the alien Martial Highlands. This artwork combines the classic stylings of Wally Wood with a futuristic sci-fi twist, blending elements of technology and nature in a mesmerizing composition.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic alien fortress",
+            "output": "This stunning image portrays an alien paladin in elaborate military attire riding a majestic alien-like horse, set against the backdrop of a futuristic alien fortress. Inspired by the artistic style of Rafal Olbinski, the scene captures a sense of grandeur and otherworldly beauty. The galactic guardian stands ready to defend the fortress with unwavering courage and strength.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:13:44.387771",
+    "enhanced_at": "2024-04-07 19:14:20.688001",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.351626",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.288136",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic alien fortress",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Wally Wood",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "deer",
+        "backdrop": "fortress",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "alien"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
+            "element": true,
             "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Cybernetic Enforcer: Sentinel of the Alien Martial Highlands"
+    "title": "Galactic Guardian: Alien Paladin on Horseback"
 }
