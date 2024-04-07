@@ -1,44 +1,44 @@
 {
-    "prompt": "Experience the otherworldly presence of an alien riot police robot standing tall in front of a majestic futuristic alien spaceship. Rendered in the iconic style of John Schoenherr, this captivating image transports you to a realm where technology and intergalactic landscapes converge in a mesmerizing spectacle.",
+    "prompt": "Immerse yourself in a visually stunning landscape as you gaze upon the futuristic alien riot police robot, inspired by the iconic style of Wally Wood. Witness the imposing presence of this extraterrestrial enforcer as it stands tall, ready to maintain order and protect its domain. Let your imagination run wild as you envision the untold tales and adventures that this sentinel of the future has encountered in its intergalactic missions.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
         {
-            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
-            "output": "Experience the otherworldly presence of an alien riot police robot standing tall in front of a majestic futuristic alien spaceship. Rendered in the iconic style of John Schoenherr, this captivating image transports you to a realm where technology and intergalactic landscapes converge in a mesmerizing spectacle.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
+            "output": "Immerse yourself in a visually stunning landscape as you gaze upon the futuristic alien riot police robot, inspired by the iconic style of Wally Wood. Witness the imposing presence of this extraterrestrial enforcer as it stands tall, ready to maintain order and protect its domain. Let your imagination run wild as you envision the untold tales and adventures that this sentinel of the future has encountered in its intergalactic missions.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-04-07 19:16:43.412967",
+    "enhanced_at": "2024-04-07 23:10:44.843183",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.378658",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.308913",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
     "metadata": {
         "element": "riot police robot",
-        "style": "John Schoenherr",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "horse",
+        "backdrop": "fortress",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic alien"
+            "element": "futuristic alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Sentinel of the Stars: The Alien Riot Police Robot"
+    "title": "Sentinel of the Future: The Alienic Riot Enforcer"
 }
