@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a vision of the future with this stunning full body image of an alien riot police robot, inspired by the legendary John Schoenherr. Witness the fusion of advanced technology and extraterrestrial aesthetics as this sentinel stands guard in a futuristic landscape, ready to uphold order and justice in a world beyond our imagination.",
+    "prompt": "Behold the majestic image of an alien paladin, adorned in futuristic armor, mounted on a towering alien elephant. The scene is set against the backdrop of a formidable futuristic fortress, evoking awe and a sense of power. Inspired by the artistic style of Rafal Olbinski, this image showcases the alliance of military might and otherworldly creatures in a captivating and visually striking composition.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
-            "output": "Immerse yourself in a vision of the future with this stunning full body image of an alien riot police robot, inspired by the legendary John Schoenherr. Witness the fusion of advanced technology and extraterrestrial aesthetics as this sentinel stands guard in a futuristic landscape, ready to uphold order and justice in a world beyond our imagination.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
+            "output": "Behold the majestic image of an alien paladin, adorned in futuristic armor, mounted on a towering alien elephant. The scene is set against the backdrop of a formidable futuristic fortress, evoking awe and a sense of power. Inspired by the artistic style of Rafal Olbinski, this image showcases the alliance of military might and otherworldly creatures in a captivating and visually striking composition.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 09:43:22.522004",
+    "enhanced_at": "2024-10-24 09:48:50.387145",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.333182",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.286374",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
     "metadata": {
-        "element": "riot police robot",
-        "style": "John Schoenherr",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "gnu",
+        "backdrop": "fortress",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic alien"
+            "element": "alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Sentinel of the Future: Alien Riot Police Robot"
+    "title": "The Paladin of the Alien Empire"
 }
