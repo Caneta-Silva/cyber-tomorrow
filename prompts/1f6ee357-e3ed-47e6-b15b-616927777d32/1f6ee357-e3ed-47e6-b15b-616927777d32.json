@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a stunning portrayal of a futuristic alien paladin in the style of legendary artist Bob Pepper. This striking image captures the otherworldly essence of a military paladin exploring an alien landscape filled with mysterious martial elements. Let your imagination roam free as you envision this unique fusion of futuristic technology and ancient martial environments.",
+    "prompt": "Immerse yourself in a vision of the future with this stunning full body image of an alien riot police robot, inspired by the legendary John Schoenherr. Witness the fusion of advanced technology and extraterrestrial aesthetics as this sentinel stands guard in a futuristic landscape, ready to uphold order and justice in a world beyond our imagination.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
-            "output": "Immerse yourself in a stunning portrayal of a futuristic alien paladin in the style of legendary artist Bob Pepper. This striking image captures the otherworldly essence of a military paladin exploring an alien landscape filled with mysterious martial elements. Let your imagination roam free as you envision this unique fusion of futuristic technology and ancient martial environments.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+            "output": "Immerse yourself in a vision of the future with this stunning full body image of an alien riot police robot, inspired by the legendary John Schoenherr. Witness the fusion of advanced technology and extraterrestrial aesthetics as this sentinel stands guard in a futuristic landscape, ready to uphold order and justice in a world beyond our imagination.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 09:41:53.953471",
+    "enhanced_at": "2024-10-24 09:43:22.522004",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.369101",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.333182",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "spaceship",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
-            "backdrop": "alien"
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin in Alien Martial Landscape"
+    "title": "Sentinel of the Future: Alien Riot Police Robot"
 }
