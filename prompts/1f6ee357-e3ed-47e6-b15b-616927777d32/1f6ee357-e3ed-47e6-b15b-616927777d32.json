@@ -1,29 +1,29 @@
 {
-    "prompt": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
+    "prompt": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
-            "output": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+            "output": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 08:54:57.975621",
+    "enhanced_at": "2024-10-24 08:56:24.361878",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.368535",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.288609",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "spaceship",
-        "animal": "horse",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "alien",
             "backdrop": "futuristic"
         }
     },
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
+            "element": true,
             "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin Military on Spaceship"
+    "title": "Galactic Enforcers: The Alien Riot Police Robot and the Enigmatic Elephant"
 }
