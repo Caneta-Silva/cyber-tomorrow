@@ -1,0 +1,61 @@
+{
+    "id": "c3a24566714c12046b4ef221abff8104",
+    "title": "Futuristic Paladin Military at Alien Fortress",
+    "description": "Visualize an awe-striking scene where a futuristic paladin-style military figure, with no specific descent or gender provided, stands with a air of pride in front of a fascinating alien fortress. This artwork finds its inspiration from a style composed of bold colors, psychedelic details, and surreal themes that were popular during the time of art nouveau. It was traditionally rendered using oil paints. The scene captures the essence of a dauntless warrior, ready to face the unknown challenges presented by a mystical, alien world. The intricate detailing in both, the paladin's futuristic armor and the mystifying structure of the fortress, weave together to form an image that fuels one's imagination and curiosity.",
+    "created": "2024-10-24 09:03:18.217658",
+    "prompt": {
+        "prompt": "Visualize an awe-striking scene where a futuristic paladin-style military figure, with no specific descent or gender provided, stands with a air of pride in front of a fascinating alien fortress. This artwork finds its inspiration from a style composed of bold colors, psychedelic details, and surreal themes that were popular during the time of art nouveau. It was traditionally rendered using oil paints. The scene captures the essence of a dauntless warrior, ready to face the unknown challenges presented by a mystical, alien world. The intricate detailing in both, the paladin's futuristic armor and the mystifying structure of the fortress, weave together to form an image that fuels one's imagination and curiosity.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+                "output": "Immerse yourself in a stunning scene where a futuristic paladin-style military figure stands proudly in front of an awe-inspiring alien fortress. This splendid artwork, inspired by the iconic Bob Pepper style, captures the essence of a brave warrior ready to face unknown challenges in a mystical world. The intricate details of both the paladin's armor and the fortress create a captivating image that sparks imagination and curiosity.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in a stunning scene where a futuristic paladin-style military figure stands proudly in front of an awe-inspiring alien fortress. This splendid artwork, inspired by the iconic Bob Pepper style, captures the essence of a brave warrior ready to face unknown challenges in a mystical world. The intricate details of both the paladin's armor and the fortress create a captivating image that sparks imagination and curiosity.",
+                "output": "Visualize an awe-striking scene where a futuristic paladin-style military figure, with no specific descent or gender provided, stands with a air of pride in front of a fascinating alien fortress. This artwork finds its inspiration from a style composed of bold colors, psychedelic details, and surreal themes that were popular during the time of art nouveau. It was traditionally rendered using oil paints. The scene captures the essence of a dauntless warrior, ready to face the unknown challenges presented by a mystical, alien world. The intricate detailing in both, the paladin's futuristic armor and the mystifying structure of the fortress, weave together to form an image that fuels one's imagination and curiosity.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 09:03:16.219420",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 09:00:44.129749",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.360911",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Military at Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-yXpcJxUFNEpxPxAtED9nhOwG.png?st=2024-10-24T08%3A03%3A11Z&se=2024-10-24T10%3A03%3A11Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T18%3A56%3A29Z&ske=2024-10-24T18%3A56%3A29Z&sks=b&skv=2024-08-04&sig=4hbgWTUKlQQBc7YsmwkdNCHveIHC9fN0KBtlPipvru4%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c3a24566714c12046b4ef221abff8104/c3a24566714c12046b4ef221abff8104.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
