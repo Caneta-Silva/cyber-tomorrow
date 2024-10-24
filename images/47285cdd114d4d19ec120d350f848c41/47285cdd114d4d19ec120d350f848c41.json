@@ -1,0 +1,61 @@
+{
+    "id": "47285cdd114d4d19ec120d350f848c41",
+    "title": "Futuristic Riot Police Robot Patrols the Urban Landscape",
+    "description": "Envision a full-body image of a sleek and formidable futuristic riot police robot. This piece is inspired by the combination of detailed realism, larger-than-life conceptions, and rich tones that typify illustrations from the early science fiction era. Imagine this high-tech law enforcement machine patrolling an urban landscape, exuding both power and authority with its cutting-edge design and imposing presence. Its metal body should reflect the surrounding cityscape in an aesthetically pleasing manner, embodying the ethos of the city it is tasked to protect.",
+    "created": "2024-10-24 09:01:13.913841",
+    "prompt": {
+        "prompt": "Envision a full-body image of a sleek and formidable futuristic riot police robot. This piece is inspired by the combination of detailed realism, larger-than-life conceptions, and rich tones that typify illustrations from the early science fiction era. Imagine this high-tech law enforcement machine patrolling an urban landscape, exuding both power and authority with its cutting-edge design and imposing presence. Its metal body should reflect the surrounding cityscape in an aesthetically pleasing manner, embodying the ethos of the city it is tasked to protect.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            {
+                "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+                "output": "This artwork features a full body image of a sleek and formidable futuristic riot police robot inspired by the style of renowned artist John Schoenherr. The robot is seen patrolling the urban landscape, exuding power and authority with its cutting-edge design and imposing presence.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This artwork features a full body image of a sleek and formidable futuristic riot police robot inspired by the style of renowned artist John Schoenherr. The robot is seen patrolling the urban landscape, exuding power and authority with its cutting-edge design and imposing presence.",
+                "output": "Envision a full-body image of a sleek and formidable futuristic riot police robot. This piece is inspired by the combination of detailed realism, larger-than-life conceptions, and rich tones that typify illustrations from the early science fiction era. Imagine this high-tech law enforcement machine patrolling an urban landscape, exuding both power and authority with its cutting-edge design and imposing presence. Its metal body should reflect the surrounding cityscape in an aesthetically pleasing manner, embodying the ethos of the city it is tasked to protect.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 09:01:11.403677",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 08:57:49.702195",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.324898",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Riot Police Robot Patrols the Urban Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-P0QexCCMv17M1B4SZXFPWKVy.png?st=2024-10-24T08%3A01%3A06Z&se=2024-10-24T10%3A01%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T18%3A58%3A44Z&ske=2024-10-24T18%3A58%3A44Z&sks=b&skv=2024-08-04&sig=ogLmk6LiJScx39PKX5Vg4X/zduZkKN5Dqui4B5pBTAo%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/47285cdd114d4d19ec120d350f848c41/47285cdd114d4d19ec120d350f848c41.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
