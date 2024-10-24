@@ -1,26 +1,26 @@
 {
-    "prompt": "Experience a mesmerizing vision of a futuristic paladin military, embodying strength and honor in a dazzling landscape inspired by the iconic style of artist Bob Pepper. This stunning artwork showcases a full-body representation of a warrior in advanced armor, ready to defend with a blend of ancient valor and high-tech weaponry.",
+    "prompt": "This striking image features a futuristic riot police robot mounted on an alien-like horse, imposing and powerful against the backdrop of a futuristic Martial landscape. Inspired by the style of Rafal Olbinski, the scene captivates with its blend of sci-fi and fantasy, showcasing a unique and intriguing vision of a future world in turmoil.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
-            "output": "Experience a mesmerizing vision of a futuristic paladin military, embodying strength and honor in a dazzling landscape inspired by the iconic style of artist Bob Pepper. This stunning artwork showcases a full-body representation of a warrior in advanced armor, ready to defend with a blend of ancient valor and high-tech weaponry.",
+            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+            "output": "This striking image features a futuristic riot police robot mounted on an alien-like horse, imposing and powerful against the backdrop of a futuristic Martial landscape. Inspired by the style of Rafal Olbinski, the scene captivates with its blend of sci-fi and fantasy, showcasing a unique and intriguing vision of a future world in turmoil.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 07:55:54.374684",
+    "enhanced_at": "2024-10-24 08:18:01.655228",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.309588",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.283757",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "giraffe",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Military in the Style of Bob Pepper"
+    "title": "The Sentinel of the Martial Landscape"
 }
