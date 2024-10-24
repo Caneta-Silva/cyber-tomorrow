@@ -1,0 +1,56 @@
+{
+    "id": "a624f3e7ecaffa0093588f44e9c227cf",
+    "title": "The Paladin of the Alien Empire",
+    "description": "Behold the majestic image of an alien paladin, adorned in futuristic armor, mounted on a towering alien elephant. The scene is set against the backdrop of a formidable futuristic fortress, evoking awe and a sense of power. Inspired by the artistic style of Rafal Olbinski, this image showcases the alliance of military might and otherworldly creatures in a captivating and visually striking composition.",
+    "created": "2024-10-24 09:51:16.618251",
+    "prompt": {
+        "prompt": "Behold the majestic image of an alien paladin, adorned in futuristic armor, mounted on a towering alien elephant. The scene is set against the backdrop of a formidable futuristic fortress, evoking awe and a sense of power. Inspired by the artistic style of Rafal Olbinski, this image showcases the alliance of military might and otherworldly creatures in a captivating and visually striking composition.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
+                "output": "Behold the majestic image of an alien paladin, adorned in futuristic armor, mounted on a towering alien elephant. The scene is set against the backdrop of a formidable futuristic fortress, evoking awe and a sense of power. Inspired by the artistic style of Rafal Olbinski, this image showcases the alliance of military might and otherworldly creatures in a captivating and visually striking composition.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-10-24 09:48:50.387145",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.286374",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Paladin of the Alien Empire"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-1bKtB8j5L7HdY5ksPCFkrUEd.png?st=2024-10-24T08%3A51%3A11Z&se=2024-10-24T10%3A51%3A11Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T20%3A00%3A48Z&ske=2024-10-24T20%3A00%3A48Z&sks=b&skv=2024-08-04&sig=vBioqKjuwJVPo5To3z3H47spLyBFQ5Qy0VGK6HT4Cl4%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a624f3e7ecaffa0093588f44e9c227cf/a624f3e7ecaffa0093588f44e9c227cf.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
