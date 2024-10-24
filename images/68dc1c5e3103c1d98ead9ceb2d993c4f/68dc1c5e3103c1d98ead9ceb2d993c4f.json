@@ -1,0 +1,61 @@
+{
+    "id": "68dc1c5e3103c1d98ead9ceb2d993c4f",
+    "title": "Futuristic Paladin in Alien Martial Landscape",
+    "description": "Create an awe-inspiring picture of a futuristic paladin, dressed in sophisticated body armor and handling advanced weapons, imposingly standing in a rough extraterrestrial Martial landscape. The minute details of the paladin's costume and the intense colors of the foreign territory formulate a visually enchanting spectacle, personifying the spirit of courage and valor in a technologically advanced world unfathomable to the human mind. The paladin is an Asian female further intensifying the image of valor across gender bounds.",
+    "created": "2024-10-24 10:09:40.584570",
+    "prompt": {
+        "prompt": "Create an awe-inspiring picture of a futuristic paladin, dressed in sophisticated body armor and handling advanced weapons, imposingly standing in a rough extraterrestrial Martial landscape. The minute details of the paladin's costume and the intense colors of the foreign territory formulate a visually enchanting spectacle, personifying the spirit of courage and valor in a technologically advanced world unfathomable to the human mind. The paladin is an Asian female further intensifying the image of valor across gender bounds.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
+                "output": "Behold a stunning image of a futuristic paladin, clad in formidable armor and wielding advanced weaponry, standing tall in a rugged alien Martial landscape. The intricate details of the paladin's attire and the vibrant colors of the alien terrain create a mesmerizing visual feast for the eyes, embodying the essence of bravery and valor in a futuristic world beyond imagination.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Behold a stunning image of a futuristic paladin, clad in formidable armor and wielding advanced weaponry, standing tall in a rugged alien Martial landscape. The intricate details of the paladin's attire and the vibrant colors of the alien terrain create a mesmerizing visual feast for the eyes, embodying the essence of bravery and valor in a futuristic world beyond imagination.",
+                "output": "Create an awe-inspiring picture of a futuristic paladin, dressed in sophisticated body armor and handling advanced weapons, imposingly standing in a rough extraterrestrial Martial landscape. The minute details of the paladin's costume and the intense colors of the foreign territory formulate a visually enchanting spectacle, personifying the spirit of courage and valor in a technologically advanced world unfathomable to the human mind. The paladin is an Asian female further intensifying the image of valor across gender bounds.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 10:09:38.750969",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 10:06:28.038403",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.349894",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin in Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-gL2TOgadvtGSkX6W6TuUntDo.png?st=2024-10-24T09%3A09%3A34Z&se=2024-10-24T11%3A09%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T18%3A51%3A53Z&ske=2024-10-24T18%3A51%3A53Z&sks=b&skv=2024-08-04&sig=1pZSkCOrA2%2BIc9XkLM%2BIoofurSlyRNxcCAhoH3VKkno%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/68dc1c5e3103c1d98ead9ceb2d993c4f/68dc1c5e3103c1d98ead9ceb2d993c4f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
