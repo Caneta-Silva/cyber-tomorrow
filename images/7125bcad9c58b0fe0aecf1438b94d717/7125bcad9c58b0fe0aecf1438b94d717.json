@@ -1,0 +1,61 @@
+{
+    "id": "7125bcad9c58b0fe0aecf1438b94d717",
+    "title": "Futuristic Alien Paladin Military on Spaceship",
+    "description": "Generate an awe-inspiring landscape featuring a futuristic alien paladin dressed in highly technological military attire. The scene is striking, captivating, and disquieting, evoking the feeling of late 19th-century fantasy art, primarily made with airbrush. The paladin demonstrates an intriguing blend of ancient honor and advanced technology. He stands tall, embodying a figure of might and majesty against the backdrop of a sleek, future spaceship.",
+    "created": "2024-10-24 08:59:28.118948",
+    "prompt": {
+        "prompt": "Generate an awe-inspiring landscape featuring a futuristic alien paladin dressed in highly technological military attire. The scene is striking, captivating, and disquieting, evoking the feeling of late 19th-century fantasy art, primarily made with airbrush. The paladin demonstrates an intriguing blend of ancient honor and advanced technology. He stands tall, embodying a figure of might and majesty against the backdrop of a sleek, future spaceship.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+                "output": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
+                "type": "enhanced"
+            },
+            {
+                "input": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
+                "output": "Generate an awe-inspiring landscape featuring a futuristic alien paladin dressed in highly technological military attire. The scene is striking, captivating, and disquieting, evoking the feeling of late 19th-century fantasy art, primarily made with airbrush. The paladin demonstrates an intriguing blend of ancient honor and advanced technology. He stands tall, embodying a figure of might and majesty against the backdrop of a sleek, future spaceship.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 08:59:26.597857",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 08:54:57.975621",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.368535",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin Military on Spaceship"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-RZjEFruhJ5ZyXTSYPl2i43Iy.png?st=2024-10-24T07%3A59%3A22Z&se=2024-10-24T09%3A59%3A22Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T19%3A18%3A05Z&ske=2024-10-24T19%3A18%3A05Z&sks=b&skv=2024-08-04&sig=d3WSHJbHuyiA%2BpwyqE9N7zc8Nqa4/VXSUo7Jf9y6rUU%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7125bcad9c58b0fe0aecf1438b94d717/7125bcad9c58b0fe0aecf1438b94d717.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
