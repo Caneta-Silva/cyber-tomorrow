@@ -1,30 +1,30 @@
 {
-    "prompt": "This striking image features a futuristic riot police robot mounted on an alien-like horse, imposing and powerful against the backdrop of a futuristic Martial landscape. Inspired by the style of Rafal Olbinski, the scene captivates with its blend of sci-fi and fantasy, showcasing a unique and intriguing vision of a future world in turmoil.",
+    "prompt": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
-            "output": "This striking image features a futuristic riot police robot mounted on an alien-like horse, imposing and powerful against the backdrop of a futuristic Martial landscape. Inspired by the style of Rafal Olbinski, the scene captivates with its blend of sci-fi and fantasy, showcasing a unique and intriguing vision of a future world in turmoil.",
+            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "output": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 08:18:01.655228",
+    "enhanced_at": "2024-10-24 08:27:42.217167",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.283757",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.284797",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
     "metadata": {
         "element": "riot police robot",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
+        "backdrop": "fortress",
         "animal": "horse",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
-            "backdrop": "futuristic"
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "The Sentinel of the Martial Landscape"
+    "title": "Futuristic Riot Police Robot on Alien Horse at Alien Fortress"
 }
