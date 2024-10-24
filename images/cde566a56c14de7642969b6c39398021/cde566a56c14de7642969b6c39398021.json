@@ -1,0 +1,61 @@
+{
+    "id": "cde566a56c14de7642969b6c39398021",
+    "title": "Futuristic Riot Police Robot on Alien Horse at Alien Fortress",
+    "description": "A visually mesmerizing landscape featuring an advanced riot police robot mounted on a creature bearing alien characteristics. This scene is set against the backdrop of a unique and spectacular alien fortress. The overall aesthetic style to be employed is dreamy, fantastical, and vivid, capturing key aspects of the Symbolist movement's style, with a primary emphasis on oil paint as the dominant medium. The piece is intended to merge futuristic technology with alien architectural elements.",
+    "created": "2024-10-24 08:29:32.578464",
+    "prompt": {
+        "prompt": "A visually mesmerizing landscape featuring an advanced riot police robot mounted on a creature bearing alien characteristics. This scene is set against the backdrop of a unique and spectacular alien fortress. The overall aesthetic style to be employed is dreamy, fantastical, and vivid, capturing key aspects of the Symbolist movement's style, with a primary emphasis on oil paint as the dominant medium. The piece is intended to merge futuristic technology with alien architectural elements.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+                "output": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
+                "output": "A visually mesmerizing landscape featuring an advanced riot police robot mounted on a creature bearing alien characteristics. This scene is set against the backdrop of a unique and spectacular alien fortress. The overall aesthetic style to be employed is dreamy, fantastical, and vivid, capturing key aspects of the Symbolist movement's style, with a primary emphasis on oil paint as the dominant medium. The piece is intended to merge futuristic technology with alien architectural elements.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 08:29:30.897383",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 08:27:42.217167",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.284797",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Riot Police Robot on Alien Horse at Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-w8C8V9ZKbXmtC4TTMIhGqhdX.png?st=2024-10-24T07%3A29%3A26Z&se=2024-10-24T09%3A29%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T20%3A05%3A17Z&ske=2024-10-24T20%3A05%3A17Z&sks=b&skv=2024-08-04&sig=u0hTqadT26VrylUskxWp0uJuOOfBa9rQKP7sFySIvAY%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/cde566a56c14de7642969b6c39398021/cde566a56c14de7642969b6c39398021.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
