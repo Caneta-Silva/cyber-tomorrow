@@ -1,0 +1,61 @@
+{
+    "id": "31d5d07a70c60a52747051f66955bf5b",
+    "title": "Futuristic Alien Paladin in Alien Martial Landscape",
+    "description": "Immerse yourself in a dynamic, intricate, and surreal rendering of a futuristic extraterrestrial paladin. This striking image encapsulates the uncanny essence of a soldier upholding honor, dressed in an elaborate suit of digital armor, exploring an alien landscape booming with technology and timeless martial elements. Allow your imagination to wander as you visualize this distinct fusion of advanced technology and ancient environments, all rendered in a vibrant array of colors and complex designs reminiscent of the fantasy art of the late 1800s. The palette employs strong contrasts between shadows and lights to impart depth and sharp three-dimensionality.",
+    "created": "2024-10-24 09:45:08.255667",
+    "prompt": {
+        "prompt": "Immerse yourself in a dynamic, intricate, and surreal rendering of a futuristic extraterrestrial paladin. This striking image encapsulates the uncanny essence of a soldier upholding honor, dressed in an elaborate suit of digital armor, exploring an alien landscape booming with technology and timeless martial elements. Allow your imagination to wander as you visualize this distinct fusion of advanced technology and ancient environments, all rendered in a vibrant array of colors and complex designs reminiscent of the fantasy art of the late 1800s. The palette employs strong contrasts between shadows and lights to impart depth and sharp three-dimensionality.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+                "output": "Immerse yourself in a stunning portrayal of a futuristic alien paladin in the style of legendary artist Bob Pepper. This striking image captures the otherworldly essence of a military paladin exploring an alien landscape filled with mysterious martial elements. Let your imagination roam free as you envision this unique fusion of futuristic technology and ancient martial environments.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in a stunning portrayal of a futuristic alien paladin in the style of legendary artist Bob Pepper. This striking image captures the otherworldly essence of a military paladin exploring an alien landscape filled with mysterious martial elements. Let your imagination roam free as you envision this unique fusion of futuristic technology and ancient martial environments.",
+                "output": "Immerse yourself in a dynamic, intricate, and surreal rendering of a futuristic extraterrestrial paladin. This striking image encapsulates the uncanny essence of a soldier upholding honor, dressed in an elaborate suit of digital armor, exploring an alien landscape booming with technology and timeless martial elements. Allow your imagination to wander as you visualize this distinct fusion of advanced technology and ancient environments, all rendered in a vibrant array of colors and complex designs reminiscent of the fantasy art of the late 1800s. The palette employs strong contrasts between shadows and lights to impart depth and sharp three-dimensionality.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 09:45:05.836715",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 09:41:53.953471",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.369101",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin in Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-WI8RwtVvyGoGnOY22F989Hvw.png?st=2024-10-24T08%3A45%3A01Z&se=2024-10-24T10%3A45%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T18%3A38%3A57Z&ske=2024-10-24T18%3A38%3A57Z&sks=b&skv=2024-08-04&sig=GQc8dLsQrrN5QveHDiqzfuBRs06NsDvkAEI0Cr7LqPk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/31d5d07a70c60a52747051f66955bf5b/31d5d07a70c60a52747051f66955bf5b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
