@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
+    "prompt": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
-            "output": "This stunning image depicts a futuristic riot police robot mounted on an alien-like horse against the backdrop of an alien fortress. Inspired by the style of artist Rafal Olbinski, the scene is a blend of futuristic technology and alien architecture, creating a visually captivating landscape.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+            "output": "An awe-inspiring landscape featuring a futuristic alien paladin in military attire, reminiscent of the iconic Bob Pepper style. The majestic figure stands tall against the backdrop of a sleek, futuristic spaceship, embodying a blend of ancient honor and advanced technology.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 08:27:42.217167",
+    "enhanced_at": "2024-10-24 08:54:57.975621",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.284797",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.368535",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "element": "paladin style military",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
+        "backdrop": "spaceship",
         "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Riot Police Robot on Alien Horse at Alien Fortress"
+    "title": "Futuristic Alien Paladin Military on Spaceship"
 }
