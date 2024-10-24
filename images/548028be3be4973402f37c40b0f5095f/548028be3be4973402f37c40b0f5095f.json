@@ -1,0 +1,61 @@
+{
+    "id": "548028be3be4973402f37c40b0f5095f",
+    "title": "Futuristic Paladin Military in the Style of Bob Pepper",
+    "description": "Show a mesmerizing vision of a futuristic paladin military, showcasing strength and honor in a surreal landscape. Capture the essence of a scene made vibrant with dreamy colors, intricate detailing, and a psychedelic touch which was prominent in the art movements pre-1912. Display a warrior in advanced armor, full-body, emanating ancient valor and equipped with high-tech weaponry, ready to defend. The armor should incorporate elements of both traditional knightly gear and futuristic science-fiction design.",
+    "created": "2024-10-24 07:59:24.444459",
+    "prompt": {
+        "prompt": "Show a mesmerizing vision of a futuristic paladin military, showcasing strength and honor in a surreal landscape. Capture the essence of a scene made vibrant with dreamy colors, intricate detailing, and a psychedelic touch which was prominent in the art movements pre-1912. Display a warrior in advanced armor, full-body, emanating ancient valor and equipped with high-tech weaponry, ready to defend. The armor should incorporate elements of both traditional knightly gear and futuristic science-fiction design.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+                "output": "Experience a mesmerizing vision of a futuristic paladin military, embodying strength and honor in a dazzling landscape inspired by the iconic style of artist Bob Pepper. This stunning artwork showcases a full-body representation of a warrior in advanced armor, ready to defend with a blend of ancient valor and high-tech weaponry.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Experience a mesmerizing vision of a futuristic paladin military, embodying strength and honor in a dazzling landscape inspired by the iconic style of artist Bob Pepper. This stunning artwork showcases a full-body representation of a warrior in advanced armor, ready to defend with a blend of ancient valor and high-tech weaponry.",
+                "output": "Show a mesmerizing vision of a futuristic paladin military, showcasing strength and honor in a surreal landscape. Capture the essence of a scene made vibrant with dreamy colors, intricate detailing, and a psychedelic touch which was prominent in the art movements pre-1912. Display a warrior in advanced armor, full-body, emanating ancient valor and equipped with high-tech weaponry, ready to defend. The armor should incorporate elements of both traditional knightly gear and futuristic science-fiction design.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 07:59:22.689620",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 07:55:54.374684",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.309588",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Military in the Style of Bob Pepper"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-f59EpCwPgfpCNhOq13Hxxla7.png?st=2024-10-24T06%3A59%3A17Z&se=2024-10-24T08%3A59%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T19%3A06%3A02Z&ske=2024-10-24T19%3A06%3A02Z&sks=b&skv=2024-08-04&sig=lpPXrdy4Qh8R/k1uasdZVax0Qqs7tCyTzrJ/bKtHqsY%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/548028be3be4973402f37c40b0f5095f/548028be3be4973402f37c40b0f5095f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
