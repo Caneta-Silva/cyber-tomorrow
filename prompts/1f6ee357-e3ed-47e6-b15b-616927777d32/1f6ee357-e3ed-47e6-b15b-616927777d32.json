@@ -1,44 +1,44 @@
 {
-    "prompt": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
+    "prompt": "This artwork features a full body image of a sleek and formidable futuristic riot police robot inspired by the style of renowned artist John Schoenherr. The robot is seen patrolling the urban landscape, exuding power and authority with its cutting-edge design and imposing presence.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
-            "output": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            "output": "This artwork features a full body image of a sleek and formidable futuristic riot police robot inspired by the style of renowned artist John Schoenherr. The robot is seen patrolling the urban landscape, exuding power and authority with its cutting-edge design and imposing presence.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 08:56:24.361878",
+    "enhanced_at": "2024-10-24 08:57:49.702195",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.288609",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.324898",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
     "metadata": {
         "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "elephant",
+        "backdrop": "Martial landscape",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic"
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Enforcers: The Alien Riot Police Robot and the Enigmatic Elephant"
+    "title": "Futuristic Riot Police Robot Patrols the Urban Landscape"
 }
