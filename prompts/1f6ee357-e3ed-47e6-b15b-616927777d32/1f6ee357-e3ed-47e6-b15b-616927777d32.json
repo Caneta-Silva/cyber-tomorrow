@@ -1,26 +1,26 @@
 {
-    "prompt": "Behold a stunning image of a futuristic paladin, clad in formidable armor and wielding advanced weaponry, standing tall in a rugged alien Martial landscape. The intricate details of the paladin's attire and the vibrant colors of the alien terrain create a mesmerizing visual feast for the eyes, embodying the essence of bravery and valor in a futuristic world beyond imagination.",
+    "prompt": "An impressive depiction of a futuristic riot police robot, inspired by the art style of Rafal Olbinski, standing in front of a colossal alien spaceship. The scene captures the essence of advanced technology and extraterrestrial encounters in a visually striking landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
-            "output": "Behold a stunning image of a futuristic paladin, clad in formidable armor and wielding advanced weaponry, standing tall in a rugged alien Martial landscape. The intricate details of the paladin's attire and the vibrant colors of the alien terrain create a mesmerizing visual feast for the eyes, embodying the essence of bravery and valor in a futuristic world beyond imagination.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+            "output": "An impressive depiction of a futuristic riot police robot, inspired by the art style of Rafal Olbinski, standing in front of a colossal alien spaceship. The scene captures the essence of advanced technology and extraterrestrial encounters in a visually striking landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 10:06:28.038403",
+    "enhanced_at": "2024-10-24 10:07:55.299799",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.349894",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.386368",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Wally Wood",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "spaceship",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin in Alien Martial Landscape"
+    "title": "Sentinel of the Stars: Futuristic Riot Police Robot"
 }
