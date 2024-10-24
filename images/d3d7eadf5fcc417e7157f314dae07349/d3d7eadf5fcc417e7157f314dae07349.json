@@ -1,0 +1,61 @@
+{
+    "id": "d3d7eadf5fcc417e7157f314dae07349",
+    "title": "Galactic Enforcers: The Alien Riot Police Robot and the Enigmatic Elephant",
+    "description": "This fascinating image illustrates a futuristic spectacle from a distant galaxy. It depicts an intimidating alien riot police robot, cloaked in intricate armor and equipped with high-tech weaponry, seated nobly on a graceful alien-like elephant. The tableau is set against a backdrop of a towering spaceship, replete with sparkling lights and streamlined metallic structures. With a style reproducing the surrealism and science fiction blend of three defining characteristics: intricate detail, rich symbolism, and distorted reality \u2013 akin to the artistic stroke from an era of Victorian Surrealism painted primarily in oil.",
+    "created": "2024-10-24 09:02:06.555845",
+    "prompt": {
+        "prompt": "This fascinating image illustrates a futuristic spectacle from a distant galaxy. It depicts an intimidating alien riot police robot, cloaked in intricate armor and equipped with high-tech weaponry, seated nobly on a graceful alien-like elephant. The tableau is set against a backdrop of a towering spaceship, replete with sparkling lights and streamlined metallic structures. With a style reproducing the surrealism and science fiction blend of three defining characteristics: intricate detail, rich symbolism, and distorted reality \u2013 akin to the artistic stroke from an era of Victorian Surrealism painted primarily in oil.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+                "output": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This mesmerizing image depicts a scene of futuristic law enforcement in the far reaches of the galaxy. An imposing alien riot police robot, adorned in intricate armor and armed with advanced weaponry, sits majestically atop a graceful alien-like elephant. The backdrop showcases a towering futuristic spaceship, with dazzling lights and sleek metallic structures. Drawn in the style reminiscent of Rafal Olbinski, the composition blends surrealism and science fiction to create a truly unique and captivating visual experience.",
+                "output": "This fascinating image illustrates a futuristic spectacle from a distant galaxy. It depicts an intimidating alien riot police robot, cloaked in intricate armor and equipped with high-tech weaponry, seated nobly on a graceful alien-like elephant. The tableau is set against a backdrop of a towering spaceship, replete with sparkling lights and streamlined metallic structures. With a style reproducing the surrealism and science fiction blend of three defining characteristics: intricate detail, rich symbolism, and distorted reality \u2013 akin to the artistic stroke from an era of Victorian Surrealism painted primarily in oil.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-24 09:02:04.253105",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-24 08:56:24.361878",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.288609",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Galactic Enforcers: The Alien Riot Police Robot and the Enigmatic Elephant"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-wNdIBcFzZTn5DJHYliFNBJUP.png?st=2024-10-24T08%3A01%3A58Z&se=2024-10-24T10%3A01%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-23T18%3A47%3A31Z&ske=2024-10-24T18%3A47%3A31Z&sks=b&skv=2024-08-04&sig=0x92Nkaq1OVGyFQgletXzSZ/udyMSH%2BmfdTp1jH2giI%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/d3d7eadf5fcc417e7157f314dae07349/d3d7eadf5fcc417e7157f314dae07349.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
