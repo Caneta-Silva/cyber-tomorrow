@@ -1,0 +1,61 @@
+{
+    "id": "c40e267091de297079015fe0fac5b8b7",
+    "title": "Futuristic Alien Paladin: A Vision from the Stars",
+    "description": "Immerse yourself visually with a breathtaking landscape presenting a futuristic alien paladin adorned in striking military style. The beat is inspired by the late 19th-century Symbolist movement, with a deep focus on the surreal and the fantastical, intricately detailed and evoking an otherworldly aura. The paladin radiates an awe-inspiring character similar to the vibe echoed in the works of artists known for their use of fantastical elements and intricate detailings, primarily working with oil on canvas.",
+    "created": "2024-10-29 22:47:30.309306",
+    "prompt": {
+        "prompt": "Immerse yourself visually with a breathtaking landscape presenting a futuristic alien paladin adorned in striking military style. The beat is inspired by the late 19th-century Symbolist movement, with a deep focus on the surreal and the fantastical, intricately detailed and evoking an otherworldly aura. The paladin radiates an awe-inspiring character similar to the vibe echoed in the works of artists known for their use of fantastical elements and intricate detailings, primarily working with oil on canvas.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+                "output": "Immerse yourself in a breathtaking landscape showcasing a futuristic alien paladin adorned in striking military style inspired by the legendary artist Rafal Olbinski. Let your imagination run wild as you explore the intricate details and otherworldly aura emanating from this awe-inspiring character.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in a breathtaking landscape showcasing a futuristic alien paladin adorned in striking military style inspired by the legendary artist Rafal Olbinski. Let your imagination run wild as you explore the intricate details and otherworldly aura emanating from this awe-inspiring character.",
+                "output": "Immerse yourself visually with a breathtaking landscape presenting a futuristic alien paladin adorned in striking military style. The beat is inspired by the late 19th-century Symbolist movement, with a deep focus on the surreal and the fantastical, intricately detailed and evoking an otherworldly aura. The paladin radiates an awe-inspiring character similar to the vibe echoed in the works of artists known for their use of fantastical elements and intricate detailings, primarily working with oil on canvas.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-10-29 22:47:28.201561",
+        "revised_prompt": true,
+        "enhanced_at": "2024-10-29 22:43:20.069480",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.342625",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin: A Vision from the Stars"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-7upjemxACnAUXhgZc5cB01Yl.png?st=2024-10-29T21%3A47%3A23Z&se=2024-10-29T23%3A47%3A23Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-29T22%3A05%3A18Z&ske=2024-10-30T22%3A05%3A18Z&sks=b&skv=2024-08-04&sig=hBhJZM5dhrdmpYAnv7OEeC60wdJxrwG62YhXEBWwIOU%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c40e267091de297079015fe0fac5b8b7/c40e267091de297079015fe0fac5b8b7.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
