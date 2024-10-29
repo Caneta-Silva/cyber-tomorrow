@@ -1,30 +1,30 @@
 {
-    "prompt": "An impressive depiction of a futuristic riot police robot, inspired by the art style of Rafal Olbinski, standing in front of a colossal alien spaceship. The scene captures the essence of advanced technology and extraterrestrial encounters in a visually striking landscape.",
+    "prompt": "Immerse yourself in a dystopian future as you witness a towering alien riot police robot, intricately detailed with elements of Wally Wood's iconic style. Against the backdrop of a martial landscape, this imposing sentinel stands as a powerful protector, blending advanced technology with a sense of ominous authority.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
-            "output": "An impressive depiction of a futuristic riot police robot, inspired by the art style of Rafal Olbinski, standing in front of a colossal alien spaceship. The scene captures the essence of advanced technology and extraterrestrial encounters in a visually striking landscape.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "output": "Immerse yourself in a dystopian future as you witness a towering alien riot police robot, intricately detailed with elements of Wally Wood's iconic style. Against the backdrop of a martial landscape, this imposing sentinel stands as a powerful protector, blending advanced technology with a sense of ominous authority.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-24 10:07:55.299799",
+    "enhanced_at": "2024-10-29 22:21:27.894802",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.386368",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.358084",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
     "metadata": {
         "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
+        "backdrop": "Martial landscape",
         "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Sentinel of the Stars: Futuristic Riot Police Robot"
+    "title": "Sentinel of the Future: A Futuristic Alien Riot Police Robot"
 }
