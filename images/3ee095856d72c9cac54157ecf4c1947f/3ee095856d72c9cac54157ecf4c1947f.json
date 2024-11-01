@@ -1,0 +1,61 @@
+{
+    "id": "3ee095856d72c9cac54157ecf4c1947f",
+    "title": "Alien Riot Police Robot on Alien Deer in a Futuristic Landscape",
+    "description": "Picture a dynamic, futuristic scene with an non-humanoid riot police robot sitting atop an unusual alien deer that moves swiftly across an advanced extraterrestrial landscape. An intimidating alien fortress can be seen in the backdrop. The scene mirrors the distinct, imaginative storytelling of an era similar to the period prior to 1912, showcasing intricate level of details and innovative storytelling. The primary medium in this image appears similar to pen and ink techniques common to that timeframe.",
+    "created": "2024-11-01 18:10:30.386038",
+    "prompt": {
+        "prompt": "Picture a dynamic, futuristic scene with an non-humanoid riot police robot sitting atop an unusual alien deer that moves swiftly across an advanced extraterrestrial landscape. An intimidating alien fortress can be seen in the backdrop. The scene mirrors the distinct, imaginative storytelling of an era similar to the period prior to 1912, showcasing intricate level of details and innovative storytelling. The primary medium in this image appears similar to pen and ink techniques common to that timeframe.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+                "output": "This dynamic image features an alien riot police robot seated atop an alien deer, galloping through a futuristic landscape with an imposing alien fortress in the background. The scene is rendered in the distinctive style reminiscent of legendary artist Wally Wood, showcasing intricate details and imaginative storytelling.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This dynamic image features an alien riot police robot seated atop an alien deer, galloping through a futuristic landscape with an imposing alien fortress in the background. The scene is rendered in the distinctive style reminiscent of legendary artist Wally Wood, showcasing intricate details and imaginative storytelling.",
+                "output": "Picture a dynamic, futuristic scene with an non-humanoid riot police robot sitting atop an unusual alien deer that moves swiftly across an advanced extraterrestrial landscape. An intimidating alien fortress can be seen in the backdrop. The scene mirrors the distinct, imaginative storytelling of an era similar to the period prior to 1912, showcasing intricate level of details and innovative storytelling. The primary medium in this image appears similar to pen and ink techniques common to that timeframe.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-01 18:10:28.045686",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-01 18:06:14.468861",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.252217",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot on Alien Deer in a Futuristic Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Btq3iGZdu0lHlXfJPqLGLKKw.png?st=2024-11-01T17%3A10%3A22Z&se=2024-11-01T19%3A10%3A22Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-01T01%3A27%3A57Z&ske=2024-11-02T01%3A27%3A57Z&sks=b&skv=2024-08-04&sig=U%2BKIt/o6pl%2Bxi/bG/FqxSMThLvXBnE9TyvUEqB9WgPk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/3ee095856d72c9cac54157ecf4c1947f/3ee095856d72c9cac54157ecf4c1947f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
