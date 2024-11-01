@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a breathtaking landscape showcasing a futuristic alien paladin adorned in striking military style inspired by the legendary artist Rafal Olbinski. Let your imagination run wild as you explore the intricate details and otherworldly aura emanating from this awe-inspiring character.",
+    "prompt": "This dynamic image features an alien riot police robot seated atop an alien deer, galloping through a futuristic landscape with an imposing alien fortress in the background. The scene is rendered in the distinctive style reminiscent of legendary artist Wally Wood, showcasing intricate details and imaginative storytelling.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
-            "output": "Immerse yourself in a breathtaking landscape showcasing a futuristic alien paladin adorned in striking military style inspired by the legendary artist Rafal Olbinski. Let your imagination run wild as you explore the intricate details and otherworldly aura emanating from this awe-inspiring character.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+            "output": "This dynamic image features an alien riot police robot seated atop an alien deer, galloping through a futuristic landscape with an imposing alien fortress in the background. The scene is rendered in the distinctive style reminiscent of legendary artist Wally Wood, showcasing intricate details and imaginative storytelling.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-10-29 22:43:20.069480",
+    "enhanced_at": "2024-11-01 18:06:14.468861",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.342625",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.252217",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic alien"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin: A Vision from the Stars"
+    "title": "Alien Riot Police Robot on Alien Deer in a Futuristic Landscape"
 }
