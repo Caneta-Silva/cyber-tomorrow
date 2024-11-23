@@ -1,29 +1,29 @@
 {
-    "prompt": "Immerse yourself in a futuristic dystopian world with this stunning landscape image of a riot police robot designed in the iconic style of John Schoenherr. Witness the convergence of technology and authority as this imposing mechanized enforcer navigates through a tumultuous urban setting, evoking a sense of tension and intrigue. Let your imagination run wild as you explore the masterful blend of science fiction and artistry in this captivating depiction.",
+    "prompt": "An awe-inspiring image depicting a full-body view of an alien riot police robot styled after the works of John Schoenherr. The imposing robot is set against the backdrop of a futuristic alien spaceship, showcasing a blend of advanced technology and extraterrestrial design. The scene captures a sense of power and mystery, inviting viewers to immerse themselves in a sci-fi adventure like no other.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
-            "output": "Immerse yourself in a futuristic dystopian world with this stunning landscape image of a riot police robot designed in the iconic style of John Schoenherr. Witness the convergence of technology and authority as this imposing mechanized enforcer navigates through a tumultuous urban setting, evoking a sense of tension and intrigue. Let your imagination run wild as you explore the masterful blend of science fiction and artistry in this captivating depiction.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
+            "output": "An awe-inspiring image depicting a full-body view of an alien riot police robot styled after the works of John Schoenherr. The imposing robot is set against the backdrop of a futuristic alien spaceship, showcasing a blend of advanced technology and extraterrestrial design. The scene captures a sense of power and mystery, inviting viewers to immerse themselves in a sci-fi adventure like no other.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-23 19:37:18.722250",
+    "enhanced_at": "2024-11-23 20:14:23.872044",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.325194",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.378738",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic alien spaceship",
     "metadata": {
         "element": "riot police robot",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "giraffe",
+        "backdrop": "spaceship",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
+            "element": "alien",
             "backdrop": "futuristic alien"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Riot Police Bot in the Style of John Schoenherr"
+    "title": "Futuristic Alien Riot Police Robot"
 }
