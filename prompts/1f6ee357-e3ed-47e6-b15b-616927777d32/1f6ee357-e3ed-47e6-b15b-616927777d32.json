@@ -1,44 +1,44 @@
 {
-    "prompt": "Experience the awe-inspiring sight of a futuristic paladin-style military in a breathtaking landscape, expertly crafted in the style reminiscent of the legendary artist Bob Pepper. Immerse yourself in a world where technology meets medieval inspiration, as these valiant warriors stand ready to defend against any threat that may arise. Let your imagination soar as you admire the intricate detailing and dynamic composition of this captivating image.",
+    "prompt": "Experience a stunning depiction of a futuristic alien riot police robot as it stands tall against the backdrop of a dramatic and futuristic Martial landscape. This Wally Wood-inspired full body image captures the essence of advanced technology and an otherworldly presence in a visually captivating scene.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
-            "output": "Experience the awe-inspiring sight of a futuristic paladin-style military in a breathtaking landscape, expertly crafted in the style reminiscent of the legendary artist Bob Pepper. Immerse yourself in a world where technology meets medieval inspiration, as these valiant warriors stand ready to defend against any threat that may arise. Let your imagination soar as you admire the intricate detailing and dynamic composition of this captivating image.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "output": "Experience a stunning depiction of a futuristic alien riot police robot as it stands tall against the backdrop of a dramatic and futuristic Martial landscape. This Wally Wood-inspired full body image captures the essence of advanced technology and an otherworldly presence in a visually captivating scene.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-23 20:25:14.593955",
+    "enhanced_at": "2024-11-23 21:00:04.604482",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.310313",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.358056",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "elephant",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin Militia in Bob Pepper Style"
+    "title": "Futuristic Alien Riot Police Robot in a Martial Landscape"
 }
