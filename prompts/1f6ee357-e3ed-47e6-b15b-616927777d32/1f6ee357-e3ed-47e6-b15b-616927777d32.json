@@ -1,44 +1,44 @@
 {
-    "prompt": "A captivating full-body image depicting a futuristic alien riot police robot designed in the iconic style of Wally Wood. The scene features a landscape filled with advanced technology and ominous presence, showcasing the unique design and powerful stance of the robotic enforcer.",
+    "prompt": "Immerse yourself in this captivating scene where an otherworldly riot police robot confidently rides an alien-like camel in a surreal martial landscape. Inspired by the intricate style of Rafal Olbinski, this image combines futuristic elements with an otherworldly terrain, transporting the viewer to a realm where technology and nature seamlessly coexist. Let this visually striking composition spark your imagination and take you on a journey to a distant and mysterious world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
-            "output": "A captivating full-body image depicting a futuristic alien riot police robot designed in the iconic style of Wally Wood. The scene features a landscape filled with advanced technology and ominous presence, showcasing the unique design and powerful stance of the robotic enforcer.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+            "output": "Immerse yourself in this captivating scene where an otherworldly riot police robot confidently rides an alien-like camel in a surreal martial landscape. Inspired by the intricate style of Rafal Olbinski, this image combines futuristic elements with an otherworldly terrain, transporting the viewer to a realm where technology and nature seamlessly coexist. Let this visually striking composition spark your imagination and take you on a journey to a distant and mysterious world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 11:39:00.083858",
+    "enhanced_at": "2024-11-24 11:44:54.660639",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.307842",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood",
+    "seeded_at": "2024-03-19 01:00:55.289220",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
     "metadata": {
         "element": "riot police robot",
-        "style": "Wally Wood",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "giraffe",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot Patrol"
+    "title": "Alien Riot Police Robot on Alien Camel in Martial Landscape"
 }
