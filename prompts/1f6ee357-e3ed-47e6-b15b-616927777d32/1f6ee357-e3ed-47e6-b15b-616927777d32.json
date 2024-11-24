@@ -1,30 +1,30 @@
 {
-    "prompt": "This striking image features a powerful riot police robot in a futuristic landscape, reminiscent of the iconic style of Wally Wood. The robot stands tall against the backdrop of an alien fortress, showcasing a blend of advanced technology and unknown worlds. The scene evokes a sense of mystery and intrigue, inviting viewers to imagine the dystopian future where machines and aliens collide.",
+    "prompt": "Immerse yourself in a sci-fi world with this stunning image of a riot police robot designed in the style of Wally Wood, set against the backdrop of a futuristic alien spaceship. Experience the clash of technology and alien aesthetics in this captivating landscape full body artwork.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
-            "output": "This striking image features a powerful riot police robot in a futuristic landscape, reminiscent of the iconic style of Wally Wood. The robot stands tall against the backdrop of an alien fortress, showcasing a blend of advanced technology and unknown worlds. The scene evokes a sense of mystery and intrigue, inviting viewers to imagine the dystopian future where machines and aliens collide.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+            "output": "Immerse yourself in a sci-fi world with this stunning image of a riot police robot designed in the style of Wally Wood, set against the backdrop of a futuristic alien spaceship. Experience the clash of technology and alien aesthetics in this captivating landscape full body artwork.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 01:19:21.973066",
+    "enhanced_at": "2024-11-24 02:12:37.842593",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.352031",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.352418",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
     "metadata": {
         "element": "riot police robot",
         "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
+        "backdrop": "spaceship",
         "animal": "gnu",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
-            "backdrop": "alien"
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Riot Police Robot in Alien Fortress Landscape"
+    "title": "Futuristic Riot Police Robot in Wally Wood Style"
 }
