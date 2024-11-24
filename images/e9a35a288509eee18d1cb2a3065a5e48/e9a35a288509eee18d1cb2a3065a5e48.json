@@ -1,0 +1,61 @@
+{
+    "id": "e9a35a288509eee18d1cb2a3065a5e48",
+    "title": "Neon Illusion of Authority",
+    "description": "Create a detailed image inspired by an otherworldly scene featuring an alien riot police robot. The robot stands tall and imposing in a futuristic landscape. It should be embellished with vibrant neon colours and intricate designs that convey an illusion of authority and power. The overall visual style should reflect the whimsical, surreal, and metaphorically dense characteristics typical of late 19th century Symbolism art using oil on canvas, bearing in mind that this combination results in a captivating and visually striking composition.",
+    "created": "2024-11-24 14:10:58.502322",
+    "prompt": {
+        "prompt": "Create a detailed image inspired by an otherworldly scene featuring an alien riot police robot. The robot stands tall and imposing in a futuristic landscape. It should be embellished with vibrant neon colours and intricate designs that convey an illusion of authority and power. The overall visual style should reflect the whimsical, surreal, and metaphorically dense characteristics typical of late 19th century Symbolism art using oil on canvas, bearing in mind that this combination results in a captivating and visually striking composition.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+                "output": "This stunning image portrays an otherworldly scene of an alien riot police robot, inspired by the surreal style of Rafal Olbinski. The robot stands tall and imposing in a futuristic landscape, adorned with vibrant neon colors and intricate designs that create an illusion of authority and power. The juxtaposition of the alien robot and the whimsical artistic style results in a captivating and visually striking composition.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This stunning image portrays an otherworldly scene of an alien riot police robot, inspired by the surreal style of Rafal Olbinski. The robot stands tall and imposing in a futuristic landscape, adorned with vibrant neon colors and intricate designs that create an illusion of authority and power. The juxtaposition of the alien robot and the whimsical artistic style results in a captivating and visually striking composition.",
+                "output": "Create a detailed image inspired by an otherworldly scene featuring an alien riot police robot. The robot stands tall and imposing in a futuristic landscape. It should be embellished with vibrant neon colours and intricate designs that convey an illusion of authority and power. The overall visual style should reflect the whimsical, surreal, and metaphorically dense characteristics typical of late 19th century Symbolism art using oil on canvas, bearing in mind that this combination results in a captivating and visually striking composition.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-24 14:10:56.736972",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-24 14:09:16.629200",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.338884",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Neon Illusion of Authority"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-5vKmxHR7LyWwsNOKO5RZPMr8.png?st=2024-11-24T13%3A10%3A51Z&se=2024-11-24T15%3A10%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T00%3A37%3A15Z&ske=2024-11-25T00%3A37%3A15Z&sks=b&skv=2024-08-04&sig=WQWXcR/DsgjzE9oj%2BMaFPjHPyrfcPSIXIk3TztcN6Fw%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/e9a35a288509eee18d1cb2a3065a5e48/e9a35a288509eee18d1cb2a3065a5e48.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
