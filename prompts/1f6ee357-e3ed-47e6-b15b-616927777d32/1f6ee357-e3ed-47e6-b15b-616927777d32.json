@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
+    "prompt": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
-            "output": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            "output": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 21:23:58.341977",
+    "enhanced_at": "2024-11-24 23:08:02.976431",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.371836",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.324925",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
     "metadata": {
-        "element": "paladin style military",
+        "element": "riot police robot",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
-        "animal": "horse",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
-            "backdrop": "futuristic"
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Paladin in a Martial Landscape"
+    "title": "Futuristic Riot Police Robot in the Style of John Schoenherr"
 }
