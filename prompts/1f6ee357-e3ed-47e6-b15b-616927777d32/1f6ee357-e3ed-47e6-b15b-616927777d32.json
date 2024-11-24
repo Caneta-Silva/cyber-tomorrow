@@ -1,26 +1,26 @@
 {
-    "prompt": "A stunning and intriguing image featuring an alien paladin style military figure, mounted on an alien-like camel, set against the backdrop of an otherworldly fortress. The artwork is inspired by the style of Rafal Olbinski, showcasing vibrant colors, surreal elements, and a sense of mystery and wonder. The composition captures a unique and fantastical scene that sparks the imagination and transports viewers to a distant and mesmerizing alien world.",
+    "prompt": "Immerse yourself in a vibrant and otherworldly scene as an alien paladin military figure stands in front of a majestic alien fortress. The intricate details and unique style reminiscent of artist Bob Pepper bring this fantastical landscape to life, inviting you to explore a dynamic and mysterious world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
-            "output": "A stunning and intriguing image featuring an alien paladin style military figure, mounted on an alien-like camel, set against the backdrop of an otherworldly fortress. The artwork is inspired by the style of Rafal Olbinski, showcasing vibrant colors, surreal elements, and a sense of mystery and wonder. The composition captures a unique and fantastical scene that sparks the imagination and transports viewers to a distant and mesmerizing alien world.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+            "output": "Immerse yourself in a vibrant and otherworldly scene as an alien paladin military figure stands in front of a majestic alien fortress. The intricate details and unique style reminiscent of artist Bob Pepper bring this fantastical landscape to life, inviting you to explore a dynamic and mysterious world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 13:43:19.761073",
+    "enhanced_at": "2024-11-24 13:46:30.671315",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.287474",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.365676",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
     "metadata": {
         "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
         "backdrop": "fortress",
-        "animal": "camel",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
             "element": "alien",
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military on Camel at Alien Fortress"
+    "title": "Alien Paladin Military in Bob Pepper Style"
 }
