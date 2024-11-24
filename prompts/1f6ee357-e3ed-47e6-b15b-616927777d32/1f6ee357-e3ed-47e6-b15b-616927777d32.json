@@ -1,30 +1,30 @@
 {
-    "prompt": "Immerse yourself in a vibrant and otherworldly scene as an alien paladin military figure stands in front of a majestic alien fortress. The intricate details and unique style reminiscent of artist Bob Pepper bring this fantastical landscape to life, inviting you to explore a dynamic and mysterious world.",
+    "prompt": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
-            "output": "Immerse yourself in a vibrant and otherworldly scene as an alien paladin military figure stands in front of a majestic alien fortress. The intricate details and unique style reminiscent of artist Bob Pepper bring this fantastical landscape to life, inviting you to explore a dynamic and mysterious world.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+            "output": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 13:46:30.671315",
+    "enhanced_at": "2024-11-24 13:59:06.916269",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.365676",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.368645",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
     "metadata": {
         "element": "paladin style military",
         "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "giraffe",
+        "backdrop": "spaceship",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military in Bob Pepper Style"
+    "title": "Futuristic Alien Paladin Military on Futuristic Spaceship"
 }
