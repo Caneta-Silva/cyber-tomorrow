@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a sci-fi world with this stunning image of a riot police robot designed in the style of Wally Wood, set against the backdrop of a futuristic alien spaceship. Experience the clash of technology and alien aesthetics in this captivating landscape full body artwork.",
+    "prompt": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
-            "output": "Immerse yourself in a sci-fi world with this stunning image of a riot police robot designed in the style of Wally Wood, set against the backdrop of a futuristic alien spaceship. Experience the clash of technology and alien aesthetics in this captivating landscape full body artwork.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            "output": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 02:12:37.842593",
+    "enhanced_at": "2024-11-24 02:28:09.826005",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.352418",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.337707",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Wally Wood",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "gnu",
+        "backdrop": "Martial landscape",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic alien"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Riot Police Robot in Wally Wood Style"
+    "title": "Alien Paladin Military in the Style of Rafal Olbinski"
 }
