@@ -1,30 +1,30 @@
 {
-    "prompt": "Immerse yourself in a breathtaking scene featuring a futuristic paladin-style military riding on an alien-like camel, set against the backdrop of a majestic spaceship. Inspired by the iconic Wally Wood style, this imaginative landscape captures the perfect blend of sci-fi and fantasy elements.",
+    "prompt": "Immerse yourself in a futuristic world as the alien riot police robot stands tall against the backdrop of an alien Martial landscape. Inspired by the style of John Schoenherr, this captivating image blends the elements of sci-fi, alien worlds, and law enforcement into a visually stunning scene.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic spaceship",
-            "output": "Immerse yourself in a breathtaking scene featuring a futuristic paladin-style military riding on an alien-like camel, set against the backdrop of a majestic spaceship. Inspired by the iconic Wally Wood style, this imaginative landscape captures the perfect blend of sci-fi and fantasy elements.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
+            "output": "Immerse yourself in a futuristic world as the alien riot police robot stands tall against the backdrop of an alien Martial landscape. Inspired by the style of John Schoenherr, this captivating image blends the elements of sci-fi, alien worlds, and law enforcement into a visually stunning scene.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 11:28:58.263912",
+    "enhanced_at": "2024-11-24 11:32:30.840189",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.243883",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.378066",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Wally Wood",
+        "element": "riot police robot",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "camel",
+        "backdrop": "Martial landscape",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Paladin on Alien Camel"
+    "title": "Riot Patrol: Alien Robot Enforcer"
 }
