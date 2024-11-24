@@ -1,0 +1,56 @@
+{
+    "id": "2c0c0e04ba103b5a667a717d49b63337",
+    "title": "Futuristic Paladin in a Martial Landscape",
+    "description": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
+    "created": "2024-11-24 21:27:37.705057",
+    "prompt": {
+        "prompt": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+                "output": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-24 21:23:58.341977",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.371836",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin in a Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-AhMQTe0dIg1wSGHcQVkrfPcb.png?st=2024-11-24T20%3A27%3A31Z&se=2024-11-24T22%3A27%3A31Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T00%3A27%3A01Z&ske=2024-11-25T00%3A27%3A01Z&sks=b&skv=2024-08-04&sig=bgCKACZXVZ7sHAKFm7tt6Bh9VfkHEkB%2BD5YtGJT28Zw%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/2c0c0e04ba103b5a667a717d49b63337/2c0c0e04ba103b5a667a717d49b63337.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
