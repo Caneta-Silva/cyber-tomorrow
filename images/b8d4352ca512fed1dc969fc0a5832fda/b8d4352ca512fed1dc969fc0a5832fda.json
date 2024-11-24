@@ -1,0 +1,61 @@
+{
+    "id": "b8d4352ca512fed1dc969fc0a5832fda",
+    "title": "Futuristic Alien Riot Police Robot: A Tribute to John Schoenherr",
+    "description": "Craft an image imbued with the qualities of an early 20th-century illustrator, using three key adjectives to describe the style: detailed, expansive, and evocative. Picture a landscape-oriented, full-body illustration of a futuristic riot police robot with alien aesthetics, interweaving elements related to the Sci-Fi and cyberpunk genres into the scene. It merges realities, capturing the soul of otherworldly technological advancement, and does this as an homage to the artists who envisioned futuristic realms with their extraordinary creative gifts.",
+    "created": "2024-11-24 23:32:11.811579",
+    "prompt": {
+        "prompt": "Craft an image imbued with the qualities of an early 20th-century illustrator, using three key adjectives to describe the style: detailed, expansive, and evocative. Picture a landscape-oriented, full-body illustration of a futuristic riot police robot with alien aesthetics, interweaving elements related to the Sci-Fi and cyberpunk genres into the scene. It merges realities, capturing the soul of otherworldly technological advancement, and does this as an homage to the artists who envisioned futuristic realms with their extraordinary creative gifts.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+            {
+                "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+                "output": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
+                "output": "Craft an image imbued with the qualities of an early 20th-century illustrator, using three key adjectives to describe the style: detailed, expansive, and evocative. Picture a landscape-oriented, full-body illustration of a futuristic riot police robot with alien aesthetics, interweaving elements related to the Sci-Fi and cyberpunk genres into the scene. It merges realities, capturing the soul of otherworldly technological advancement, and does this as an homage to the artists who envisioned futuristic realms with their extraordinary creative gifts.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-24 23:32:09.887991",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-24 23:28:30.818820",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.331865",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot: A Tribute to John Schoenherr"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Qm8kKObx1VrYPz8xiq02YD8X.png?st=2024-11-24T22%3A32%3A04Z&se=2024-11-25T00%3A32%3A04Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T07%3A14%3A53Z&ske=2024-11-25T07%3A14%3A53Z&sks=b&skv=2024-08-04&sig=1mKSmpOESufJOsd7oZ6oTuUCoGw/MttxwyG%2BXl7hfVA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/b8d4352ca512fed1dc969fc0a5832fda/b8d4352ca512fed1dc969fc0a5832fda.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
