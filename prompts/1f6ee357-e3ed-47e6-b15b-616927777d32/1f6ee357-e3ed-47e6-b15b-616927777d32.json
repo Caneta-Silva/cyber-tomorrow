@@ -1,44 +1,44 @@
 {
-    "prompt": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
+    "prompt": "An imaginative depiction of an alien paladin style military leader mounted on a majestic alien rhino, set against the backdrop of a futuristic fortress. The scene evokes a sense of power and grandeur, with intricate details reminiscent of the distinct artistic style of Bob Pepper.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            "output": "An imaginative depiction of an alien paladin style military leader mounted on a majestic alien rhino, set against the backdrop of a futuristic fortress. The scene evokes a sense of power and grandeur, with intricate details reminiscent of the distinct artistic style of Bob Pepper.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 02:28:09.826005",
+    "enhanced_at": "2024-11-24 03:01:42.056907",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.337707",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.260820",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Bob Pepper against the backdrop of a futuristic fortress",
     "metadata": {
         "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
             "element": "alien",
-            "backdrop": "alien"
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military in the Style of Rafal Olbinski"
+    "title": "Alien Paladin Military Leader Riding a Rhino"
 }
