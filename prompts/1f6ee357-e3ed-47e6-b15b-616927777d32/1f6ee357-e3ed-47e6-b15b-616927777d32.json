@@ -1,30 +1,30 @@
 {
-    "prompt": "Immerse yourself in the futuristic world of the Galactic Enforcers as you witness an alien riot police robot atop an otherworldly deer-like creature, skillfully designed in the iconic Wally Wood style. The stunning image captures the powerful duo standing against the backdrop of a looming futuristic spaceship, evoking a sense of mystery and grandeur in this captivating sci-fi landscape.",
+    "prompt": "Immerse yourself in a fantastical world as you behold an alien paladin leading his military forces while mounted on a majestic alien giraffe. The intricate details and vibrant colors of John Schoenherr's style bring this extraordinary scene to life, set against the backdrop of an alien fortress, showcasing a blend of technology and nature in perfect harmony.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
-            "output": "Immerse yourself in the futuristic world of the Galactic Enforcers as you witness an alien riot police robot atop an otherworldly deer-like creature, skillfully designed in the iconic Wally Wood style. The stunning image captures the powerful duo standing against the backdrop of a looming futuristic spaceship, evoking a sense of mystery and grandeur in this captivating sci-fi landscape.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
+            "output": "Immerse yourself in a fantastical world as you behold an alien paladin leading his military forces while mounted on a majestic alien giraffe. The intricate details and vibrant colors of John Schoenherr's style bring this extraordinary scene to life, set against the backdrop of an alien fortress, showcasing a blend of technology and nature in perfect harmony.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 14:36:36.331951",
+    "enhanced_at": "2024-11-24 14:44:49.616319",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.251447",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.273452",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
     "metadata": {
-        "element": "riot police robot",
-        "style": "Wally Wood",
+        "element": "paladin style military",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "deer",
+        "backdrop": "fortress",
+        "animal": "giraffe",
         "modifiers": {
             "image": "full body",
             "element": "alien",
-            "backdrop": "futuristic"
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Galactic Enforcers: The Alien Riot Police"
+    "title": "The Alien Paladin on Giraffe Mount"
 }
