@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts a futuristic alien riot police robot mounted on an alien-like elephant, set against the backdrop of a futuristic alien fortress. Inspired by the style of renowned artist John Schoenherr, this landscape showcases a unique blend of sci-fi and fantasy elements in a visually captivating setting.",
+    "prompt": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+        "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
-            "output": "This stunning image depicts a futuristic alien riot police robot mounted on an alien-like elephant, set against the backdrop of a futuristic alien fortress. Inspired by the style of renowned artist John Schoenherr, this landscape showcases a unique blend of sci-fi and fantasy elements in a visually captivating setting.",
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+            "output": "Immerse yourself in a visually stunning image of a futuristic paladin, clad in advanced military gear inspired by John Schoenherr's style, standing proud against a backdrop of a technologically advanced and martial landscape. The intricate details and sci-fi elements in this artwork transport you to a world where honor and innovation converge in a mesmerizing display of creativity.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 18:45:13.559492",
+    "enhanced_at": "2024-11-24 21:23:58.341977",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.281769",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.371836",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "elephant",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic alien"
+            "element": "futuristic",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot and Alien Elephant in Alien Fortress"
+    "title": "Futuristic Paladin in a Martial Landscape"
 }
