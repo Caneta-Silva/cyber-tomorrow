@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a fantastical world as you behold an alien paladin leading his military forces while mounted on a majestic alien giraffe. The intricate details and vibrant colors of John Schoenherr's style bring this extraordinary scene to life, set against the backdrop of an alien fortress, showcasing a blend of technology and nature in perfect harmony.",
+    "prompt": "Explore a mesmerizing landscape where a striking futuristic riot police robot stands tall. This visually stunning image, inspired by the iconic style of John Schoenherr, captures the essence of advanced technology and law enforcement in a dynamic and captivating way.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
-            "output": "Immerse yourself in a fantastical world as you behold an alien paladin leading his military forces while mounted on a majestic alien giraffe. The intricate details and vibrant colors of John Schoenherr's style bring this extraordinary scene to life, set against the backdrop of an alien fortress, showcasing a blend of technology and nature in perfect harmony.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            "output": "Explore a mesmerizing landscape where a striking futuristic riot police robot stands tall. This visually stunning image, inspired by the iconic style of John Schoenherr, captures the essence of advanced technology and law enforcement in a dynamic and captivating way.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 14:44:49.616319",
+    "enhanced_at": "2024-11-24 15:17:21.611908",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.273452",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.324925",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
     "metadata": {
-        "element": "paladin style military",
+        "element": "riot police robot",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "giraffe",
+        "backdrop": "Martial landscape",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "The Alien Paladin on Giraffe Mount"
+    "title": "Futuristic Riot Police Robot in the Style of John Schoenherr"
 }
