@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
+    "prompt": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
-            "output": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+            "output": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 23:08:02.976431",
+    "enhanced_at": "2024-11-24 23:28:30.818820",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.324925",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.331865",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
     "metadata": {
         "element": "riot police robot",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "spaceship",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Riot Police Robot in the Style of John Schoenherr"
+    "title": "Futuristic Alien Riot Police Robot: A Tribute to John Schoenherr"
 }
