@@ -1,44 +1,44 @@
 {
-    "prompt": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
+    "prompt": "An imposing landscape showcasing a full-body image of an alien riot police robot, designed in the style of John Schoenherr. The futuristic fortress backdrop adds a dramatic touch, emphasizing the robot's formidable presence as the guardian of tomorrow's world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "A stunning full body image of an alien paladin in a military attire, inspired by the unique artistic style of Rafal Olbinski. The scene captures the essence of otherworldly elegance and strength, showcasing intricate details and vibrant colors that transport the viewer to a fantastical realm.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic fortress",
+            "output": "An imposing landscape showcasing a full-body image of an alien riot police robot, designed in the style of John Schoenherr. The futuristic fortress backdrop adds a dramatic touch, emphasizing the robot's formidable presence as the guardian of tomorrow's world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 02:28:09.826005",
+    "enhanced_at": "2024-11-24 02:39:17.733508",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.337707",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.377747",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a futuristic fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
             "element": "alien",
-            "backdrop": "alien"
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military in the Style of Rafal Olbinski"
+    "title": "Sentinel of the Future"
 }
