@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts a futuristic alien paladin in military gear, mounted on an alien-like deer, against the backdrop of a towering futuristic alien spaceship. The detailed illustration is inspired by the style of Wally Wood, featuring intricate designs and vibrant colors that bring this otherworldly scene to life.",
+    "prompt": "A stunning and intriguing image featuring an alien paladin style military figure, mounted on an alien-like camel, set against the backdrop of an otherworldly fortress. The artwork is inspired by the style of Rafal Olbinski, showcasing vibrant colors, surreal elements, and a sense of mystery and wonder. The composition captures a unique and fantastical scene that sparks the imagination and transports viewers to a distant and mesmerizing alien world.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
-            "output": "This stunning image depicts a futuristic alien paladin in military gear, mounted on an alien-like deer, against the backdrop of a towering futuristic alien spaceship. The detailed illustration is inspired by the style of Wally Wood, featuring intricate designs and vibrant colors that bring this otherworldly scene to life.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "output": "A stunning and intriguing image featuring an alien paladin style military figure, mounted on an alien-like camel, set against the backdrop of an otherworldly fortress. The artwork is inspired by the style of Rafal Olbinski, showcasing vibrant colors, surreal elements, and a sense of mystery and wonder. The composition captures a unique and fantastical scene that sparks the imagination and transports viewers to a distant and mesmerizing alien world.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 13:31:34.493122",
+    "enhanced_at": "2024-11-24 13:43:19.761073",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.254407",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.287474",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien fortress",
     "metadata": {
         "element": "paladin style military",
-        "style": "Wally Wood",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "deer",
+        "backdrop": "fortress",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "futuristic alien"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": true,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Paladin on Alien Deer with Spaceship Backdrop"
+    "title": "Alien Paladin Military on Camel at Alien Fortress"
 }
