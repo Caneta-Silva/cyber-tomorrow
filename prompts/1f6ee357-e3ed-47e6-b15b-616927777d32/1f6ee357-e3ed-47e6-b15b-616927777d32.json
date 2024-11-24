@@ -1,29 +1,29 @@
 {
-    "prompt": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
+    "prompt": "This stunning image portrays an otherworldly scene of an alien riot police robot, inspired by the surreal style of Rafal Olbinski. The robot stands tall and imposing in a futuristic landscape, adorned with vibrant neon colors and intricate designs that create an illusion of authority and power. The juxtaposition of the alien robot and the whimsical artistic style results in a captivating and visually striking composition.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
-            "output": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+            "output": "This stunning image portrays an otherworldly scene of an alien riot police robot, inspired by the surreal style of Rafal Olbinski. The robot stands tall and imposing in a futuristic landscape, adorned with vibrant neon colors and intricate designs that create an illusion of authority and power. The juxtaposition of the alien robot and the whimsical artistic style results in a captivating and visually striking composition.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 13:59:06.916269",
+    "enhanced_at": "2024-11-24 14:09:16.629200",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.368645",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+    "seeded_at": "2024-03-19 01:00:55.338884",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
+        "backdrop": "Martial landscape",
         "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
+            "element": "alien",
             "backdrop": "futuristic"
         }
     },
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": true
+            "backdrop": false
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin Military on Futuristic Spaceship"
+    "title": "Neon Illusion of Authority"
 }
