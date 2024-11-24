@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in this captivating scene where an otherworldly riot police robot confidently rides an alien-like camel in a surreal martial landscape. Inspired by the intricate style of Rafal Olbinski, this image combines futuristic elements with an otherworldly terrain, transporting the viewer to a realm where technology and nature seamlessly coexist. Let this visually striking composition spark your imagination and take you on a journey to a distant and mysterious world.",
+    "prompt": "A stunning depiction of a high-tech alien riot police robot patrolling a futuristic landscape, inspired by the iconic style of renowned artist John Schoenherr. With intricate detailing and vibrant colors, this image captures the essence of a dynamic and otherworldly law enforcement presence in a visually striking manner.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
-            "output": "Immerse yourself in this captivating scene where an otherworldly riot police robot confidently rides an alien-like camel in a surreal martial landscape. Inspired by the intricate style of Rafal Olbinski, this image combines futuristic elements with an otherworldly terrain, transporting the viewer to a realm where technology and nature seamlessly coexist. Let this visually striking composition spark your imagination and take you on a journey to a distant and mysterious world.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+            "output": "A stunning depiction of a high-tech alien riot police robot patrolling a futuristic landscape, inspired by the iconic style of renowned artist John Schoenherr. With intricate detailing and vibrant colors, this image captures the essence of a dynamic and otherworldly law enforcement presence in a visually striking manner.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 11:44:54.660639",
+    "enhanced_at": "2024-11-24 12:14:14.730601",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.289220",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.333020",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
     "metadata": {
         "element": "riot police robot",
-        "style": "Rafal Olbinski",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
         "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Alien Riot Police Robot on Alien Camel in Martial Landscape"
+    "title": "Futuristic Alien Riot Police Robot in the Style of John Schoenherr"
 }
