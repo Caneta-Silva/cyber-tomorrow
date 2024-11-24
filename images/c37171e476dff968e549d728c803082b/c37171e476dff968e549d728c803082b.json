@@ -1,0 +1,61 @@
+{
+    "id": "c37171e476dff968e549d728c803082b",
+    "title": "Futuristic Alien Paladin Military on Futuristic Spaceship",
+    "description": "Imagine a grand epic image of a futuristic extraterrestrial military of knights. They stand tall and proud against the backdrop of an advanced, sleek spaceship. These soldiers wear complex, intricately designed armor and carry futuristic weapons, evoking a sense of power and mystery. The scene calls to mind a style blending elements of mystic fantasy and technology, reminiscent of illustrative styles prevalent in the late 19th century. Think of the drama of Romanticism, the vivid colors and linearity of the Pre-Raphaelites, mixed with the pioneering adventurousness of early science fiction serials. Try to recreate this scene in a medium reminiscent to watercolors and ink.",
+    "created": "2024-11-24 14:02:28.739377",
+    "prompt": {
+        "prompt": "Imagine a grand epic image of a futuristic extraterrestrial military of knights. They stand tall and proud against the backdrop of an advanced, sleek spaceship. These soldiers wear complex, intricately designed armor and carry futuristic weapons, evoking a sense of power and mystery. The scene calls to mind a style blending elements of mystic fantasy and technology, reminiscent of illustrative styles prevalent in the late 19th century. Think of the drama of Romanticism, the vivid colors and linearity of the Pre-Raphaelites, mixed with the pioneering adventurousness of early science fiction serials. Try to recreate this scene in a medium reminiscent to watercolors and ink.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+                "output": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
+                "type": "enhanced"
+            },
+            {
+                "input": "An epic image depicting a futuristic alien paladin military standing proudly against the backdrop of a sleek, advanced spaceship. The soldiers don intricate armor and carry futuristic weapons, evoking a sense of power and mystery. The scene is reminiscent of the art style of Bob Pepper, blending elements of fantasy and technology in a captivating composition.",
+                "output": "Imagine a grand epic image of a futuristic extraterrestrial military of knights. They stand tall and proud against the backdrop of an advanced, sleek spaceship. These soldiers wear complex, intricately designed armor and carry futuristic weapons, evoking a sense of power and mystery. The scene calls to mind a style blending elements of mystic fantasy and technology, reminiscent of illustrative styles prevalent in the late 19th century. Think of the drama of Romanticism, the vivid colors and linearity of the Pre-Raphaelites, mixed with the pioneering adventurousness of early science fiction serials. Try to recreate this scene in a medium reminiscent to watercolors and ink.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-24 14:02:26.847431",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-24 13:59:06.916269",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.368645",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin Military on Futuristic Spaceship"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ZtXeAweNmEzRjvzLKgpk2SxT.png?st=2024-11-24T13%3A02%3A22Z&se=2024-11-24T15%3A02%3A22Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T01%3A08%3A13Z&ske=2024-11-25T01%3A08%3A13Z&sks=b&skv=2024-08-04&sig=8f0ZZelQQZ%2BM8Pbj0SgaXnc%2BEL2eggzNtmeYy0Qdf2s%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c37171e476dff968e549d728c803082b/c37171e476dff968e549d728c803082b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
