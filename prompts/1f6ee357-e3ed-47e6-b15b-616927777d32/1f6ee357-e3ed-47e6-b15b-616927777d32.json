@@ -1,30 +1,30 @@
 {
-    "prompt": "An awe-inspiring image of a futuristic alien riot police robot standing tall against the backdrop of a surreal alien Martial landscape. The robot's design is intricately detailed with a blend of futuristic technology and alien aesthetics, reminiscent of the artwork by Bob Pepper. The landscape is vivid and vibrant, with unique flora and fauna adding to the otherworldly atmosphere.",
+    "prompt": "This stunning image depicts a futuristic alien riot police robot mounted on an alien-like elephant, set against the backdrop of a futuristic alien fortress. Inspired by the style of renowned artist John Schoenherr, this landscape showcases a unique blend of sci-fi and fantasy elements in a visually captivating setting.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
-            "output": "An awe-inspiring image of a futuristic alien riot police robot standing tall against the backdrop of a surreal alien Martial landscape. The robot's design is intricately detailed with a blend of futuristic technology and alien aesthetics, reminiscent of the artwork by Bob Pepper. The landscape is vivid and vibrant, with unique flora and fauna adding to the otherworldly atmosphere.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+            "output": "This stunning image depicts a futuristic alien riot police robot mounted on an alien-like elephant, set against the backdrop of a futuristic alien fortress. Inspired by the style of renowned artist John Schoenherr, this landscape showcases a unique blend of sci-fi and fantasy elements in a visually captivating setting.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 16:22:26.783866",
+    "enhanced_at": "2024-11-24 18:45:13.559492",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.370727",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.281769",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
     "metadata": {
         "element": "riot police robot",
-        "style": "Bob Pepper",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "giraffe",
+        "backdrop": "fortress",
+        "animal": "elephant",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
-            "backdrop": "alien"
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
+            "element": true,
             "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot on Alien Martial Landscape"
+    "title": "Futuristic Alien Riot Police Robot and Alien Elephant in Alien Fortress"
 }
