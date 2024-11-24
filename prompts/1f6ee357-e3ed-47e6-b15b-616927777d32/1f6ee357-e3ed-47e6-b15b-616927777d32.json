@@ -1,30 +1,30 @@
 {
-    "prompt": "Immerse yourself in a futuristic world as the alien riot police robot stands tall against the backdrop of an alien Martial landscape. Inspired by the style of John Schoenherr, this captivating image blends the elements of sci-fi, alien worlds, and law enforcement into a visually stunning scene.",
+    "prompt": "An intriguing image of a futuristic alien riot police robot, inspired by the style of Bob Pepper, standing imposingly in front of a sleek and otherworldly alien spaceship. The scene conveys a sense of advanced technology and intergalactic security, with the robot's presence serving as a guard to the mysterious vessel behind them.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
         {
-            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
-            "output": "Immerse yourself in a futuristic world as the alien riot police robot stands tall against the backdrop of an alien Martial landscape. Inspired by the style of John Schoenherr, this captivating image blends the elements of sci-fi, alien worlds, and law enforcement into a visually stunning scene.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
+            "output": "An intriguing image of a futuristic alien riot police robot, inspired by the style of Bob Pepper, standing imposingly in front of a sleek and otherworldly alien spaceship. The scene conveys a sense of advanced technology and intergalactic security, with the robot's presence serving as a guard to the mysterious vessel behind them.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 11:32:30.840189",
+    "enhanced_at": "2024-11-24 11:35:28.510042",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.378066",
-    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.371615",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
     "metadata": {
         "element": "riot police robot",
-        "style": "John Schoenherr",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
+        "backdrop": "spaceship",
         "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Riot Patrol: Alien Robot Enforcer"
+    "title": "Futuristic Alien Riot Police Robot Guarding Alien Spaceship"
 }
