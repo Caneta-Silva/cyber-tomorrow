@@ -1092,6 +1092,62 @@
         "tags": []
     },
     {
+        "id": "db45d13ecb1fdafd1cc2e770f7047e3e",
+        "title": "Futuristic Riot Police Robot in the Style of John Schoenherr",
+        "description": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
+        "created": "2024-11-24 23:11:45.135712",
+        "prompt": {
+            "prompt": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
+            "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+                {
+                    "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+                    "output": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-11-24 23:08:02.976431",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.324925",
+            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "John Schoenherr",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "rhino",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Futuristic Riot Police Robot in the Style of John Schoenherr"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-jV3pAevhI46H4htXd0wARRLf.png?st=2024-11-24T22%3A11%3A37Z&se=2024-11-25T00%3A11%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T00%3A13%3A40Z&ske=2024-11-25T00%3A13%3A40Z&sks=b&skv=2024-08-04&sig=9GwKcvXwD5hz5QKjkWL3/A50yoHBn5aCdSCmrNhs%2Blk%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/db45d13ecb1fdafd1cc2e770f7047e3e/db45d13ecb1fdafd1cc2e770f7047e3e.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "d3d7eadf5fcc417e7157f314dae07349",
         "title": "Galactic Enforcers: The Alien Riot Police Robot and the Enigmatic Elephant",
         "description": "This fascinating image illustrates a futuristic spectacle from a distant galaxy. It depicts an intimidating alien riot police robot, cloaked in intricate armor and equipped with high-tech weaponry, seated nobly on a graceful alien-like elephant. The tableau is set against a backdrop of a towering spaceship, replete with sparkling lights and streamlined metallic structures. With a style reproducing the surrealism and science fiction blend of three defining characteristics: intricate detail, rich symbolism, and distorted reality \u2013 akin to the artistic stroke from an era of Victorian Surrealism painted primarily in oil.",
