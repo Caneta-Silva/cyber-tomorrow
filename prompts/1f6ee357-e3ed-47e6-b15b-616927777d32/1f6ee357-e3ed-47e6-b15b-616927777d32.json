@@ -1,44 +1,44 @@
 {
-    "prompt": "Immerse yourself in a futuristic world where a formidable alien riot police robot, mounted atop an alien-like horse, stands as the stoic guardian of an otherworldly spaceship. This captivating image, inspired by the style of artist Bob Pepper, showcases a stunning blend of advanced technology and alien aesthetics against the mysterious backdrop of an extraterrestrial vessel. Explore the realms of science fiction and fantasy as you envision this unique and dynamic scene come to life.",
+    "prompt": "This artwork captures an otherworldly scene of an alien riot police robot standing as a guardian of a turbulent alien landscape. Inspired by the surreal style of Rafal Olbinski, the image exudes a sense of mystery, power, and fantastical elegance.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Bob Pepper against the backdrop of a alien spaceship",
+        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Bob Pepper against the backdrop of a alien spaceship",
-            "output": "Immerse yourself in a futuristic world where a formidable alien riot police robot, mounted atop an alien-like horse, stands as the stoic guardian of an otherworldly spaceship. This captivating image, inspired by the style of artist Bob Pepper, showcases a stunning blend of advanced technology and alien aesthetics against the mysterious backdrop of an extraterrestrial vessel. Explore the realms of science fiction and fantasy as you envision this unique and dynamic scene come to life.",
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+            "output": "This artwork captures an otherworldly scene of an alien riot police robot standing as a guardian of a turbulent alien landscape. Inspired by the surreal style of Rafal Olbinski, the image exudes a sense of mystery, power, and fantastical elegance.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 12:34:48.005450",
+    "enhanced_at": "2024-11-24 13:13:29.185849",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.267842",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like horse in the style of Bob Pepper against the backdrop of a alien spaceship",
+    "seeded_at": "2024-03-19 01:00:55.338742",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
     "metadata": {
         "element": "riot police robot",
-        "style": "Bob Pepper",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
+        "backdrop": "Martial landscape",
         "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "alien"
+            "element": "alien",
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Riot Police: Guardian of the Alien Spaceship"
+    "title": "Sentinel of the Stars: A Surreal Interpretation of Alien Riot Police Robot"
 }
