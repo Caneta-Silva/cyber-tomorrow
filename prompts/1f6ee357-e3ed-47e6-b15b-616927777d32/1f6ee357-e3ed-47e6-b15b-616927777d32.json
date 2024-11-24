@@ -1,26 +1,26 @@
 {
-    "prompt": "This stunning image depicts a landscape where an otherworldly alien paladin military is standing tall and ready for battle. The warriors are clad in intricate armor adorned with mystical symbols, reflecting the unique style of Bob Pepper. The scene is both mysterious and captivating, drawing the viewer into a world of fantasy and adventure.",
+    "prompt": "Immerse yourself in the futuristic world of the Galactic Enforcers as you witness an alien riot police robot atop an otherworldly deer-like creature, skillfully designed in the iconic Wally Wood style. The stunning image captures the powerful duo standing against the backdrop of a looming futuristic spaceship, evoking a sense of mystery and grandeur in this captivating sci-fi landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
-            "output": "This stunning image depicts a landscape where an otherworldly alien paladin military is standing tall and ready for battle. The warriors are clad in intricate armor adorned with mystical symbols, reflecting the unique style of Bob Pepper. The scene is both mysterious and captivating, drawing the viewer into a world of fantasy and adventure.",
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
+            "output": "Immerse yourself in the futuristic world of the Galactic Enforcers as you witness an alien riot police robot atop an otherworldly deer-like creature, skillfully designed in the iconic Wally Wood style. The stunning image captures the powerful duo standing against the backdrop of a looming futuristic spaceship, evoking a sense of mystery and grandeur in this captivating sci-fi landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 14:24:42.448185",
+    "enhanced_at": "2024-11-24 14:36:36.331951",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.314274",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
+    "seeded_at": "2024-03-19 01:00:55.251447",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic spaceship",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Bob Pepper",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "camel",
+        "backdrop": "spaceship",
+        "animal": "deer",
         "modifiers": {
             "image": "full body",
             "element": "alien",
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Mystical Alien Paladin Military in the Style of Bob Pepper"
+    "title": "Galactic Enforcers: The Alien Riot Police"
 }
