@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts a landscape full body illustration of a futuristic alien warrior in paladin style military attire, inspired by the iconic artistry of Rafal Olbinski. The warrior exudes power and grace, with intricate armor and otherworldly weaponry, set against a backdrop of a mesmerizing futuristic environment.",
+    "prompt": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
-            "output": "This stunning image depicts a landscape full body illustration of a futuristic alien warrior in paladin style military attire, inspired by the iconic artistry of Rafal Olbinski. The warrior exudes power and grace, with intricate armor and otherworldly weaponry, set against a backdrop of a mesmerizing futuristic environment.",
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            "output": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-25 08:09:17.887653",
+    "enhanced_at": "2024-11-25 19:06:40.267272",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.342214",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.338474",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
         "element": "paladin style military",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
+        "backdrop": "spaceship",
         "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "alien"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Paladin Warrior in the Style of Rafal Olbinski"
+    "title": "Extraterrestrial Warrior: Alien Paladin Military"
 }
