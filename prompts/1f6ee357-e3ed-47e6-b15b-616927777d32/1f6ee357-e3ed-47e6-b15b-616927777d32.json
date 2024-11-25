@@ -1,26 +1,26 @@
 {
-    "prompt": "This stunning image features a futuristic paladin clad in military armor, riding gracefully on an otherworldly deer. The scene is reminiscent of Wally Wood's iconic style, with intricate details and dynamic composition. In the background looms a mysterious alien fortress, setting the stage for an epic battle or daring mission. The juxtaposition of futuristic technology and fantastical creatures creates a captivating and immersive landscape that is sure to ignite the imagination.",
+    "prompt": "An impressive full-body depiction of a futuristic riot police robot designed in the artistic style reminiscent of John Schoenherr. The image showcases the advanced technology and imposing presence of the robot as it patrols a futuristic landscape, ready to maintain order and peace in a world of uncertainty and unrest.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
-            "output": "This stunning image features a futuristic paladin clad in military armor, riding gracefully on an otherworldly deer. The scene is reminiscent of Wally Wood's iconic style, with intricate details and dynamic composition. In the background looms a mysterious alien fortress, setting the stage for an epic battle or daring mission. The juxtaposition of futuristic technology and fantastical creatures creates a captivating and immersive landscape that is sure to ignite the imagination.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+            "output": "An impressive full-body depiction of a futuristic riot police robot designed in the artistic style reminiscent of John Schoenherr. The image showcases the advanced technology and imposing presence of the robot as it patrols a futuristic landscape, ready to maintain order and peace in a world of uncertainty and unrest.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-25 19:19:28.558027",
+    "enhanced_at": "2024-11-25 19:28:11.672217",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.244715",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Wally Wood against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.324323",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Wally Wood",
+        "element": "riot police robot",
+        "style": "John Schoenherr",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
-        "animal": "deer",
+        "backdrop": "Martial landscape",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Galactic Paladin: Riding to Conquer the Alien Fortress"
+    "title": "Futuristic Riot Police Robot Patrol"
 }
