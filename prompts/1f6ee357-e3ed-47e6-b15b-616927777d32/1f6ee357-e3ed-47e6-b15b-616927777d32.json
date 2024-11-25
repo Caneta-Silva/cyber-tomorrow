@@ -1,30 +1,30 @@
 {
-    "prompt": "This captivating image depicts a towering Alien Riot Police Robot, inspired by the style of Wally Wood, patrolling the imposing backdrop of an alien fortress. The intricate details of the robot's design and the otherworldly architecture of the fortress create a sense of wonder and mystery in this futuristic landscape.",
+    "prompt": "This captivating image showcases an alien paladin-style military figure mounted on a majestic alien gnu, set against the backdrop of a futuristic alien fortress. The illustration is intricately detailed with a nod to the iconic style of Wally Wood, blending elements of fantasy and science fiction in a mesmerizing display of otherworldly imagination.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic alien fortress",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
-            "output": "This captivating image depicts a towering Alien Riot Police Robot, inspired by the style of Wally Wood, patrolling the imposing backdrop of an alien fortress. The intricate details of the robot's design and the otherworldly architecture of the fortress create a sense of wonder and mystery in this futuristic landscape.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic alien fortress",
+            "output": "This captivating image showcases an alien paladin-style military figure mounted on a majestic alien gnu, set against the backdrop of a futuristic alien fortress. The illustration is intricately detailed with a nod to the iconic style of Wally Wood, blending elements of fantasy and science fiction in a mesmerizing display of otherworldly imagination.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-25 19:15:30.779580",
+    "enhanced_at": "2024-11-25 19:17:20.300183",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.358973",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+    "seeded_at": "2024-03-19 01:00:55.250980",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like gnu in the style of Wally Wood against the backdrop of a futuristic alien fortress",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "Wally Wood",
         "aspect_ratio": "landscape",
         "backdrop": "fortress",
-        "animal": "horse",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic alien",
-            "backdrop": "alien"
+            "element": "alien",
+            "backdrop": "futuristic alien"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
+            "element": true,
             "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Alien Riot Police Robot patrolling Alien Fortress"
+    "title": "Warrior of the Unknown Realms"
 }
