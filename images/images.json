@@ -1849,6 +1849,67 @@
         "tags": []
     },
     {
+        "id": "0ce2ad886f11e4f3cc6be12850c70eaf",
+        "title": "Extraterrestrial Warrior: Alien Paladin Military",
+        "description": "An image reflecting a visually captivating concept of an alien paladin military figure standing majestically in an enigmatic extraterrestrial terrain. The picture is inspired by a style that harmoniously combines elements of surrealism, romanticism, and fantasy, a style reminiscent of a time before 1912, reflected through the subtle use of oil paints. The alien soldier is decked in advanced, shiny armor that sparkles under the foreign light, projecting an aura of stern power and influence. The dreamlike surroundings provide a sense of unearthly magnificence, gripping the true spirit of a powerful alien guardian determined to guard their dominion.",
+        "created": "2024-11-25 19:10:26.933333",
+        "prompt": {
+            "prompt": "An image reflecting a visually captivating concept of an alien paladin military figure standing majestically in an enigmatic extraterrestrial terrain. The picture is inspired by a style that harmoniously combines elements of surrealism, romanticism, and fantasy, a style reminiscent of a time before 1912, reflected through the subtle use of oil paints. The alien soldier is decked in advanced, shiny armor that sparkles under the foreign light, projecting an aura of stern power and influence. The dreamlike surroundings provide a sense of unearthly magnificence, gripping the true spirit of a powerful alien guardian determined to guard their dominion.",
+            "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+            "prompt_history": [
+                "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+                {
+                    "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+                    "output": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
+                    "type": "enhanced"
+                },
+                {
+                    "input": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
+                    "output": "An image reflecting a visually captivating concept of an alien paladin military figure standing majestically in an enigmatic extraterrestrial terrain. The picture is inspired by a style that harmoniously combines elements of surrealism, romanticism, and fantasy, a style reminiscent of a time before 1912, reflected through the subtle use of oil paints. The alien soldier is decked in advanced, shiny armor that sparkles under the foreign light, projecting an aura of stern power and influence. The dreamlike surroundings provide a sense of unearthly magnificence, gripping the true spirit of a powerful alien guardian determined to guard their dominion.",
+                    "type": "revised"
+                }
+            ],
+            "revised_at": "2024-11-25 19:10:25.252017",
+            "revised_prompt": true,
+            "enhanced_at": "2024-11-25 19:06:40.267272",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.338474",
+            "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Rafal Olbinski",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Extraterrestrial Warrior: Alien Paladin Military"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-N6mchrWHFIMNsne97PsFgJow.png?st=2024-11-25T18%3A10%3A20Z&se=2024-11-25T20%3A10%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-25T16%3A15%3A45Z&ske=2024-11-26T16%3A15%3A45Z&sks=b&skv=2024-08-04&sig=0XZOIMKHS3rjQczC1S4vG1OciedSbCrVgb9c/EwDStw%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/0ce2ad886f11e4f3cc6be12850c70eaf/0ce2ad886f11e4f3cc6be12850c70eaf.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-3"
+    },
+    {
         "id": "ec182633bb3194456feb7a72d2473d83",
         "title": "Futuristic Alien Paladin Military",
         "description": "Create an image that embodies the textural and realist elements typical of the late 19th and early 20th-century landscape paintings, rendered in an oil paint medium. The scene should feature a futuristic alien paladin military, standing in an enigmatic extraterrestrial environment. Portray the soldiers in sleek, technologically advanced armor designs that incorporate aesthetics reminiscent of ancient warriors. The landscape, soldiers, and their armor should reflect a sense of honor, strength, and exceptional capabilities, creating an impactful visualization of otherworldly valor and prowess.",
