@@ -1,44 +1,44 @@
 {
-    "prompt": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
+    "prompt": "This captivating image depicts a towering Alien Riot Police Robot, inspired by the style of Wally Wood, patrolling the imposing backdrop of an alien fortress. The intricate details of the robot's design and the otherworldly architecture of the fortress create a sense of wonder and mystery in this futuristic landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
-            "output": "This visually striking image depicts an alien paladin military figure standing tall in a mysterious alien landscape, inspired by the unique style of artist Rafal Olbinski. The extraterrestrial warrior is adorned in high-tech armor that glistens in the unearthly light, exuding strength and power. The surreal scenery around them adds an element of otherworldly grandeur to the scene, capturing the essence of a formidable alien warrior sworn to protect their realm.",
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
+            "output": "This captivating image depicts a towering Alien Riot Police Robot, inspired by the style of Wally Wood, patrolling the imposing backdrop of an alien fortress. The intricate details of the robot's design and the otherworldly architecture of the fortress create a sense of wonder and mystery in this futuristic landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-25 19:06:40.267272",
+    "enhanced_at": "2024-11-25 19:15:30.779580",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.338474",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.358973",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Wally Wood",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "gnu",
+        "backdrop": "fortress",
+        "animal": "horse",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "futuristic alien"
+            "element": "futuristic alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
             "element": false,
-            "backdrop": false
+            "backdrop": true
         },
         "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Extraterrestrial Warrior: Alien Paladin Military"
+    "title": "Futuristic Alien Riot Police Robot patrolling Alien Fortress"
 }
