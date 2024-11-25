@@ -1,30 +1,30 @@
 {
-    "prompt": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
+    "prompt": "This stunning image depicts a landscape full body illustration of a futuristic alien warrior in paladin style military attire, inspired by the iconic artistry of Rafal Olbinski. The warrior exudes power and grace, with intricate armor and otherworldly weaponry, set against a backdrop of a mesmerizing futuristic environment.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
-            "output": "Inspired by the legendary artist John Schoenherr, this image showcases a landscape full body illustration of a futuristic alien riot police robot. Combining futuristic elements with alien aesthetics, this artwork captures the essence of Sci-Fi and cyberpunk genres, paying tribute to the visionary artwork of John Schoenherr.",
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            "output": "This stunning image depicts a landscape full body illustration of a futuristic alien warrior in paladin style military attire, inspired by the iconic artistry of Rafal Olbinski. The warrior exudes power and grace, with intricate armor and otherworldly weaponry, set against a backdrop of a mesmerizing futuristic environment.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-24 23:28:30.818820",
+    "enhanced_at": "2024-11-25 08:09:17.887653",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.331865",
-    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.342214",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
     "metadata": {
-        "element": "riot police robot",
-        "style": "John Schoenherr",
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "spaceship",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "gnu",
         "modifiers": {
             "image": "full body",
             "element": "futuristic alien",
-            "backdrop": "futuristic"
+            "backdrop": "alien"
         }
     },
     "template": {
@@ -40,5 +40,5 @@
         "animal": false,
         "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Alien Riot Police Robot: A Tribute to John Schoenherr"
+    "title": "Futuristic Alien Paladin Warrior in the Style of Rafal Olbinski"
 }
