@@ -1,0 +1,61 @@
+{
+    "id": "89822df48bebbaacbf7fe228fe1563d4",
+    "title": "Sentinel of Tomorrow: The Futuristic Riot Police Robot",
+    "description": "Envision a surreal scene in a dystopian landscape, highlighting the dominating existence of a futuristic law enforcement robot designed to maintain order in a fortress attributed to the times yet to come. This evocative piece mirrors a world of tomorrow, where technology and authority merge imperceptibly. The style alludes to distinctive characteristics of highly detailed, imaginative, and symbolic illustrative art, resembling artistic elements linked with surrealism of the late 19th century, traditionally rendered in detailed drawings.",
+    "created": "2024-11-26 13:27:56.614427",
+    "prompt": {
+        "prompt": "Envision a surreal scene in a dystopian landscape, highlighting the dominating existence of a futuristic law enforcement robot designed to maintain order in a fortress attributed to the times yet to come. This evocative piece mirrors a world of tomorrow, where technology and authority merge imperceptibly. The style alludes to distinctive characteristics of highly detailed, imaginative, and symbolic illustrative art, resembling artistic elements linked with surrealism of the late 19th century, traditionally rendered in detailed drawings.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
+                "output": "Immerse yourself in a surreal landscape as you witness the powerful and imposing presence of a futuristic riot police robot designed to uphold order and control within a fortress of the future. The artwork, created in the iconic style reminiscent of Bob Pepper, captures the essence of a dystopian world where technology and authority merge seamlessly.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in a surreal landscape as you witness the powerful and imposing presence of a futuristic riot police robot designed to uphold order and control within a fortress of the future. The artwork, created in the iconic style reminiscent of Bob Pepper, captures the essence of a dystopian world where technology and authority merge seamlessly.",
+                "output": "Envision a surreal scene in a dystopian landscape, highlighting the dominating existence of a futuristic law enforcement robot designed to maintain order in a fortress attributed to the times yet to come. This evocative piece mirrors a world of tomorrow, where technology and authority merge imperceptibly. The style alludes to distinctive characteristics of highly detailed, imaginative, and symbolic illustrative art, resembling artistic elements linked with surrealism of the late 19th century, traditionally rendered in detailed drawings.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-26 13:27:55.107699",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-26 13:25:08.341313",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.362928",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Sentinel of Tomorrow: The Futuristic Riot Police Robot"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-dVjR6onLWfPmaoXNQzj8dHcV.png?st=2024-11-26T12%3A27%3A49Z&se=2024-11-26T14%3A27%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T00%3A43%3A56Z&ske=2024-11-27T00%3A43%3A56Z&sks=b&skv=2024-08-04&sig=c1IXQ7oUvamVSs9uwAl%2BWUlpVT%2BEQR/yBj5CYB4bTlc%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/89822df48bebbaacbf7fe228fe1563d4/89822df48bebbaacbf7fe228fe1563d4.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
