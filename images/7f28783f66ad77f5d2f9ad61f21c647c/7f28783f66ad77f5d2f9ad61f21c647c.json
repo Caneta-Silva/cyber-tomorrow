@@ -1,0 +1,61 @@
+{
+    "id": "7f28783f66ad77f5d2f9ad61f21c647c",
+    "title": "Futuristic Alien Paladin Military Riding Alien Deer",
+    "description": "A captivating image that combines elements of futuristic technology, alien aesthetics, and eminent grandeur. It showcases an alien paladin, dressed in innovative military uniform, proudly perched atop a majestic alien deer. Behind them, a colossal alien spacecraft hovers, adding to the mystic allure of the scene. This picture is defined by its surrealistic qualities, intricate detailing, and imaginative storyline that is reminiscent of late 19th to early 20th-century symbolist art, primarily executed in oil painting.",
+    "created": "2024-11-26 22:48:00.066557",
+    "prompt": {
+        "prompt": "A captivating image that combines elements of futuristic technology, alien aesthetics, and eminent grandeur. It showcases an alien paladin, dressed in innovative military uniform, proudly perched atop a majestic alien deer. Behind them, a colossal alien spacecraft hovers, adding to the mystic allure of the scene. This picture is defined by its surrealistic qualities, intricate detailing, and imaginative storyline that is reminiscent of late 19th to early 20th-century symbolist art, primarily executed in oil painting.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+                "output": "This breathtaking image depicts a futuristic alien paladin in military attire mounted on a majestic alien deer, set against the backdrop of a looming alien spaceship. Inspired by the distinctive style of artist Rafal Olbinski, this scene captures a blend of futuristic technology, alien beauty, and otherworldly grandeur.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This breathtaking image depicts a futuristic alien paladin in military attire mounted on a majestic alien deer, set against the backdrop of a looming alien spaceship. Inspired by the distinctive style of artist Rafal Olbinski, this scene captures a blend of futuristic technology, alien beauty, and otherworldly grandeur.",
+                "output": "A captivating image that combines elements of futuristic technology, alien aesthetics, and eminent grandeur. It showcases an alien paladin, dressed in innovative military uniform, proudly perched atop a majestic alien deer. Behind them, a colossal alien spacecraft hovers, adding to the mystic allure of the scene. This picture is defined by its surrealistic qualities, intricate detailing, and imaginative storyline that is reminiscent of late 19th to early 20th-century symbolist art, primarily executed in oil painting.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-26 22:47:58.607071",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-26 22:45:31.294439",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.291403",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like deer in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin Military Riding Alien Deer"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-MguoIoHbcrhbbQETTq6O2Cyx.png?st=2024-11-26T21%3A47%3A50Z&se=2024-11-26T23%3A47%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T12%3A39%3A53Z&ske=2024-11-27T12%3A39%3A53Z&sks=b&skv=2024-08-04&sig=FvOip0TR2moUyUoSS6vf%2B6P0IYjBj7cVJMaOnKeBUcQ%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7f28783f66ad77f5d2f9ad61f21c647c/7f28783f66ad77f5d2f9ad61f21c647c.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
