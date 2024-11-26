@@ -1,0 +1,61 @@
+{
+    "id": "f55138605cbdde95cba40e64e7da7896",
+    "title": "Futuristic Paladin Defender: A Vision of Strength and Grace",
+    "description": "You are stepping into a world where a futuristic Middle Eastern female paladin is gearing up in her majestic armor, standing assertively in front of a gargantuan alien spaceship. This striking image, styled with three adjectives that capture Olbinski's distinctive style: surreal, metaphorical, conceptual, captures the essence of bravery and power, amalgamating elements from both science fiction and fantasy genres, painted with the penchant of late 20th-century surrealism and the primary medium being oil on canvas.",
+    "created": "2024-11-26 23:51:10.968880",
+    "prompt": {
+        "prompt": "You are stepping into a world where a futuristic Middle Eastern female paladin is gearing up in her majestic armor, standing assertively in front of a gargantuan alien spaceship. This striking image, styled with three adjectives that capture Olbinski's distinctive style: surreal, metaphorical, conceptual, captures the essence of bravery and power, amalgamating elements from both science fiction and fantasy genres, painted with the penchant of late 20th-century surrealism and the primary medium being oil on canvas.",
+        "id": "ee802132a468f80a834f1a46c79ad995",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+                "output": "Step into a world where a futuristic paladin dons their majestic armor, standing proudly in front of a colossal alien spaceship. This striking image, inspired by the iconic style of artist Rafal Olbinski, captures the essence of courage and power in a dynamic blend of sci-fi and fantasy elements.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Step into a world where a futuristic paladin dons their majestic armor, standing proudly in front of a colossal alien spaceship. This striking image, inspired by the iconic style of artist Rafal Olbinski, captures the essence of courage and power in a dynamic blend of sci-fi and fantasy elements.",
+                "output": "You are stepping into a world where a futuristic Middle Eastern female paladin is gearing up in her majestic armor, standing assertively in front of a gargantuan alien spaceship. This striking image, styled with three adjectives that capture Olbinski's distinctive style: surreal, metaphorical, conceptual, captures the essence of bravery and power, amalgamating elements from both science fiction and fantasy genres, painted with the penchant of late 20th-century surrealism and the primary medium being oil on canvas.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-26 23:51:09.508520",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-26 23:49:14.051645",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.384951",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Defender: A Vision of Strength and Grace"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-kVWCp7gLQvFPEgiNympJBKyn.png?st=2024-11-26T22%3A51%3A04Z&se=2024-11-27T00%3A51%3A04Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T00%3A44%3A02Z&ske=2024-11-27T00%3A44%3A02Z&sks=b&skv=2024-08-04&sig=h4S0F5qvdNy%2BwYajVWPGt%2Byl27i8Sver56JVfBw3UwY%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/f55138605cbdde95cba40e64e7da7896/f55138605cbdde95cba40e64e7da7896.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
