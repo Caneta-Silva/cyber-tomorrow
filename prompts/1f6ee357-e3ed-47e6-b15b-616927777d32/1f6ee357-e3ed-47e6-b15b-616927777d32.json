@@ -1,22 +1,22 @@
 {
-    "prompt": "An impressive full-body depiction of a futuristic riot police robot designed in the artistic style reminiscent of John Schoenherr. The image showcases the advanced technology and imposing presence of the robot as it patrols a futuristic landscape, ready to maintain order and peace in a world of uncertainty and unrest.",
+    "prompt": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
-            "output": "An impressive full-body depiction of a futuristic riot police robot designed in the artistic style reminiscent of John Schoenherr. The image showcases the advanced technology and imposing presence of the robot as it patrols a futuristic landscape, ready to maintain order and peace in a world of uncertainty and unrest.",
+            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+            "output": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-25 19:28:11.672217",
+    "enhanced_at": "2024-11-26 13:19:01.182260",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.324323",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
+    "seeded_at": "2024-03-19 01:00:55.268918",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "John Schoenherr",
         "aspect_ratio": "landscape",
         "backdrop": "Martial landscape",
@@ -24,21 +24,21 @@
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
-            "backdrop": "alien"
+            "backdrop": "futuristic"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Futuristic Riot Police Robot Patrol"
+    "title": "Futuristic Paladin Military on Alien Camel"
 }
