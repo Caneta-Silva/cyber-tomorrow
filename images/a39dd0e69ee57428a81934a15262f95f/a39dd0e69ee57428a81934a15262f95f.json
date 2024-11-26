@@ -1,0 +1,61 @@
+{
+    "id": "a39dd0e69ee57428a81934a15262f95f",
+    "title": "Futuristic Paladin Military on Alien Camel",
+    "description": "Imagine a mix of advanced technology and antiquated charm, wherein a paladin, inherently a military figure, rides an outlandish creature reminiscent of a camel across a colorful terrain. Retain elements that capture the essence of classic science-fiction art, expressed through the interweaving of longstanding tradition and modern ingenuity, setting against a backdrop of an expansive futuristic martial vista characterized by broad areas of unbroken color and an emphasis on atmospheric effects drawn in the style of notable pre-1912 artists.",
+    "created": "2024-11-26 13:24:50.254896",
+    "prompt": {
+        "prompt": "Imagine a mix of advanced technology and antiquated charm, wherein a paladin, inherently a military figure, rides an outlandish creature reminiscent of a camel across a colorful terrain. Retain elements that capture the essence of classic science-fiction art, expressed through the interweaving of longstanding tradition and modern ingenuity, setting against a backdrop of an expansive futuristic martial vista characterized by broad areas of unbroken color and an emphasis on atmospheric effects drawn in the style of notable pre-1912 artists.",
+        "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+                "output": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
+                "output": "Imagine a mix of advanced technology and antiquated charm, wherein a paladin, inherently a military figure, rides an outlandish creature reminiscent of a camel across a colorful terrain. Retain elements that capture the essence of classic science-fiction art, expressed through the interweaving of longstanding tradition and modern ingenuity, setting against a backdrop of an expansive futuristic martial vista characterized by broad areas of unbroken color and an emphasis on atmospheric effects drawn in the style of notable pre-1912 artists.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-26 13:24:44.008340",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-26 13:19:01.182260",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.268918",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Military on Alien Camel"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-HTcKpSOsbnePlnj46erOxQL7.png?st=2024-11-26T12%3A24%3A38Z&se=2024-11-26T14%3A24%3A38Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T00%3A31%3A02Z&ske=2024-11-27T00%3A31%3A02Z&sks=b&skv=2024-08-04&sig=AckuTzC7c5ERL8dWDK%2BPgzqxv%2BmGSLZmfjTutg7TGXA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a39dd0e69ee57428a81934a15262f95f/a39dd0e69ee57428a81934a15262f95f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
