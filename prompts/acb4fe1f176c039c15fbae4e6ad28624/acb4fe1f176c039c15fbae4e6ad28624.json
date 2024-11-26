@@ -1,0 +1,44 @@
+{
+    "prompt": "Explore a vivid and futuristic world where paladin-style military units roam the landscape, blending ancient warrior traditions with advanced technology. Inspired by the legendary Bob Pepper, this captivating image transports you to a realm where honor and valor meet futuristic warfare.",
+    "id": "acb4fe1f176c039c15fbae4e6ad28624",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        {
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+            "output": "Explore a vivid and futuristic world where paladin-style military units roam the landscape, blending ancient warrior traditions with advanced technology. Inspired by the legendary Bob Pepper, this captivating image transports you to a realm where honor and valor meet futuristic warfare.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-26 23:11:37.925173",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.310662",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Paladin Style Military Landscape"
+}
