@@ -1,26 +1,26 @@
 {
-    "prompt": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
+    "prompt": "Experience a stunning landscape portrait of a futuristic riot police robot, designed in the mesmerizing style of renowned artist Rafal Olbinski. Imposing yet elegant, the Sentinel stands tall against a backdrop of surreal and vibrant shapes, embodying strength and technological advancement.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
         {
-            "input": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
-            "output": "Immerse yourself in a blend of futuristic technology and ancient mystique as a paladin style military figure rides an alien-like camel through a vibrant landscape. Inspired by the iconic artistry of John Schoenherr, this image showcases a fusion of tradition and innovation against a backdrop of a sprawling futuristic martial landscape.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
+            "output": "Experience a stunning landscape portrait of a futuristic riot police robot, designed in the mesmerizing style of renowned artist Rafal Olbinski. Imposing yet elegant, the Sentinel stands tall against a backdrop of surreal and vibrant shapes, embodying strength and technological advancement.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-26 13:19:01.182260",
+    "enhanced_at": "2024-11-26 13:20:38.786754",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.268918",
-    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.335746",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
     "metadata": {
-        "element": "paladin style military",
-        "style": "John Schoenherr",
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "camel",
+        "backdrop": "fortress",
+        "animal": "rhino",
         "modifiers": {
             "image": "full body",
             "element": "futuristic",
@@ -31,14 +31,14 @@
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": true,
+        "backdrop": false,
         "modifiers": {
             "image": true,
-            "element": true,
-            "backdrop": true
+            "element": false,
+            "backdrop": false
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
     },
-    "title": "Futuristic Paladin Military on Alien Camel"
+    "title": "Sentinel of the Future"
 }
