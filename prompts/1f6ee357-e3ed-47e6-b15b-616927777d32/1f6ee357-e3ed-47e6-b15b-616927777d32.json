@@ -1,30 +1,30 @@
 {
-    "prompt": "This stunning image depicts an alien paladin style military figure astride a majestic alien-like rhino, set against a surreal, martial landscape. Inspired by the style of artist Rafal Olbinski, the scene captures a blend of elegance, power, and otherworldly beauty.",
+    "prompt": "Immerse yourself in a surreal landscape as you witness the powerful and imposing presence of a futuristic riot police robot designed to uphold order and control within a fortress of the future. The artwork, created in the iconic style reminiscent of Bob Pepper, captures the essence of a dystopian world where technology and authority merge seamlessly.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+        "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
         {
-            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
-            "output": "This stunning image depicts an alien paladin style military figure astride a majestic alien-like rhino, set against a surreal, martial landscape. Inspired by the style of artist Rafal Olbinski, the scene captures a blend of elegance, power, and otherworldly beauty.",
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            "output": "Immerse yourself in a surreal landscape as you witness the powerful and imposing presence of a futuristic riot police robot designed to uphold order and control within a fortress of the future. The artwork, created in the iconic style reminiscent of Bob Pepper, captures the essence of a dystopian world where technology and authority merge seamlessly.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-26 13:22:18.455103",
+    "enhanced_at": "2024-11-26 13:25:08.341313",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.286877",
-    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+    "seeded_at": "2024-03-19 01:00:55.362928",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a futuristic fortress",
     "metadata": {
-        "element": "paladin style military",
-        "style": "Rafal Olbinski",
+        "element": "riot police robot",
+        "style": "Bob Pepper",
         "aspect_ratio": "landscape",
-        "backdrop": "Martial landscape",
-        "animal": "rhino",
+        "backdrop": "fortress",
+        "animal": "camel",
         "modifiers": {
             "image": "full body",
-            "element": "alien",
-            "backdrop": "alien"
+            "element": "futuristic",
+            "backdrop": "futuristic"
         }
     },
     "template": {
@@ -34,11 +34,11 @@
         "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": true,
+            "element": false,
             "backdrop": true
         },
-        "animal": true,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Alien Paladin Military Mounted on Alien Rhino in Otherworldly Landscape"
+    "title": "Sentinel of Tomorrow: The Futuristic Riot Police Robot"
 }
