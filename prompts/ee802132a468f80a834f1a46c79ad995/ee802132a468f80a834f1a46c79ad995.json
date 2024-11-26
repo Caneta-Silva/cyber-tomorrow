@@ -1,0 +1,44 @@
+{
+    "prompt": "Step into a world where a futuristic paladin dons their majestic armor, standing proudly in front of a colossal alien spaceship. This striking image, inspired by the iconic style of artist Rafal Olbinski, captures the essence of courage and power in a dynamic blend of sci-fi and fantasy elements.",
+    "id": "ee802132a468f80a834f1a46c79ad995",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+        {
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            "output": "Step into a world where a futuristic paladin dons their majestic armor, standing proudly in front of a colossal alien spaceship. This striking image, inspired by the iconic style of artist Rafal Olbinski, captures the essence of courage and power in a dynamic blend of sci-fi and fantasy elements.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-26 23:49:14.051645",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.384951",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Paladin Defender: A Vision of Strength and Grace"
+}
