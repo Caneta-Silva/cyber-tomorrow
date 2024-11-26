@@ -1,44 +1,44 @@
 {
-    "prompt": "Experience a stunning landscape portrait of a futuristic riot police robot, designed in the mesmerizing style of renowned artist Rafal Olbinski. Imposing yet elegant, the Sentinel stands tall against a backdrop of surreal and vibrant shapes, embodying strength and technological advancement.",
+    "prompt": "This stunning image depicts an alien paladin style military figure astride a majestic alien-like rhino, set against a surreal, martial landscape. Inspired by the style of artist Rafal Olbinski, the scene captures a blend of elegance, power, and otherworldly beauty.",
     "id": "1f6ee357-e3ed-47e6-b15b-616927777d32",
     "prompt_history": [
-        "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
+        "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
         {
-            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
-            "output": "Experience a stunning landscape portrait of a futuristic riot police robot, designed in the mesmerizing style of renowned artist Rafal Olbinski. Imposing yet elegant, the Sentinel stands tall against a backdrop of surreal and vibrant shapes, embodying strength and technological advancement.",
+            "input": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+            "output": "This stunning image depicts an alien paladin style military figure astride a majestic alien-like rhino, set against a surreal, martial landscape. Inspired by the style of artist Rafal Olbinski, the scene captures a blend of elegance, power, and otherworldly beauty.",
             "type": "enhanced"
         }
     ],
     "revised_at": null,
     "revised_prompt": false,
-    "enhanced_at": "2024-11-26 13:20:38.786754",
+    "enhanced_at": "2024-11-26 13:22:18.455103",
     "enhanced_prompt": true,
-    "seeded_at": "2024-03-19 01:00:55.335746",
-    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Rafal Olbinski",
+    "seeded_at": "2024-03-19 01:00:55.286877",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
     "metadata": {
-        "element": "riot police robot",
+        "element": "paladin style military",
         "style": "Rafal Olbinski",
         "aspect_ratio": "landscape",
-        "backdrop": "fortress",
+        "backdrop": "Martial landscape",
         "animal": "rhino",
         "modifiers": {
             "image": "full body",
-            "element": "futuristic",
-            "backdrop": "futuristic"
+            "element": "alien",
+            "backdrop": "alien"
         }
     },
     "template": {
         "style": true,
         "aspect_ratio": true,
         "element": true,
-        "backdrop": false,
+        "backdrop": true,
         "modifiers": {
             "image": true,
-            "element": false,
-            "backdrop": false
+            "element": true,
+            "backdrop": true
         },
-        "animal": false,
-        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
     },
-    "title": "Sentinel of the Future"
+    "title": "Alien Paladin Military Mounted on Alien Rhino in Otherworldly Landscape"
 }
