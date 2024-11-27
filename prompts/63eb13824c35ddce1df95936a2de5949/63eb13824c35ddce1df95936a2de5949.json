@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a futuristic world as you witness the imposing figure of an alien riot police robot, clad in sleek robotic armor, inspired by the iconic style of artist John Schoenherr. This otherworldly enforcer stands tall amidst a barren landscape, exuding power and authority as it vigilantly maintains order in the far reaches of the galaxy.",
+    "id": "63eb13824c35ddce1df95936a2de5949",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
+        {
+            "input": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
+            "output": "Immerse yourself in a futuristic world as you witness the imposing figure of an alien riot police robot, clad in sleek robotic armor, inspired by the iconic style of artist John Schoenherr. This otherworldly enforcer stands tall amidst a barren landscape, exuding power and authority as it vigilantly maintains order in the far reaches of the galaxy.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:51:21.046949",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.327156",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of John Schoenherr",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Galactic Enforcer: Alien Riot Police Robot"
+}
