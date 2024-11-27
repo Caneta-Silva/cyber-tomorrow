@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a futuristic world where a paladin-style military figure stands resolute against a backdrop of sleek, high-tech architecture and advanced warfare. This stunning image captures the essence of a warrior from the future, ready to defend against any threat with style and skill. Let the blend of futuristic aesthetics and martial landscapes transport you to a realm where bravery meets technology in a captivating display of strength and determination.",
+    "id": "0da41a28b1f65c6bf1995ca528dc92c7",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+        {
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "output": "Immerse yourself in a futuristic world where a paladin-style military figure stands resolute against a backdrop of sleek, high-tech architecture and advanced warfare. This stunning image captures the essence of a warrior from the future, ready to defend against any threat with style and skill. Let the blend of futuristic aesthetics and martial landscapes transport you to a realm where bravery meets technology in a captivating display of strength and determination.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:05:00.103622",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.349134",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Paladin in a Martial Landscape"
+}
