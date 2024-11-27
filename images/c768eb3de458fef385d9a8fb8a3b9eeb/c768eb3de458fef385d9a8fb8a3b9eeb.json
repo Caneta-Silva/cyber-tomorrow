@@ -1,0 +1,56 @@
+{
+    "id": "c768eb3de458fef385d9a8fb8a3b9eeb",
+    "title": "Galactic Warrior: An Alien Paladin in Bob Pepper Style",
+    "description": "Immerse yourself in the mystical world of Bob Pepper's art with this stunning full body image of an alien paladin, wearing intricate armor and carrying futuristic weaponry. Let your imagination run wild as you envision this fierce warrior in a distant, otherworldly landscape.",
+    "created": "2024-11-27 11:28:54.669294",
+    "prompt": {
+        "prompt": "Immerse yourself in the mystical world of Bob Pepper's art with this stunning full body image of an alien paladin, wearing intricate armor and carrying futuristic weaponry. Let your imagination run wild as you envision this fierce warrior in a distant, otherworldly landscape.",
+        "id": "c3a659abd075584b6658092a91c999d6",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
+                "output": "Immerse yourself in the mystical world of Bob Pepper's art with this stunning full body image of an alien paladin, wearing intricate armor and carrying futuristic weaponry. Let your imagination run wild as you envision this fierce warrior in a distant, otherworldly landscape.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 11:19:00.516579",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.315208",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Warrior: An Alien Paladin in Bob Pepper Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-UIzQKjh2rxR8e5tpfpf9Jx2E.png?st=2024-11-27T10%3A28%3A48Z&se=2024-11-27T12%3A28%3A48Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A32%3A36Z&ske=2024-11-28T00%3A32%3A36Z&sks=b&skv=2024-08-04&sig=T7/lGnBJoO/BvQrAuQxcOwNAeNFrN93blw4GBhh69EA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c768eb3de458fef385d9a8fb8a3b9eeb/c768eb3de458fef385d9a8fb8a3b9eeb.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
