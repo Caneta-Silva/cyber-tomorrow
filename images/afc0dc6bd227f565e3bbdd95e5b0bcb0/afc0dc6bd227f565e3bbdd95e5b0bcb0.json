@@ -1,0 +1,51 @@
+{
+    "id": "afc0dc6bd227f565e3bbdd95e5b0bcb0",
+    "title": "Guardian of the Alien Fortress",
+    "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a alien fortress",
+    "created": "2024-11-27 12:20:02.579725",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a alien fortress",
+        "id": "f0989ec3f18eb486a4b21d1614b95f82",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.357309",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Guardian of the Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Hf9dcgV0NHnrl0dE2XiB8jNn.png?st=2024-11-27T11%3A19%3A56Z&se=2024-11-27T13%3A19%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A13%3A26Z&ske=2024-11-28T00%3A13%3A26Z&sks=b&skv=2024-08-04&sig=jgR0AC6aeiESMLHLFHcvETx3ba2XZs/0JsYyD7AJwzE%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/afc0dc6bd227f565e3bbdd95e5b0bcb0/afc0dc6bd227f565e3bbdd95e5b0bcb0.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
