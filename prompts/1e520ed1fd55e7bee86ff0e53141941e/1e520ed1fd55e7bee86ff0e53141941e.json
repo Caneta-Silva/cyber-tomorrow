@@ -1,0 +1,44 @@
+{
+    "prompt": "Step into a fantastical world where futuristic technology meets ancient warrior traditions with this stunning image of an otherworldly paladin in military garb. Inspired by the distinctive style of artist Rafal Olbinski, this landscape full body portrait captures the essence of a powerful and enigmatic alien warrior. Marvel at the intricate details of the armor and the ethereal surroundings, transporting you to a realm where honor and valor reign supreme.",
+    "id": "1e520ed1fd55e7bee86ff0e53141941e",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        {
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            "output": "Step into a fantastical world where futuristic technology meets ancient warrior traditions with this stunning image of an otherworldly paladin in military garb. Inspired by the distinctive style of artist Rafal Olbinski, this landscape full body portrait captures the essence of a powerful and enigmatic alien warrior. Marvel at the intricate details of the armor and the ethereal surroundings, transporting you to a realm where honor and valor reign supreme.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 11:12:25.763065",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.342134",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Paladin Military in the Style of Rafal Olbinski"
+}
