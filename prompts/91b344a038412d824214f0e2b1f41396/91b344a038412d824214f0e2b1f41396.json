@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+    "id": "91b344a038412d824214f0e2b1f41396",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.251103",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Galactic Enforcers: The Riot Patrol"
+}
