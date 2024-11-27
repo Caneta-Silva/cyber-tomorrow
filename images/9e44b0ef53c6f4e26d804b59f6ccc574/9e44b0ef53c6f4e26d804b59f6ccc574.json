@@ -1,0 +1,51 @@
+{
+    "id": "9e44b0ef53c6f4e26d804b59f6ccc574",
+    "title": "Galactic Guardian: Alien Riot Police Robot",
+    "description": "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+    "created": "2024-11-27 14:08:18.677960",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+        "id": "d4a184f5aceec3a038442a83ce90d2c6",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.367302",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Bob Pepper against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Galactic Guardian: Alien Riot Police Robot"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-eXWwzD54JuA6GV5i7GR6fqWe.png?st=2024-11-27T13%3A08%3A12Z&se=2024-11-27T15%3A08%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A13%3A36Z&ske=2024-11-28T00%3A13%3A36Z&sks=b&skv=2024-08-04&sig=RRyYpP4v3Ji%2Bh0DMm5cxEs9fNhYgFmpPiehGAEh13fI%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9e44b0ef53c6f4e26d804b59f6ccc574/9e44b0ef53c6f4e26d804b59f6ccc574.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
