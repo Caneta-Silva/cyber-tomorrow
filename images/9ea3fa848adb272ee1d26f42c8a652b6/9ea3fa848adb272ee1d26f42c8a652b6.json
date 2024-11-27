@@ -1,0 +1,56 @@
+{
+    "id": "9ea3fa848adb272ee1d26f42c8a652b6",
+    "title": "Futuristic Alien Paladin Military in the Style of Rafal Olbinski",
+    "description": "Step into a fantastical world where futuristic technology meets ancient warrior traditions with this stunning image of an otherworldly paladin in military garb. Inspired by the distinctive style of artist Rafal Olbinski, this landscape full body portrait captures the essence of a powerful and enigmatic alien warrior. Marvel at the intricate details of the armor and the ethereal surroundings, transporting you to a realm where honor and valor reign supreme.",
+    "created": "2024-11-27 11:24:01.636264",
+    "prompt": {
+        "prompt": "Step into a fantastical world where futuristic technology meets ancient warrior traditions with this stunning image of an otherworldly paladin in military garb. Inspired by the distinctive style of artist Rafal Olbinski, this landscape full body portrait captures the essence of a powerful and enigmatic alien warrior. Marvel at the intricate details of the armor and the ethereal surroundings, transporting you to a realm where honor and valor reign supreme.",
+        "id": "1e520ed1fd55e7bee86ff0e53141941e",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+                "output": "Step into a fantastical world where futuristic technology meets ancient warrior traditions with this stunning image of an otherworldly paladin in military garb. Inspired by the distinctive style of artist Rafal Olbinski, this landscape full body portrait captures the essence of a powerful and enigmatic alien warrior. Marvel at the intricate details of the armor and the ethereal surroundings, transporting you to a realm where honor and valor reign supreme.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 11:12:25.763065",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.342134",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin Military in the Style of Rafal Olbinski"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-V4UbcMyIcpP9r8zrvVLX6Ylr.png?st=2024-11-27T10%3A23%3A56Z&se=2024-11-27T12%3A23%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A16%3A44Z&ske=2024-11-28T00%3A16%3A44Z&sks=b&skv=2024-08-04&sig=id8xGgybrU79qb664QM/kDn/MZeCorZYgxZ%2B1Jjbcf4%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9ea3fa848adb272ee1d26f42c8a652b6/9ea3fa848adb272ee1d26f42c8a652b6.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
