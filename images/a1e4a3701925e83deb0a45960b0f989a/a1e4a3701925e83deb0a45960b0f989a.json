@@ -1,0 +1,56 @@
+{
+    "id": "a1e4a3701925e83deb0a45960b0f989a",
+    "title": "Alien Paladin Military Landscape",
+    "description": "A stunning landscape illustration showcasing an alien paladin style military, inspired by the renowned artist John Schoenherr. The futuristic scene features otherworldly armor, advanced weaponry, and a lush alien environment. Prepare to be transported to a world where honor, strength, and technology collide in this captivating image.",
+    "created": "2024-11-27 10:33:40.409508",
+    "prompt": {
+        "prompt": "A stunning landscape illustration showcasing an alien paladin style military, inspired by the renowned artist John Schoenherr. The futuristic scene features otherworldly armor, advanced weaponry, and a lush alien environment. Prepare to be transported to a world where honor, strength, and technology collide in this captivating image.",
+        "id": "9b26024aefce50a11a6b4ff417392232",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+                "output": "A stunning landscape illustration showcasing an alien paladin style military, inspired by the renowned artist John Schoenherr. The futuristic scene features otherworldly armor, advanced weaponry, and a lush alien environment. Prepare to be transported to a world where honor, strength, and technology collide in this captivating image.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:25:37.274631",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.326318",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Paladin Military Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-GGdYxDjDVp7dQZN2GO3ZPTcO.png?st=2024-11-27T09%3A33%3A34Z&se=2024-11-27T11%3A33%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A17%3A11Z&ske=2024-11-28T00%3A17%3A11Z&sks=b&skv=2024-08-04&sig=fZg0FljsAQcAOYqOz0Y0Iv1McH8yvaBBfnwceMQbjMk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a1e4a3701925e83deb0a45960b0f989a/a1e4a3701925e83deb0a45960b0f989a.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
