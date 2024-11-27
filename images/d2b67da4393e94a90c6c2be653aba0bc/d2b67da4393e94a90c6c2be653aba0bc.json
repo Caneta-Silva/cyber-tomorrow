@@ -1,0 +1,56 @@
+{
+    "id": "d2b67da4393e94a90c6c2be653aba0bc",
+    "title": "Futuristic Paladin Warrior in Alien Martial Landscape",
+    "description": "This stunning image features a futuristic paladin warrior donning advanced military attire, inspired by the unique style of Rafal Olbinski. The warrior stands proudly against the backdrop of a surreal and alien martial landscape, creating a mesmerizing blend of sci-fi and medieval elements.",
+    "created": "2024-11-27 10:36:58.394719",
+    "prompt": {
+        "prompt": "This stunning image features a futuristic paladin warrior donning advanced military attire, inspired by the unique style of Rafal Olbinski. The warrior stands proudly against the backdrop of a surreal and alien martial landscape, creating a mesmerizing blend of sci-fi and medieval elements.",
+        "id": "9265b4e32d39a7b6095175e18f7014ee",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+                "output": "This stunning image features a futuristic paladin warrior donning advanced military attire, inspired by the unique style of Rafal Olbinski. The warrior stands proudly against the backdrop of a surreal and alien martial landscape, creating a mesmerizing blend of sci-fi and medieval elements.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:27:46.583440",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.384845",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Warrior in Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-H3rvUPOfRVqdMshbu60Y08iJ.png?st=2024-11-27T09%3A36%3A52Z&se=2024-11-27T11%3A36%3A52Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A11%3A48Z&ske=2024-11-28T00%3A11%3A48Z&sks=b&skv=2024-08-04&sig=bwYfgXCz1tRYb%2B0ZinqAc6PS%2BmbG1oEMTulikswePz8%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/d2b67da4393e94a90c6c2be653aba0bc/d2b67da4393e94a90c6c2be653aba0bc.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
