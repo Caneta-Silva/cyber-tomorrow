@@ -1,0 +1,44 @@
+{
+    "prompt": "An impressive landscape scene featuring a futuristic alien riot police robot standing tall and ready to defend against any threats. The intricate design of the robot is reminiscent of Wally Wood's style, set against the backdrop of a massive alien spaceship looming in the background. The scene captures a blend of advanced technology, alien architecture, and a sense of duty and protection.",
+    "id": "ed2c64671b469750d36d42733bb978ed",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+        {
+            "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+            "output": "An impressive landscape scene featuring a futuristic alien riot police robot standing tall and ready to defend against any threats. The intricate design of the robot is reminiscent of Wally Wood's style, set against the backdrop of a massive alien spaceship looming in the background. The scene captures a blend of advanced technology, alien architecture, and a sense of duty and protection.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:18:48.211033",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.358918",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "camel",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Alien Riot Police Robot Guards Alien Spaceship"
+}
