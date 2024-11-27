@@ -1,0 +1,44 @@
+{
+    "prompt": "A captivating image depicting a futuristic alien riot police robot, mounted on an otherworldly deer, standing as a sentinel against the backdrop of an alien fortress. Inspired by the style of renowned artist John Schoenherr, this artwork blends elements of sci-fi and fantasy to create a visually stunning depiction of a protective guardian in an extraterrestrial landscape.",
+    "id": "2aad9f7babccb3600e1cdeb06755a78b",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of John Schoenherr against the backdrop of a alien fortress",
+        {
+            "input": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of John Schoenherr against the backdrop of a alien fortress",
+            "output": "A captivating image depicting a futuristic alien riot police robot, mounted on an otherworldly deer, standing as a sentinel against the backdrop of an alien fortress. Inspired by the style of renowned artist John Schoenherr, this artwork blends elements of sci-fi and fantasy to create a visually stunning depiction of a protective guardian in an extraterrestrial landscape.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:29:20.396750",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.281130",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like deer in the style of John Schoenherr against the backdrop of a alien fortress",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Sentinel of the Alien Fortress"
+}
