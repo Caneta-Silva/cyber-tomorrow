@@ -31,6 +31,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 223577319785d76f6a01a1f32831ff36 
+
+![data.id](./223577319785d76f6a01a1f32831ff36/223577319785d76f6a01a1f32831ff36.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 223577319785d76f6a01a1f32831ff36                                                                                                             |
+| **Title**           | The Galactic Defender: A Futuristic Alien Paladin                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood                                                                                                       |
+| **CreatedAt**        | 2024-11-27 14:29:41.647787                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-XsSqSR91khD1baQAVdidK6C9.png?st=2024-11-27T13%3A29%3A35Z&se=2024-11-27T15%3A29%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A07%3A42Z&ske=2024-11-28T00%3A07%3A42Z&sks=b&skv=2024-08-04&sig=cLNKrCTOSEZBVFhcMtg/sRTadnZMccmyMkOLrVXESm4%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/223577319785d76f6a01a1f32831ff36/223577319785d76f6a01a1f32831ff36.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 5c7e6f300f5b5ed37db16964305f12e9
+
+> Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 5c7e6f300f5b5ed37db16964305f12e9                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 db45d13ecb1fdafd1cc2e770f7047e3e 
 
 ![data.id](./db45d13ecb1fdafd1cc2e770f7047e3e/db45d13ecb1fdafd1cc2e770f7047e3e.jpg)
@@ -1087,6 +1119,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 55410d04270810c5403d57e0b4acfc63 
+
+![data.id](./55410d04270810c5403d57e0b4acfc63/55410d04270810c5403d57e0b4acfc63.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 55410d04270810c5403d57e0b4acfc63                                                                                                             |
+| **Title**           | Future Force: Riot Police Robot of the Alien World                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper                                                                                                       |
+| **CreatedAt**        | 2024-11-27 14:27:08.636316                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-P4HvLZSIs1lLidxh81jHsGmZ.png?st=2024-11-27T13%3A27%3A03Z&se=2024-11-27T15%3A27%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A21%3A14Z&ske=2024-11-28T00%3A21%3A14Z&sks=b&skv=2024-08-04&sig=74/KaeKGQ55F6KxNRMeuMxhXm6sH3k9kH9UH5Cf/3KM%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/55410d04270810c5403d57e0b4acfc63/55410d04270810c5403d57e0b4acfc63.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 6b875654189879da6980d4542a290b30
+
+> Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 6b875654189879da6980d4542a290b30                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 548028be3be4973402f37c40b0f5095f 
 
 ![data.id](./548028be3be4973402f37c40b0f5095f/548028be3be4973402f37c40b0f5095f.jpg)
@@ -1693,6 +1757,38 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 a2b07e7dd23bc2b6e05641ee495fae8b 
+
+![data.id](./a2b07e7dd23bc2b6e05641ee495fae8b/a2b07e7dd23bc2b6e05641ee495fae8b.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | a2b07e7dd23bc2b6e05641ee495fae8b                                                                                                             |
+| **Title**           | Futuristic Alien Riot Police Robot on Alien Elephant in Martial Landscape                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape                                                                                                       |
+| **CreatedAt**        | 2024-11-27 14:26:30.606527                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-djWEzjMc1v5aYS3udkm2hw5p.png?st=2024-11-27T13%3A26%3A24Z&se=2024-11-27T15%3A26%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A14%3A46Z&ske=2024-11-28T00%3A14%3A46Z&sks=b&skv=2024-08-04&sig=zTIdq1kxOoOPhQeI08GVl10c12q32fiLZzHO49c%2BfIw%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a2b07e7dd23bc2b6e05641ee495fae8b/a2b07e7dd23bc2b6e05641ee495fae8b.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 9f678a5e0c88c2af42cefc4f68c4595c
+
+> Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 9f678a5e0c88c2af42cefc4f68c4595c                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 9755ceea65541b1897e0a6b3dbe2ebf1 
@@ -2367,6 +2463,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
+### 📷 390977fa65d49d68b88ca1d287f700ba 
+
+![data.id](./390977fa65d49d68b88ca1d287f700ba/390977fa65d49d68b88ca1d287f700ba.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 390977fa65d49d68b88ca1d287f700ba                                                                                                             |
+| **Title**           | Sentinel of the Alien Realm                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress                                                                                                       |
+| **CreatedAt**        | 2024-11-27 14:27:55.271828                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-hW2xApWGw3y11tz0whTjOXm8.png?st=2024-11-27T13%3A27%3A49Z&se=2024-11-27T15%3A27%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A15%3A36Z&ske=2024-11-28T00%3A15%3A36Z&sks=b&skv=2024-08-04&sig=KqawInnQWK9mfol0ndxDgdrTDmaBXvXinhD%2BOu6PFi0%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/390977fa65d49d68b88ca1d287f700ba/390977fa65d49d68b88ca1d287f700ba.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 5a7dddc811cf1f6909e1e9eed129ed19
+
+> Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 5a7dddc811cf1f6909e1e9eed129ed19                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 e62257631d883649d4fc5634f2fc5e4a 
 
 ![data.id](./e62257631d883649d4fc5634f2fc5e4a/e62257631d883649d4fc5634f2fc5e4a.jpg)
@@ -3005,6 +3133,38 @@
 | **Enhanced Prompt** | Yes                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Bob Pepper <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** horse <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 2a953941cd8150bad94bfee1eb459346 
+
+![data.id](./2a953941cd8150bad94bfee1eb459346/2a953941cd8150bad94bfee1eb459346.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 2a953941cd8150bad94bfee1eb459346                                                                                                             |
+| **Title**           | Galactic Enforcers: The Riot Patrol                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape                                                                                                       |
+| **CreatedAt**        | 2024-11-27 14:24:20.495960                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-DBBU7p20m2F9mj8uKtflHvs4.png?st=2024-11-27T13%3A24%3A14Z&se=2024-11-27T15%3A24%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A06%3A54Z&ske=2024-11-28T00%3A06%3A54Z&sks=b&skv=2024-08-04&sig=EiYQ6oZsjbiETyh%2B8muGjHgdivCypD685b9sYgZlYTI%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/2a953941cd8150bad94bfee1eb459346/2a953941cd8150bad94bfee1eb459346.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 91b344a038412d824214f0e2b1f41396
+
+> Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 91b344a038412d824214f0e2b1f41396                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Wally Wood <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** horse <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 cfbf425f212342a1071f1c1797dd44de 
