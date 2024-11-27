@@ -1,0 +1,56 @@
+{
+    "id": "051cfa6b56e08a36feb6a65d891bb4ba",
+    "title": "Futuristic Alien Riot Police Robot in Alien Martial Landscape",
+    "description": "This stunning image showcases a futuristic alien riot police robot standing tall against a breathtaking backdrop of an alien Martial landscape. The detailed artwork, inspired by the style of Bob Pepper, combines futuristic elements with an otherworldly setting, creating a visually captivating scene that sparks the imagination.",
+    "created": "2024-11-27 11:00:24.069555",
+    "prompt": {
+        "prompt": "This stunning image showcases a futuristic alien riot police robot standing tall against a breathtaking backdrop of an alien Martial landscape. The detailed artwork, inspired by the style of Bob Pepper, combines futuristic elements with an otherworldly setting, creating a visually captivating scene that sparks the imagination.",
+        "id": "4bbf410dd8d156722834eadf2c46062a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+                "output": "This stunning image showcases a futuristic alien riot police robot standing tall against a breathtaking backdrop of an alien Martial landscape. The detailed artwork, inspired by the style of Bob Pepper, combines futuristic elements with an otherworldly setting, creating a visually captivating scene that sparks the imagination.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:53:13.019756",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.371287",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot in Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-CMbI3Q968keF5t1eoXC5reWj.png?st=2024-11-27T10%3A00%3A18Z&se=2024-11-27T12%3A00%3A18Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A14%3A45Z&ske=2024-11-28T00%3A14%3A45Z&sks=b&skv=2024-08-04&sig=Azr3dTYz41KmK/MEAOCDYt/bS0N5uULpvt3cQjgzDIk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/051cfa6b56e08a36feb6a65d891bb4ba/051cfa6b56e08a36feb6a65d891bb4ba.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
