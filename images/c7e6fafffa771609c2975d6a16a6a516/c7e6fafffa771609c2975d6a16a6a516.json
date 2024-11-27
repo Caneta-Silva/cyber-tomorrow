@@ -1,0 +1,61 @@
+{
+    "id": "c7e6fafffa771609c2975d6a16a6a516",
+    "title": "Alien Riot Police Robot in the Style of Wally Wood",
+    "description": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+    "created": "2024-11-27 10:09:04.732969",
+    "prompt": {
+        "prompt": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+        "id": "f5c102214b621f182eed518463f6c253",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+                "output": "This futuristic image features an alien riot police robot standing in front of a massive alien spaceship. The artwork is inspired by the iconic style of Wally Wood, known for his detailed and dynamic illustrations. The robot exudes power and authority with its intricate design and menacing presence, creating a visually striking scene that transports you to a distant and technologically advanced alien world.",
+                "type": "enhanced"
+            },
+            {
+                "input": "This futuristic image features an alien riot police robot standing in front of a massive alien spaceship. The artwork is inspired by the iconic style of Wally Wood, known for his detailed and dynamic illustrations. The robot exudes power and authority with its intricate design and menacing presence, creating a visually striking scene that transports you to a distant and technologically advanced alien world.",
+                "output": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-27 10:09:03.263930",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-27 10:03:49.577059",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.355226",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot in the Style of Wally Wood"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-a7UnZeegZYbAj9aWIT1M3bv6.png?st=2024-11-27T09%3A08%3A58Z&se=2024-11-27T11%3A08%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A09%3A29Z&ske=2024-11-28T00%3A09%3A29Z&sks=b&skv=2024-08-04&sig=HagVURgUzvD27u8r%2Bmnus6h9i99A3%2BrHk0T9QrYGmVw%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c7e6fafffa771609c2975d6a16a6a516/c7e6fafffa771609c2975d6a16a6a516.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
