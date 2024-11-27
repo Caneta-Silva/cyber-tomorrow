@@ -1,0 +1,51 @@
+{
+    "id": "62551e2274b4a5c8bfb51d29a367b272",
+    "title": "Futuristic Alien Riot Police Robot",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr against the backdrop of a alien spaceship",
+    "created": "2024-11-27 11:57:16.477681",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr against the backdrop of a alien spaceship",
+        "id": "6939765b7e83c45ef9abfb1a89e52382",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.382749",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of John Schoenherr against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-56BCX9QK58VrmM71mBTh1gph.png?st=2024-11-27T10%3A57%3A10Z&se=2024-11-27T12%3A57%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A34%3A15Z&ske=2024-11-28T00%3A34%3A15Z&sks=b&skv=2024-08-04&sig=1WQUcMIPNz5oXyMQ7HzR7rsLZzLpF8uN1pVnxv6ZflE%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/62551e2274b4a5c8bfb51d29a367b272/62551e2274b4a5c8bfb51d29a367b272.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
