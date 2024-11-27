@@ -1,0 +1,44 @@
+{
+    "prompt": "An imaginative and dynamic scene featuring an alien riot police robot mounted on a unique alien horse, set against a futuristic Martial landscape. This artwork draws inspiration from the distinctive style of Rafal Olbinski, combining elements of science fiction and fantasy to create a visually striking composition.",
+    "id": "49f666f54f42f7be2922a4eacc922af0",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+        {
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+            "output": "An imaginative and dynamic scene featuring an alien riot police robot mounted on a unique alien horse, set against a futuristic Martial landscape. This artwork draws inspiration from the distinctive style of Rafal Olbinski, combining elements of science fiction and fantasy to create a visually striking composition.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 11:15:14.285108",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.288350",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Riot Police Robot and Horse in Futuristic Martial Landscape"
+}
