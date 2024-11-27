@@ -1,0 +1,44 @@
+{
+    "prompt": "An awe-inspiring landscape full body image featuring a futuristic paladin style military unit inspired by the iconic artistry of Bob Pepper. The soldiers are adorned in advanced armor and weaponry, standing against a backdrop of alien terrain with a blend of high-tech and medieval aesthetic elements. This striking illustration captures the essence of valor, strength, and heroism within a unique futuristic world crafted with masterful artistic vision.",
+    "id": "08b74f6e794dccec11b02e5ff862f8c0",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        {
+            "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+            "output": "An awe-inspiring landscape full body image featuring a futuristic paladin style military unit inspired by the iconic artistry of Bob Pepper. The soldiers are adorned in advanced armor and weaponry, standing against a backdrop of alien terrain with a blend of high-tech and medieval aesthetic elements. This striking illustration captures the essence of valor, strength, and heroism within a unique futuristic world crafted with masterful artistic vision.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:27:22.867018",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.311061",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Paladin Militia"
+}
