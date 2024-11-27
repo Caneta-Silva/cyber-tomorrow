@@ -1,0 +1,56 @@
+{
+    "id": "cab6bc618168e98eff3d09bbdf07e6df",
+    "title": "Alien Riot Police Robot Riding Camel in Futuristic Alien Fortress",
+    "description": "An epic and futuristic scene portraying an alien riot police robot mounted on an alien-like camel, set against the backdrop of a technologically advanced alien fortress. The image is rendered in the style of Wally Wood, capturing the intricate details and dynamic compositions reminiscent of classic sci-fi artworks.",
+    "created": "2024-11-27 10:59:59.029401",
+    "prompt": {
+        "prompt": "An epic and futuristic scene portraying an alien riot police robot mounted on an alien-like camel, set against the backdrop of a technologically advanced alien fortress. The image is rendered in the style of Wally Wood, capturing the intricate details and dynamic compositions reminiscent of classic sci-fi artworks.",
+        "id": "1e349757793b5a67495ca5e1cfb8ad66",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic alien fortress",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic alien fortress",
+                "output": "An epic and futuristic scene portraying an alien riot police robot mounted on an alien-like camel, set against the backdrop of a technologically advanced alien fortress. The image is rendered in the style of Wally Wood, capturing the intricate details and dynamic compositions reminiscent of classic sci-fi artworks.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:53:36.795261",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.252911",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a futuristic alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot Riding Camel in Futuristic Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ZP3J0AVxOCEOq2efYSEZeTMb.png?st=2024-11-27T09%3A59%3A52Z&se=2024-11-27T11%3A59%3A52Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A06%3A58Z&ske=2024-11-28T00%3A06%3A58Z&sks=b&skv=2024-08-04&sig=z2%2BK2VQeAjFXsmHG5/f17/%2BzcP2FU0Fwyw1kHm/hPGk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/cab6bc618168e98eff3d09bbdf07e6df/cab6bc618168e98eff3d09bbdf07e6df.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
