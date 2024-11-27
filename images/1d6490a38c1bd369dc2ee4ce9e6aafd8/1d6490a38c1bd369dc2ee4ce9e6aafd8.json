@@ -1,0 +1,56 @@
+{
+    "id": "1d6490a38c1bd369dc2ee4ce9e6aafd8",
+    "title": "Futuristic Alien Paladin Military by Wally Wood",
+    "description": "Explore a vibrant landscape where a futuristic alien paladin military stands tall, embodying courage and strength. Inspired by the legendary artist Wally Wood, this image captures a unique blend of otherworldly design and militaristic style, showcasing a vision of the future like no other. Get ready to immerse yourself in a world where technology meets valor in the form of alien warriors armored to inspire awe and admiration.",
+    "created": "2024-11-27 11:21:30.633982",
+    "prompt": {
+        "prompt": "Explore a vibrant landscape where a futuristic alien paladin military stands tall, embodying courage and strength. Inspired by the legendary artist Wally Wood, this image captures a unique blend of otherworldly design and militaristic style, showcasing a vision of the future like no other. Get ready to immerse yourself in a world where technology meets valor in the form of alien warriors armored to inspire awe and admiration.",
+        "id": "cd27bc90e7b8a9f052643d2594b16baa",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+                "output": "Explore a vibrant landscape where a futuristic alien paladin military stands tall, embodying courage and strength. Inspired by the legendary artist Wally Wood, this image captures a unique blend of otherworldly design and militaristic style, showcasing a vision of the future like no other. Get ready to immerse yourself in a world where technology meets valor in the form of alien warriors armored to inspire awe and admiration.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 11:13:30.404744",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.307294",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin Military by Wally Wood"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-P4BQI2c0cw4s2EsDIghlDKEw.png?st=2024-11-27T10%3A21%3A24Z&se=2024-11-27T12%3A21%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A49%3A12Z&ske=2024-11-28T00%3A49%3A12Z&sks=b&skv=2024-08-04&sig=F31UgPKsrV27ocnMwsBfG6Zb80xjofltYp4tguuxrKc%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/1d6490a38c1bd369dc2ee4ce9e6aafd8/1d6490a38c1bd369dc2ee4ce9e6aafd8.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
