@@ -1,0 +1,61 @@
+{
+    "id": "eeec92b82120ea3ddf237c06367a9018",
+    "title": "Guardians of the Alien Martial Landscape",
+    "description": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+    "created": "2024-11-27 10:06:52.594894",
+    "prompt": {
+        "prompt": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+        "id": "86b1368a52048f0046f49e4570d822ea",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+                "output": "A stunning image depicting a futuristic riot police robot, mounted on an alien-like giraffe, standing tall against the backdrop of an alien martial landscape. This unique artwork, created in the style reminiscent of Bob Pepper, captures an otherworldly scene that is both intriguing and mesmerizing.",
+                "type": "enhanced"
+            },
+            {
+                "input": "A stunning image depicting a futuristic riot police robot, mounted on an alien-like giraffe, standing tall against the backdrop of an alien martial landscape. This unique artwork, created in the style reminiscent of Bob Pepper, captures an otherworldly scene that is both intriguing and mesmerizing.",
+                "output": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-27 10:06:50.790891",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-27 10:03:20.122270",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.259060",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Guardians of the Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-1zdOnigyBaxAxt2a9bG3QBvh.png?st=2024-11-27T09%3A06%3A45Z&se=2024-11-27T11%3A06%3A45Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A11%3A06Z&ske=2024-11-28T00%3A11%3A06Z&sks=b&skv=2024-08-04&sig=6xZIDOGEOrwUxaDKkjN1sRcx5/WznQgf2Fj2PLmVyQc%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/eeec92b82120ea3ddf237c06367a9018/eeec92b82120ea3ddf237c06367a9018.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
