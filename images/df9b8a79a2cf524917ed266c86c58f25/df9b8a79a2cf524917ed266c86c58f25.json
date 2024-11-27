@@ -1,0 +1,56 @@
+{
+    "id": "df9b8a79a2cf524917ed266c86c58f25",
+    "title": "Alien Riot Police Robot and Horse in Futuristic Martial Landscape",
+    "description": "An imaginative and dynamic scene featuring an alien riot police robot mounted on a unique alien horse, set against a futuristic Martial landscape. This artwork draws inspiration from the distinctive style of Rafal Olbinski, combining elements of science fiction and fantasy to create a visually striking composition.",
+    "created": "2024-11-27 11:25:42.184660",
+    "prompt": {
+        "prompt": "An imaginative and dynamic scene featuring an alien riot police robot mounted on a unique alien horse, set against a futuristic Martial landscape. This artwork draws inspiration from the distinctive style of Rafal Olbinski, combining elements of science fiction and fantasy to create a visually striking composition.",
+        "id": "49f666f54f42f7be2922a4eacc922af0",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+                "output": "An imaginative and dynamic scene featuring an alien riot police robot mounted on a unique alien horse, set against a futuristic Martial landscape. This artwork draws inspiration from the distinctive style of Rafal Olbinski, combining elements of science fiction and fantasy to create a visually striking composition.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 11:15:14.285108",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.288350",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Rafal Olbinski against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot and Horse in Futuristic Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-InSiakuL8d8stD0G3ZhfbEHd.png?st=2024-11-27T10%3A25%3A36Z&se=2024-11-27T12%3A25%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A16%3A06Z&ske=2024-11-28T00%3A16%3A06Z&sks=b&skv=2024-08-04&sig=50/29zPNZrvhwvAOYhkWBNq%2BTM/EKx7h0nFTy3%2BkdDs%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/df9b8a79a2cf524917ed266c86c58f25/df9b8a79a2cf524917ed266c86c58f25.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
