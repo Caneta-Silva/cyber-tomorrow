@@ -1,0 +1,44 @@
+{
+    "prompt": "This stunning image depicts an alien paladin in military attire, inspired by the masterful style of Rafal Olbinski. The majestic figure stands proudly against the backdrop of an otherworldly fortress, radiating strength and valor. The harmonious blend of futuristic elements and ancient knightly aesthetics creates a captivating scene that transports viewers to a distant and enigmatic world.",
+    "id": "72a9d2e2477500959e97d6b2c340c8a1",
+    "prompt_history": [
+        "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        {
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "output": "This stunning image depicts an alien paladin in military attire, inspired by the masterful style of Rafal Olbinski. The majestic figure stands proudly against the backdrop of an otherworldly fortress, radiating strength and valor. The harmonious blend of futuristic elements and ancient knightly aesthetics creates a captivating scene that transports viewers to a distant and enigmatic world.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 11:12:00.042424",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.388219",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Guardian of the Alien Fortress"
+}
