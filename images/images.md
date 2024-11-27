@@ -3486,3 +3486,35 @@
 | **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Rafal Olbinski <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
+
+### 📷 7ce87212f5c3753b5cb393ee175cde9d 
+
+![data.id](./7ce87212f5c3753b5cb393ee175cde9d/7ce87212f5c3753b5cb393ee175cde9d.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 7ce87212f5c3753b5cb393ee175cde9d                                                                                                             |
+| **Title**           | Alien Riot Police Robot Mounted on Alien Gnu                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of John Schoenherr against the backdrop of a alien spaceship                                                                                                       |
+| **CreatedAt**        | 2024-11-27 17:40:02.156560                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-fbuCBk99G4kJyKhq6VvxrY6l.png?st=2024-11-27T16%3A39%3A56Z&se=2024-11-27T18%3A39%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A32%3A47Z&ske=2024-11-28T00%3A32%3A47Z&sks=b&skv=2024-08-04&sig=aMtydKM3%2BbBbbArewReD6cJxF84JdBIpEFwgw1KJnzU%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7ce87212f5c3753b5cb393ee175cde9d/7ce87212f5c3753b5cb393ee175cde9d.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 8f9e43f0da01552d4b727cfdca930fe8
+
+> Create a landscape full body image of a alien riot police robot mounted on an alien like gnu in the style of John Schoenherr against the backdrop of a alien spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 8f9e43f0da01552d4b727cfdca930fe8                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** John Schoenherr <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
