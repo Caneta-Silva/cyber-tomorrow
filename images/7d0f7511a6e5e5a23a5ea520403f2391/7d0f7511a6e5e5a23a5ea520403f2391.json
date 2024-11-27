@@ -1,0 +1,56 @@
+{
+    "id": "7d0f7511a6e5e5a23a5ea520403f2391",
+    "title": "Alien Paladin Commander: A Sci-Fi Fantasy Landscape",
+    "description": "Inspired by the artistry of Rafal Olbinski, this image features a striking alien paladin commander, exuding power and regality in a surreal landscape. The scene captures a blend of futuristic military elements with a touch of fantastical beauty, inviting the viewer to explore a world of imagination and wonder.",
+    "created": "2024-11-27 10:56:40.678901",
+    "prompt": {
+        "prompt": "Inspired by the artistry of Rafal Olbinski, this image features a striking alien paladin commander, exuding power and regality in a surreal landscape. The scene captures a blend of futuristic military elements with a touch of fantastical beauty, inviting the viewer to explore a world of imagination and wonder.",
+        "id": "41db2afc9a4c5915cb2110dadd0dc5d9",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+                "output": "Inspired by the artistry of Rafal Olbinski, this image features a striking alien paladin commander, exuding power and regality in a surreal landscape. The scene captures a blend of futuristic military elements with a touch of fantastical beauty, inviting the viewer to explore a world of imagination and wonder.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:50:43.130536",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.337788",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Paladin Commander: A Sci-Fi Fantasy Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-irXygjiwqYMNLqxKy1QP1YeA.png?st=2024-11-27T09%3A56%3A35Z&se=2024-11-27T11%3A56%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T23%3A55%3A09Z&ske=2024-11-27T23%3A55%3A09Z&sks=b&skv=2024-08-04&sig=Ld7UI8MKR1Up/x8mkCqT6oJnYV/fQj9yWEOwvrlQQzo%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7d0f7511a6e5e5a23a5ea520403f2391/7d0f7511a6e5e5a23a5ea520403f2391.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
