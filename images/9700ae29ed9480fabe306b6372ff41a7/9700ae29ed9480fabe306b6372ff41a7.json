@@ -1,0 +1,56 @@
+{
+    "id": "9700ae29ed9480fabe306b6372ff41a7",
+    "title": "Futuristic Alien Paladin: A Vision from Beyond",
+    "description": "Immerse yourself in a visionary world where a futuristic alien paladin strides confidently, embodying a unique blend of otherworldly grace and powerful military presence. Inspired by the iconic style of Rafal Olbinski, this stunning landscape captures the essence of a galactic defender, adorned in futuristic armor and wielding advanced weaponry. Let your imagination soar as you witness this extraordinary creation, a testament to the limitless possibilities of the imagination.",
+    "created": "2024-11-27 11:29:16.720654",
+    "prompt": {
+        "prompt": "Immerse yourself in a visionary world where a futuristic alien paladin strides confidently, embodying a unique blend of otherworldly grace and powerful military presence. Inspired by the iconic style of Rafal Olbinski, this stunning landscape captures the essence of a galactic defender, adorned in futuristic armor and wielding advanced weaponry. Let your imagination soar as you witness this extraordinary creation, a testament to the limitless possibilities of the imagination.",
+        "id": "66f4801156df002fbc9744401c642f82",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+                "output": "Immerse yourself in a visionary world where a futuristic alien paladin strides confidently, embodying a unique blend of otherworldly grace and powerful military presence. Inspired by the iconic style of Rafal Olbinski, this stunning landscape captures the essence of a galactic defender, adorned in futuristic armor and wielding advanced weaponry. Let your imagination soar as you witness this extraordinary creation, a testament to the limitless possibilities of the imagination.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 11:17:09.808925",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.340898",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Paladin: A Vision from Beyond"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-AofC1BuvEy25rKFQd1nLCg02.png?st=2024-11-27T10%3A29%3A10Z&se=2024-11-27T12%3A29%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A16%3A57Z&ske=2024-11-28T00%3A16%3A57Z&sks=b&skv=2024-08-04&sig=zk%2ByeKnrr%2BB03HrHbe2I5cDdcqOrdIKp7tFbVI0nNNA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/9700ae29ed9480fabe306b6372ff41a7/9700ae29ed9480fabe306b6372ff41a7.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
