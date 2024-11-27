@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a fantastical world where futuristic alien paladins don their majestic military attire. This Bob Pepper-inspired landscape showcases a harmonious blend of otherworldly elements, intricate armor, and a backdrop of cosmic wonders. Let your imagination soar as you witness the magnificence of the alien paladins defending their realm in a style that transcends time and space.",
+    "id": "dbfa8c27a19e1eeb919851692c8a6bde",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+        {
+            "input": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+            "output": "Immerse yourself in a fantastical world where futuristic alien paladins don their majestic military attire. This Bob Pepper-inspired landscape showcases a harmonious blend of otherworldly elements, intricate armor, and a backdrop of cosmic wonders. Let your imagination soar as you witness the magnificence of the alien paladins defending their realm in a style that transcends time and space.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:55:01.094504",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.318749",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Bob Pepper",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "rhino",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Paladin: A Bob Pepper Inspired Landscape"
+}
