@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a vision of the future where a towering cybernetic enforcer patrols the chaotic streets, a blend of technology and authority. This image captures the essence of a dystopian world, reminiscent of the artistic style of Bob Pepper, with intricate details and a sense of foreboding. Witness a landscape where machines reign and order is enforced by an imposing robotic presence, ready to maintain control in the face of dissent.",
+    "id": "7171b37c7861da0bd66e5c2a8804e871",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
+        {
+            "input": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
+            "output": "Immerse yourself in a vision of the future where a towering cybernetic enforcer patrols the chaotic streets, a blend of technology and authority. This image captures the essence of a dystopian world, reminiscent of the artistic style of Bob Pepper, with intricate details and a sense of foreboding. Witness a landscape where machines reign and order is enforced by an imposing robotic presence, ready to maintain control in the face of dissent.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:24:21.232602",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.311838",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Bob Pepper",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Cybernetic Enforcer: A Futuristic Riot Police Robot"
+}
