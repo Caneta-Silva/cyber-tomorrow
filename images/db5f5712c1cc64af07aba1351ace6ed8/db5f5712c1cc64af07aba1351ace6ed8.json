@@ -1,0 +1,56 @@
+{
+    "id": "db5f5712c1cc64af07aba1351ace6ed8",
+    "title": "Sentinel of the Stars",
+    "description": "This artwork showcases an alien riot police robot standing tall against the backdrop of a futuristic alien spaceship. Inspired by the style of Rafal Olbinski, the image combines elements of sci-fi and surrealism to create an otherworldly and dynamic scene.",
+    "created": "2024-11-27 10:20:59.275153",
+    "prompt": {
+        "prompt": "This artwork showcases an alien riot police robot standing tall against the backdrop of a futuristic alien spaceship. Inspired by the style of Rafal Olbinski, the image combines elements of sci-fi and surrealism to create an otherworldly and dynamic scene.",
+        "id": "5b63b16877926a949912e85c119677db",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+            {
+                "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+                "output": "This artwork showcases an alien riot police robot standing tall against the backdrop of a futuristic alien spaceship. Inspired by the style of Rafal Olbinski, the image combines elements of sci-fi and surrealism to create an otherworldly and dynamic scene.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:17:27.922619",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.390316",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Sentinel of the Stars"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Vswg0ImUUvnBJB6DNhwYeEt1.png?st=2024-11-27T09%3A20%3A53Z&se=2024-11-27T11%3A20%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A21%3A25Z&ske=2024-11-28T00%3A21%3A25Z&sks=b&skv=2024-08-04&sig=bK3jnUkiRcUeUyFi5Lsa%2BKGFE%2BGtfn7blinItkapwgA%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/db5f5712c1cc64af07aba1351ace6ed8/db5f5712c1cc64af07aba1351ace6ed8.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
