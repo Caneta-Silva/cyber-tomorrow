@@ -116,6 +116,67 @@
         "tags": []
     },
     {
+        "id": "eeec92b82120ea3ddf237c06367a9018",
+        "title": "Guardians of the Alien Martial Landscape",
+        "description": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+        "created": "2024-11-27 10:06:52.594894",
+        "prompt": {
+            "prompt": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+            "id": "86b1368a52048f0046f49e4570d822ea",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+                {
+                    "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+                    "output": "A stunning image depicting a futuristic riot police robot, mounted on an alien-like giraffe, standing tall against the backdrop of an alien martial landscape. This unique artwork, created in the style reminiscent of Bob Pepper, captures an otherworldly scene that is both intriguing and mesmerizing.",
+                    "type": "enhanced"
+                },
+                {
+                    "input": "A stunning image depicting a futuristic riot police robot, mounted on an alien-like giraffe, standing tall against the backdrop of an alien martial landscape. This unique artwork, created in the style reminiscent of Bob Pepper, captures an otherworldly scene that is both intriguing and mesmerizing.",
+                    "output": "Imagine an image that portrays a futuristic riot police robot, perched atop a creature resembling an extraterrestrial giraffe, towering in stature against the backdrop of an alien battlefield. The artwork is distinctively vivid, surreal, and kaleidoscopic, reminiscent of a psychedelic art period, primarily executed in the medium of ink and acrylic paint, much like the works produced prior to 1912. This visually compelling composition provides an otherworldly scene that is both captivating and enchanting.",
+                    "type": "revised"
+                }
+            ],
+            "revised_at": "2024-11-27 10:06:50.790891",
+            "revised_prompt": true,
+            "enhanced_at": "2024-11-27 10:03:20.122270",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.259060",
+            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a alien Martial landscape",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Bob Pepper",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Guardians of the Alien Martial Landscape"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-1zdOnigyBaxAxt2a9bG3QBvh.png?st=2024-11-27T09%3A06%3A45Z&se=2024-11-27T11%3A06%3A45Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A11%3A06Z&ske=2024-11-28T00%3A11%3A06Z&sks=b&skv=2024-08-04&sig=6xZIDOGEOrwUxaDKkjN1sRcx5/WznQgf2Fj2PLmVyQc%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/eeec92b82120ea3ddf237c06367a9018/eeec92b82120ea3ddf237c06367a9018.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-3"
+    },
+    {
         "id": "9e071c9d44c825770b48c6b08e8d7aa7",
         "title": "Sentinel of the Future",
         "description": "Imagine a futuristic robotic entity, functioning as riot police, from a different galaxy, maintaining order over a landscape rich with advanced technology. The scene is delightsomely colorful, presenting a mix of shadowing and illumination akin to the works of artists from the early 20th century, reminiscent of John Schoenherr's captivating depth and detail, while also encompassing a slight hint of extraterrestrial exoticness. The robot is a sight to behold, radiating with metallic shimmer, carrying an authoritative aura. Various devices and structures in the landscape express the pinnacle of alien technology, while the celestial bodies in the backdrop seal the otherworldly milieu.",
@@ -1154,6 +1215,67 @@
         "urls": {
             "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-tObQLAr80w9lJqUNZtpnYtQ5.png?st=2024-11-24T13%3A27%3A43Z&se=2024-11-24T15%3A27%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-24T00%3A26%3A31Z&ske=2024-11-25T00%3A26%3A31Z&sks=b&skv=2024-08-04&sig=8KCU%2BvmpTbr9dRZxhitIZ1HEXlS%2Bd7taO71idR71cxo%3D",
             "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/19f5392f5204770fdc25e09ec9e094b8/19f5392f5204770fdc25e09ec9e094b8.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-3"
+    },
+    {
+        "id": "b781b4b9bf51afbfd006b54e5beb448d",
+        "title": "The Cosmic Guardian",
+        "description": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+        "created": "2024-11-27 10:09:39.196173",
+        "prompt": {
+            "prompt": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+            "id": "35c90db90c611dfe2ca37f24d96052a2",
+            "prompt_history": [
+                "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+                {
+                    "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+                    "output": "Immerse yourself in the awe-inspiring presence of an alien paladin in military attire, standing proudly against the backdrop of an alien fortress. This striking landscape image, inspired by the artistic style of Rafal Olbinski, captures the essence of valor and strength in a surreal extraterrestrial setting.",
+                    "type": "enhanced"
+                },
+                {
+                    "input": "Immerse yourself in the awe-inspiring presence of an alien paladin in military attire, standing proudly against the backdrop of an alien fortress. This striking landscape image, inspired by the artistic style of Rafal Olbinski, captures the essence of valor and strength in a surreal extraterrestrial setting.",
+                    "output": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+                    "type": "revised"
+                }
+            ],
+            "revised_at": "2024-11-27 10:09:37.515417",
+            "revised_prompt": true,
+            "enhanced_at": "2024-11-27 10:04:32.104948",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.388193",
+            "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Rafal Olbinski",
+                "aspect_ratio": "landscape",
+                "backdrop": "fortress",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "The Cosmic Guardian"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-N44AAi4XT3JKd857a5LtMwt7.png?st=2024-11-27T09%3A09%3A32Z&se=2024-11-27T11%3A09%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A21%3A14Z&ske=2024-11-28T00%3A21%3A14Z&sks=b&skv=2024-08-04&sig=uJk30vIN0eDPHbAB8JFK%2BFLii6FlewSLiTZEcLTBjPU%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/b781b4b9bf51afbfd006b54e5beb448d/b781b4b9bf51afbfd006b54e5beb448d.jpg"
         },
         "tags": [],
         "model_version": "dall-e-3"
@@ -3447,6 +3569,67 @@
         "tags": []
     },
     {
+        "id": "c7e6fafffa771609c2975d6a16a6a516",
+        "title": "Alien Riot Police Robot in the Style of Wally Wood",
+        "description": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+        "created": "2024-11-27 10:09:04.732969",
+        "prompt": {
+            "prompt": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+            "id": "f5c102214b621f182eed518463f6c253",
+            "prompt_history": [
+                "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+                {
+                    "input": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+                    "output": "This futuristic image features an alien riot police robot standing in front of a massive alien spaceship. The artwork is inspired by the iconic style of Wally Wood, known for his detailed and dynamic illustrations. The robot exudes power and authority with its intricate design and menacing presence, creating a visually striking scene that transports you to a distant and technologically advanced alien world.",
+                    "type": "enhanced"
+                },
+                {
+                    "input": "This futuristic image features an alien riot police robot standing in front of a massive alien spaceship. The artwork is inspired by the iconic style of Wally Wood, known for his detailed and dynamic illustrations. The robot exudes power and authority with its intricate design and menacing presence, creating a visually striking scene that transports you to a distant and technologically advanced alien world.",
+                    "output": "Imagine a futuristic scene set in an advanced alien world. An alien riot police robot stands in a foreboding and authoritative pose. The robot is intricately designed, symbolizing power and threat. Behind it stands an immense alien spaceship, which further adds to the otherworldly setting. The overall style of the artwork carries a detailed and dynamic aesthetic, reminiscing the creative attributes of early 20th-century illustrators known for their detailed and energetic illustrations.",
+                    "type": "revised"
+                }
+            ],
+            "revised_at": "2024-11-27 10:09:03.263930",
+            "revised_prompt": true,
+            "enhanced_at": "2024-11-27 10:03:49.577059",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.355226",
+            "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood against the backdrop of a alien spaceship",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "horse",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Alien Riot Police Robot in the Style of Wally Wood"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-a7UnZeegZYbAj9aWIT1M3bv6.png?st=2024-11-27T09%3A08%3A58Z&se=2024-11-27T11%3A08%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A09%3A29Z&ske=2024-11-28T00%3A09%3A29Z&sks=b&skv=2024-08-04&sig=HagVURgUzvD27u8r%2Bmnus6h9i99A3%2BrHk0T9QrYGmVw%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/c7e6fafffa771609c2975d6a16a6a516/c7e6fafffa771609c2975d6a16a6a516.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-3"
+    },
+    {
         "id": "a39dd0e69ee57428a81934a15262f95f",
         "title": "Futuristic Paladin Military on Alien Camel",
         "description": "Imagine a mix of advanced technology and antiquated charm, wherein a paladin, inherently a military figure, rides an outlandish creature reminiscent of a camel across a colorful terrain. Retain elements that capture the essence of classic science-fiction art, expressed through the interweaving of longstanding tradition and modern ingenuity, setting against a backdrop of an expansive futuristic martial vista characterized by broad areas of unbroken color and an emphasis on atmospheric effects drawn in the style of notable pre-1912 artists.",
@@ -3562,6 +3745,123 @@
         },
         "tags": [],
         "model_version": "dall-e-2"
+    },
+    {
+        "id": "5cae9408198fcc8d42774bb7cecfa7a4",
+        "title": "Futuristic Riot Police Robot on Alien-like Camel",
+        "description": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+        "created": "2024-11-27 00:05:15.898044",
+        "prompt": {
+            "prompt": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+            "id": "74b87b23d68e08c55c6fde95392278c8",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+                {
+                    "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+                    "output": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-11-27 00:03:26.436214",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.247527",
+            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "camel",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Riot Police Robot on Alien-like Camel"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-FAeeY9bP98F2YTqwLpwX70xl.png?st=2024-11-26T23%3A05%3A10Z&se=2024-11-27T01%3A05%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T00%3A57%3A44Z&ske=2024-11-27T00%3A57%3A44Z&sks=b&skv=2024-08-04&sig=BLOMy7c%2BFwsjTSd3KrYptKLE9z/1l/PhsOBfv86ygo4%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/5cae9408198fcc8d42774bb7cecfa7a4/5cae9408198fcc8d42774bb7cecfa7a4.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
+        "id": "f5cde5dea71f7fd55dec02b29bb04500",
+        "title": "Futuristic Alien Paladin Military Riding Alien Giraffe",
+        "description": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+        "created": "2024-11-27 10:09:11.349213",
+        "prompt": {
+            "prompt": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+            "id": "7b8e32561b09076cc81ba3f0fce56b3d",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+                {
+                    "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+                    "output": "A stunning image depicting a futuristic alien paladin style military figure mounted on an otherworldly giraffe, set against the backdrop of a futuristic fortress. Inspired by the fantastical art style of Bob Pepper, this immersive scene evokes a sense of grandeur and adventure in a unique and captivating alien world.",
+                    "type": "enhanced"
+                },
+                {
+                    "input": "A stunning image depicting a futuristic alien paladin style military figure mounted on an otherworldly giraffe, set against the backdrop of a futuristic fortress. Inspired by the fantastical art style of Bob Pepper, this immersive scene evokes a sense of grandeur and adventure in a unique and captivating alien world.",
+                    "output": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+                    "type": "revised"
+                }
+            ],
+            "revised_at": "2024-11-27 10:09:09.197719",
+            "revised_prompt": true,
+            "enhanced_at": "2024-11-27 10:06:54.145597",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.265766",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Bob Pepper",
+                "aspect_ratio": "landscape",
+                "backdrop": "fortress",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Paladin Military Riding Alien Giraffe"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-j4jxKSgQPzV6PUsEPKu1KtdA.png?st=2024-11-27T09%3A09%3A04Z&se=2024-11-27T11%3A09%3A04Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A11%3A37Z&ske=2024-11-28T00%3A11%3A37Z&sks=b&skv=2024-08-04&sig=QwyHSg1SJTqWSUsgP/lTtNge5I4mrc5xNWZDHHJRqEk%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/f5cde5dea71f7fd55dec02b29bb04500/f5cde5dea71f7fd55dec02b29bb04500.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-3"
     },
     {
         "id": "548028be3be4973402f37c40b0f5095f",
@@ -3743,6 +4043,62 @@
             "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8d3e61b2ae9e3e32da15258082f9675e/8d3e61b2ae9e3e32da15258082f9675e.jpg"
         },
         "tags": []
+    },
+    {
+        "id": "653ab454a51d8d5033996dcfa69a43d5",
+        "title": "Futuristic Alien Paladin Military on Alien Steed",
+        "description": "An awe-inspiring image depicting a futuristic alien paladin military figure mounted on a majestic alien-like horse. Inspired by the artistic style of John Schoenherr, this scene is set against a backdrop of a futuristic martial landscape, capturing the essence of power, courage, and otherworldly beauty.",
+        "created": "2024-11-27 00:10:03.595065",
+        "prompt": {
+            "prompt": "An awe-inspiring image depicting a futuristic alien paladin military figure mounted on a majestic alien-like horse. Inspired by the artistic style of John Schoenherr, this scene is set against a backdrop of a futuristic martial landscape, capturing the essence of power, courage, and otherworldly beauty.",
+            "id": "41d54781abefc678fa4e4f8d560fa746",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+                {
+                    "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+                    "output": "An awe-inspiring image depicting a futuristic alien paladin military figure mounted on a majestic alien-like horse. Inspired by the artistic style of John Schoenherr, this scene is set against a backdrop of a futuristic martial landscape, capturing the essence of power, courage, and otherworldly beauty.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-11-27 00:05:57.199074",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.276581",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "John Schoenherr",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "horse",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Paladin Military on Alien Steed"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-MdxAZcthJ7BAUVxnCTy4MLDd.png?st=2024-11-26T23%3A09%3A55Z&se=2024-11-27T01%3A09%3A55Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A09%3A55Z&ske=2024-11-28T00%3A09%3A55Z&sks=b&skv=2024-08-04&sig=FxLR/CcuuSztm2EJuvjmPtEP/cqtbEOKBw75f3DfCoU%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/653ab454a51d8d5033996dcfa69a43d5/653ab454a51d8d5033996dcfa69a43d5.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
     },
     {
         "id": "cde566a56c14de7642969b6c39398021",
