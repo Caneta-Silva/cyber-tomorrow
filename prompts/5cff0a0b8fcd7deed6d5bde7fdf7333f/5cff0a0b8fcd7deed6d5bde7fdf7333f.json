@@ -1,0 +1,44 @@
+{
+    "prompt": "This stunning image captures the clash of worlds as a futuristic robot riot police officer, towering over an alien-like horse, patrols the alien fortress in the mesmerizing style of legendary artist John Schoenherr. The scene is filled with tension and intrigue, blending the essence of technology and fantasy in a captivating display.",
+    "id": "5cff0a0b8fcd7deed6d5bde7fdf7333f",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+        {
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+            "output": "This stunning image captures the clash of worlds as a futuristic robot riot police officer, towering over an alien-like horse, patrols the alien fortress in the mesmerizing style of legendary artist John Schoenherr. The scene is filled with tension and intrigue, blending the essence of technology and fantasy in a captivating display.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:30:27.339390",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.276381",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of John Schoenherr against the backdrop of a futuristic alien fortress",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Riot Police Robot Mounted on Alien Horse: Alien Fortress Encounter"
+}
