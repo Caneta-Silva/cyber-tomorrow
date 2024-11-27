@@ -61,6 +61,57 @@
         "model_version": "dall-e-3"
     },
     {
+        "id": "223577319785d76f6a01a1f32831ff36",
+        "title": "The Galactic Defender: A Futuristic Alien Paladin",
+        "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+        "created": "2024-11-27 14:29:41.647787",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+            "id": "5c7e6f300f5b5ed37db16964305f12e9",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-03-19 01:00:55.306709",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+            "metadata": {
+                "element": "paladin style military",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "giraffe",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "The Galactic Defender: A Futuristic Alien Paladin"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-XsSqSR91khD1baQAVdidK6C9.png?st=2024-11-27T13%3A29%3A35Z&se=2024-11-27T15%3A29%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A07%3A42Z&ske=2024-11-28T00%3A07%3A42Z&sks=b&skv=2024-08-04&sig=cLNKrCTOSEZBVFhcMtg/sRTadnZMccmyMkOLrVXESm4%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/223577319785d76f6a01a1f32831ff36/223577319785d76f6a01a1f32831ff36.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "db45d13ecb1fdafd1cc2e770f7047e3e",
         "title": "Futuristic Riot Police Robot in the Style of John Schoenherr",
         "description": "This stunning image depicts a landscape with a full-body view of a futuristic riot police robot inspired by the iconic style of John Schoenherr. The robot stands tall and imposing, with sleek metallic armor and advanced weaponry, ready to maintain order in a dystopian future.",
@@ -1949,6 +2000,57 @@
         "tags": []
     },
     {
+        "id": "55410d04270810c5403d57e0b4acfc63",
+        "title": "Future Force: Riot Police Robot of the Alien World",
+        "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper",
+        "created": "2024-11-27 14:27:08.636316",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper",
+            "id": "6b875654189879da6980d4542a290b30",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-03-19 01:00:55.320339",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Bob Pepper",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Bob Pepper",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": false,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": false
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+            },
+            "title": "Future Force: Riot Police Robot of the Alien World"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-P4HvLZSIs1lLidxh81jHsGmZ.png?st=2024-11-27T13%3A27%3A03Z&se=2024-11-27T15%3A27%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A21%3A14Z&ske=2024-11-28T00%3A21%3A14Z&sks=b&skv=2024-08-04&sig=74/KaeKGQ55F6KxNRMeuMxhXm6sH3k9kH9UH5Cf/3KM%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/55410d04270810c5403d57e0b4acfc63/55410d04270810c5403d57e0b4acfc63.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "548028be3be4973402f37c40b0f5095f",
         "title": "Futuristic Paladin Military in the Style of Bob Pepper",
         "description": "Show a mesmerizing vision of a futuristic paladin military, showcasing strength and honor in a surreal landscape. Capture the essence of a scene made vibrant with dreamy colors, intricate detailing, and a psychedelic touch which was prominent in the art movements pre-1912. Display a warrior in advanced armor, full-body, emanating ancient valor and equipped with high-tech weaponry, ready to defend. The armor should incorporate elements of both traditional knightly gear and futuristic science-fiction design.",
@@ -3023,6 +3125,57 @@
         },
         "tags": [],
         "model_version": "dall-e-3"
+    },
+    {
+        "id": "a2b07e7dd23bc2b6e05641ee495fae8b",
+        "title": "Futuristic Alien Riot Police Robot on Alien Elephant in Martial Landscape",
+        "description": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+        "created": "2024-11-27 14:26:30.606527",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+            "id": "9f678a5e0c88c2af42cefc4f68c4595c",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-03-19 01:00:55.267111",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic Martial landscape",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Bob Pepper",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Riot Police Robot on Alien Elephant in Martial Landscape"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-djWEzjMc1v5aYS3udkm2hw5p.png?st=2024-11-27T13%3A26%3A24Z&se=2024-11-27T15%3A26%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A14%3A46Z&ske=2024-11-28T00%3A14%3A46Z&sks=b&skv=2024-08-04&sig=zTIdq1kxOoOPhQeI08GVl10c12q32fiLZzHO49c%2BfIw%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a2b07e7dd23bc2b6e05641ee495fae8b/a2b07e7dd23bc2b6e05641ee495fae8b.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
     },
     {
         "id": "9755ceea65541b1897e0a6b3dbe2ebf1",
@@ -4241,6 +4394,57 @@
         "model_version": "dall-e-2"
     },
     {
+        "id": "390977fa65d49d68b88ca1d287f700ba",
+        "title": "Sentinel of the Alien Realm",
+        "description": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "created": "2024-11-27 14:27:55.271828",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "id": "5a7dddc811cf1f6909e1e9eed129ed19",
+            "prompt_history": [
+                "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-03-19 01:00:55.289517",
+            "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Rafal Olbinski",
+                "aspect_ratio": "landscape",
+                "backdrop": "fortress",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Sentinel of the Alien Realm"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-hW2xApWGw3y11tz0whTjOXm8.png?st=2024-11-27T13%3A27%3A49Z&se=2024-11-27T15%3A27%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A15%3A36Z&ske=2024-11-28T00%3A15%3A36Z&sks=b&skv=2024-08-04&sig=KqawInnQWK9mfol0ndxDgdrTDmaBXvXinhD%2BOu6PFi0%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/390977fa65d49d68b88ca1d287f700ba/390977fa65d49d68b88ca1d287f700ba.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "e62257631d883649d4fc5634f2fc5e4a",
         "title": "Galactic Defender: Alien Paladin on Gnu",
         "description": "Create a visually stunning image of a futuristic character, evoking the idea of a paladin from another world. Their attire should consist of advanced extraterrestrial armor, equipped with high-tech weapons, while gallantly riding an extraordinary alien gnu. In the background, a large, cutting-edge spaceship that exudes a future technological era should be visible, resulting in a vivid juxtaposition of traditional-ridden creature with modernized machinery. Capture the image with bold line work, high contrast, and a focus on intricate technological details \u2014 reminiscent of mid-20th-century science fiction comic art but not imitating any specific artist. Set the mood to be a harmonious blend of conventional and extraterrestrial elements.",
@@ -5393,6 +5597,57 @@
         "urls": {
             "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-CWgnIGTUofmg7E1cKKT8Ywu6.png?st=2024-11-27T09%3A33%3A40Z&se=2024-11-27T11%3A33%3A40Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A16%3A00Z&ske=2024-11-28T00%3A16%3A00Z&sks=b&skv=2024-08-04&sig=sTnqxgWscDDgilK4nVZsHIYL08X7chADWYmzWRaeGUk%3D",
             "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/e9421708b0927f037b304f1f2522cebe/e9421708b0927f037b304f1f2522cebe.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
+        "id": "2a953941cd8150bad94bfee1eb459346",
+        "title": "Galactic Enforcers: The Riot Patrol",
+        "description": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+        "created": "2024-11-27 14:24:20.495960",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "id": "91b344a038412d824214f0e2b1f41396",
+            "prompt_history": [
+                "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-03-19 01:00:55.251103",
+            "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like horse in the style of Wally Wood against the backdrop of a futuristic Martial landscape",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "Martial landscape",
+                "animal": "horse",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "alien",
+                    "backdrop": "futuristic"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Galactic Enforcers: The Riot Patrol"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-DBBU7p20m2F9mj8uKtflHvs4.png?st=2024-11-27T13%3A24%3A14Z&se=2024-11-27T15%3A24%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A06%3A54Z&ske=2024-11-28T00%3A06%3A54Z&sks=b&skv=2024-08-04&sig=EiYQ6oZsjbiETyh%2B8muGjHgdivCypD685b9sYgZlYTI%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/2a953941cd8150bad94bfee1eb459346/2a953941cd8150bad94bfee1eb459346.jpg"
         },
         "tags": [],
         "model_version": "dall-e-2"
