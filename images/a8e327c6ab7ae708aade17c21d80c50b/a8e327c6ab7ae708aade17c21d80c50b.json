@@ -1,0 +1,56 @@
+{
+    "id": "a8e327c6ab7ae708aade17c21d80c50b",
+    "title": "Futuristic Paladin Militia",
+    "description": "An awe-inspiring landscape full body image featuring a futuristic paladin style military unit inspired by the iconic artistry of Bob Pepper. The soldiers are adorned in advanced armor and weaponry, standing against a backdrop of alien terrain with a blend of high-tech and medieval aesthetic elements. This striking illustration captures the essence of valor, strength, and heroism within a unique futuristic world crafted with masterful artistic vision.",
+    "created": "2024-11-27 10:33:01.648539",
+    "prompt": {
+        "prompt": "An awe-inspiring landscape full body image featuring a futuristic paladin style military unit inspired by the iconic artistry of Bob Pepper. The soldiers are adorned in advanced armor and weaponry, standing against a backdrop of alien terrain with a blend of high-tech and medieval aesthetic elements. This striking illustration captures the essence of valor, strength, and heroism within a unique futuristic world crafted with masterful artistic vision.",
+        "id": "08b74f6e794dccec11b02e5ff862f8c0",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+            {
+                "input": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+                "output": "An awe-inspiring landscape full body image featuring a futuristic paladin style military unit inspired by the iconic artistry of Bob Pepper. The soldiers are adorned in advanced armor and weaponry, standing against a backdrop of alien terrain with a blend of high-tech and medieval aesthetic elements. This striking illustration captures the essence of valor, strength, and heroism within a unique futuristic world crafted with masterful artistic vision.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:27:22.867018",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.311061",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Bob Pepper",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Militia"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-NtVOCtUgRhGkmZyvTnYkKD3s.png?st=2024-11-27T09%3A32%3A56Z&se=2024-11-27T11%3A32%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A30%3A24Z&ske=2024-11-28T00%3A30%3A24Z&sks=b&skv=2024-08-04&sig=a6OW/mk5pcah6zDNZp7lVjMpsfPkquw2o3W8ZinJmGk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a8e327c6ab7ae708aade17c21d80c50b/a8e327c6ab7ae708aade17c21d80c50b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
