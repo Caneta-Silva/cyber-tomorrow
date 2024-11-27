@@ -1,0 +1,44 @@
+{
+    "prompt": "A visually stunning image depicting an alien riot police robot mounted on an alien giraffe, set against the backdrop of a futuristic martial landscape. Inspired by the distinctive style of artist John Schoenherr, this scene captures the essence of a unique and mysterious alien world. The combination of advanced technology and exotic creatures creates a captivating and surreal futuristic setting.",
+    "id": "2c080425d5c66017f7f1d6c71b2d5095",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+        {
+            "input": "Create a landscape full body image of a alien riot police robot mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+            "output": "A visually stunning image depicting an alien riot police robot mounted on an alien giraffe, set against the backdrop of a futuristic martial landscape. Inspired by the distinctive style of artist John Schoenherr, this scene captures the essence of a unique and mysterious alien world. The combination of advanced technology and exotic creatures creates a captivating and surreal futuristic setting.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 11:15:28.470096",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.276037",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like giraffe in the style of John Schoenherr against the backdrop of a futuristic alien Martial landscape",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Riot Police Robot on Alien Giraffe in Futuristic Martial Landscape"
+}
