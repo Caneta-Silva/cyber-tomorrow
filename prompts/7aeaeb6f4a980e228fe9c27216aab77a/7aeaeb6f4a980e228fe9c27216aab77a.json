@@ -1,0 +1,44 @@
+{
+    "prompt": "Immerse yourself in a futuristic world where an alien riot police robot stands tall against the backdrop of an alien Martial landscape. This stunning image combines the grace of Rafal Olbinski's style with a unique alien twist, transporting you to a surreal world where technology and nature intersect.",
+    "id": "7aeaeb6f4a980e228fe9c27216aab77a",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+        {
+            "input": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+            "output": "Immerse yourself in a futuristic world where an alien riot police robot stands tall against the backdrop of an alien Martial landscape. This stunning image combines the grace of Rafal Olbinski's style with a unique alien twist, transporting you to a surreal world where technology and nature intersect.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:55:25.640448",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.389581",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski against the backdrop of a alien Martial landscape",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Riot Police Robot: A Study in the Style of Rafal Olbinski"
+}
