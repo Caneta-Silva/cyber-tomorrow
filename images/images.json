@@ -3564,6 +3564,62 @@
         "model_version": "dall-e-2"
     },
     {
+        "id": "5cae9408198fcc8d42774bb7cecfa7a4",
+        "title": "Futuristic Riot Police Robot on Alien-like Camel",
+        "description": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+        "created": "2024-11-27 00:05:15.898044",
+        "prompt": {
+            "prompt": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+            "id": "74b87b23d68e08c55c6fde95392278c8",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+                {
+                    "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+                    "output": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+                    "type": "enhanced"
+                }
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": "2024-11-27 00:03:26.436214",
+            "enhanced_prompt": true,
+            "seeded_at": "2024-03-19 01:00:55.247527",
+            "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+            "metadata": {
+                "element": "riot police robot",
+                "style": "Wally Wood",
+                "aspect_ratio": "landscape",
+                "backdrop": "spaceship",
+                "animal": "camel",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": true,
+                    "backdrop": true
+                },
+                "animal": true,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Riot Police Robot on Alien-like Camel"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-FAeeY9bP98F2YTqwLpwX70xl.png?st=2024-11-26T23%3A05%3A10Z&se=2024-11-27T01%3A05%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-26T00%3A57%3A44Z&ske=2024-11-27T00%3A57%3A44Z&sks=b&skv=2024-08-04&sig=BLOMy7c%2BFwsjTSd3KrYptKLE9z/1l/PhsOBfv86ygo4%3D",
+            "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/5cae9408198fcc8d42774bb7cecfa7a4/5cae9408198fcc8d42774bb7cecfa7a4.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "548028be3be4973402f37c40b0f5095f",
         "title": "Futuristic Paladin Military in the Style of Bob Pepper",
         "description": "Show a mesmerizing vision of a futuristic paladin military, showcasing strength and honor in a surreal landscape. Capture the essence of a scene made vibrant with dreamy colors, intricate detailing, and a psychedelic touch which was prominent in the art movements pre-1912. Display a warrior in advanced armor, full-body, emanating ancient valor and equipped with high-tech weaponry, ready to defend. The armor should incorporate elements of both traditional knightly gear and futuristic science-fiction design.",
