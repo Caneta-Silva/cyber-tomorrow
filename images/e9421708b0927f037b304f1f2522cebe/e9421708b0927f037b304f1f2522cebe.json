@@ -1,0 +1,56 @@
+{
+    "id": "e9421708b0927f037b304f1f2522cebe",
+    "title": "Alien Paladin Military in Futuristic Martial Landscape",
+    "description": "An imaginative artwork depicting an alien paladin style military figure standing tall against the backdrop of a futuristic alien martial landscape. This stunning image captures the essence of otherworldly elegance and advanced technology in a visually captivating composition reminiscent of the renowned artist Bob Pepper's style.",
+    "created": "2024-11-27 10:33:47.254919",
+    "prompt": {
+        "prompt": "An imaginative artwork depicting an alien paladin style military figure standing tall against the backdrop of a futuristic alien martial landscape. This stunning image captures the essence of otherworldly elegance and advanced technology in a visually captivating composition reminiscent of the renowned artist Bob Pepper's style.",
+        "id": "eb6a24f77614efb58e43d5d104410081",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+                "output": "An imaginative artwork depicting an alien paladin style military figure standing tall against the backdrop of a futuristic alien martial landscape. This stunning image captures the essence of otherworldly elegance and advanced technology in a visually captivating composition reminiscent of the renowned artist Bob Pepper's style.",
+                "type": "enhanced"
+            }
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": "2024-11-27 10:24:19.885534",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.365817",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Bob Pepper against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Paladin Military in Futuristic Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-CWgnIGTUofmg7E1cKKT8Ywu6.png?st=2024-11-27T09%3A33%3A40Z&se=2024-11-27T11%3A33%3A40Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A16%3A00Z&ske=2024-11-28T00%3A16%3A00Z&sks=b&skv=2024-08-04&sig=sTnqxgWscDDgilK4nVZsHIYL08X7chADWYmzWRaeGUk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/e9421708b0927f037b304f1f2522cebe/e9421708b0927f037b304f1f2522cebe.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
