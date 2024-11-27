@@ -1,0 +1,51 @@
+{
+    "id": "68fb8176ba345283285541703d277f57",
+    "title": "Sentinel of the Future: A Surreal Alien Riot Police Robot",
+    "description": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+    "created": "2024-11-27 12:22:49.323624",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+        "id": "9ac3082b3595684f85cabe6eb1eaa07a",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.339607",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Sentinel of the Future: A Surreal Alien Riot Police Robot"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-LBbROJ3XOIs0MHteoVXfN8rZ.png?st=2024-11-27T11%3A22%3A43Z&se=2024-11-27T13%3A22%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A12%3A06Z&ske=2024-11-28T00%3A12%3A06Z&sks=b&skv=2024-08-04&sig=ju2JxcbVq7Bsdr2XHFsrFf2p09iZkpHJ8SAXaVRgdB4%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/68fb8176ba345283285541703d277f57/68fb8176ba345283285541703d277f57.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
