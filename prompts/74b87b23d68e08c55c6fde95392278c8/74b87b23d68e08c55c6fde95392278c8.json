@@ -1,0 +1,44 @@
+{
+    "prompt": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+    "id": "74b87b23d68e08c55c6fde95392278c8",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+        {
+            "input": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+            "output": "This stunning image features a futuristic riot police robot riding an alien-like camel, creatively designed in the style reminiscent of Wally Wood's iconic artwork. Set against the backdrop of a colossal alien spaceship, this dynamic and visually compelling landscape illustration transports viewers to a thrilling futuristic world where technology and the unknown collide in a mesmerizing display of imagination.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 00:03:26.436214",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.247527",
+    "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like camel in the style of Wally Wood against the backdrop of a alien spaceship",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "camel",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Riot Police Robot on Alien-like Camel"
+}
