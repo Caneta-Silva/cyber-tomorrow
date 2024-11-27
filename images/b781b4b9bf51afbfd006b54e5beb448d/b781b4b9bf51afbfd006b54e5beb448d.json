@@ -1,0 +1,61 @@
+{
+    "id": "b781b4b9bf51afbfd006b54e5beb448d",
+    "title": "The Cosmic Guardian",
+    "description": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+    "created": "2024-11-27 10:09:39.196173",
+    "prompt": {
+        "prompt": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+        "id": "35c90db90c611dfe2ca37f24d96052a2",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+            {
+                "input": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+                "output": "Immerse yourself in the awe-inspiring presence of an alien paladin in military attire, standing proudly against the backdrop of an alien fortress. This striking landscape image, inspired by the artistic style of Rafal Olbinski, captures the essence of valor and strength in a surreal extraterrestrial setting.",
+                "type": "enhanced"
+            },
+            {
+                "input": "Immerse yourself in the awe-inspiring presence of an alien paladin in military attire, standing proudly against the backdrop of an alien fortress. This striking landscape image, inspired by the artistic style of Rafal Olbinski, captures the essence of valor and strength in a surreal extraterrestrial setting.",
+                "output": "Imagine a visual spectacle that depicts an alien paladin, donned in military uniform, standing tall in a display of fortitude. An alien fortress forms an impressive backdrop, establishing a theme of resilience. Convey the essence of valor and strength in an otherworldly environment, informed by characteristics like imaginative content, dreamlike illusion, and dramatic use of light and shadow quintessential to the Surrealism era, executed in an oil painting medium. Avoid direct imitation, but rather seek inspiration to depict this theatrical and surreal extraterrestrial spirit.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-27 10:09:37.515417",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-27 10:04:32.104948",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.388193",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Cosmic Guardian"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-N44AAi4XT3JKd857a5LtMwt7.png?st=2024-11-27T09%3A09%3A32Z&se=2024-11-27T11%3A09%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A21%3A14Z&ske=2024-11-28T00%3A21%3A14Z&sks=b&skv=2024-08-04&sig=uJk30vIN0eDPHbAB8JFK%2BFLii6FlewSLiTZEcLTBjPU%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/b781b4b9bf51afbfd006b54e5beb448d/b781b4b9bf51afbfd006b54e5beb448d.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
