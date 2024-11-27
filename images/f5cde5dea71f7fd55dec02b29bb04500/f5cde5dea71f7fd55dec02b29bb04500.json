@@ -1,0 +1,61 @@
+{
+    "id": "f5cde5dea71f7fd55dec02b29bb04500",
+    "title": "Futuristic Alien Paladin Military Riding Alien Giraffe",
+    "description": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+    "created": "2024-11-27 10:09:11.349213",
+    "prompt": {
+        "prompt": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+        "id": "7b8e32561b09076cc81ba3f0fce56b3d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+            {
+                "input": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+                "output": "A stunning image depicting a futuristic alien paladin style military figure mounted on an otherworldly giraffe, set against the backdrop of a futuristic fortress. Inspired by the fantastical art style of Bob Pepper, this immersive scene evokes a sense of grandeur and adventure in a unique and captivating alien world.",
+                "type": "enhanced"
+            },
+            {
+                "input": "A stunning image depicting a futuristic alien paladin style military figure mounted on an otherworldly giraffe, set against the backdrop of a futuristic fortress. Inspired by the fantastical art style of Bob Pepper, this immersive scene evokes a sense of grandeur and adventure in a unique and captivating alien world.",
+                "output": "Imagine a breathtaking image of a military figure, reminiscent of an alien paladin, majestically mounted atop an otherworldly giraffe-like creature. Their backdrop is a stunning futuristic castle that speaks to advanced technology and alien architectural style. The figures and elements in the scene echo the sublime fantastical surrealism akin to pre-1912 art with a focus on intricate details, vibrant tones, and imaginative renderings, reminiscent of a mixed medium traditional artistic style. This immersive scene evokes a sense of grandeur and adventure in a unique and visually arresting extraterrestrial world.",
+                "type": "revised"
+            }
+        ],
+        "revised_at": "2024-11-27 10:09:09.197719",
+        "revised_prompt": true,
+        "enhanced_at": "2024-11-27 10:06:54.145597",
+        "enhanced_prompt": true,
+        "seeded_at": "2024-03-19 01:00:55.265766",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin Military Riding Alien Giraffe"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-j4jxKSgQPzV6PUsEPKu1KtdA.png?st=2024-11-27T09%3A09%3A04Z&se=2024-11-27T11%3A09%3A04Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A11%3A37Z&ske=2024-11-28T00%3A11%3A37Z&sks=b&skv=2024-08-04&sig=QwyHSg1SJTqWSUsgP/lTtNge5I4mrc5xNWZDHHJRqEk%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/f5cde5dea71f7fd55dec02b29bb04500/f5cde5dea71f7fd55dec02b29bb04500.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-3"
+}
