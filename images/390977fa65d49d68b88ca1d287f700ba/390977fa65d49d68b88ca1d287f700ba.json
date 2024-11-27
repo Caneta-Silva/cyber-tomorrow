@@ -1,0 +1,51 @@
+{
+    "id": "390977fa65d49d68b88ca1d287f700ba",
+    "title": "Sentinel of the Alien Realm",
+    "description": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+    "created": "2024-11-27 14:27:55.271828",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "id": "5a7dddc811cf1f6909e1e9eed129ed19",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.289517",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Rafal Olbinski against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Sentinel of the Alien Realm"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-hW2xApWGw3y11tz0whTjOXm8.png?st=2024-11-27T13%3A27%3A49Z&se=2024-11-27T15%3A27%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A15%3A36Z&ske=2024-11-28T00%3A15%3A36Z&sks=b&skv=2024-08-04&sig=KqawInnQWK9mfol0ndxDgdrTDmaBXvXinhD%2BOu6PFi0%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/390977fa65d49d68b88ca1d287f700ba/390977fa65d49d68b88ca1d287f700ba.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
