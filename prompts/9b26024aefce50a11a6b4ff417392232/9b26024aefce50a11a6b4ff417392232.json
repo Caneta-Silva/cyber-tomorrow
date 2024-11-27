@@ -1,0 +1,44 @@
+{
+    "prompt": "A stunning landscape illustration showcasing an alien paladin style military, inspired by the renowned artist John Schoenherr. The futuristic scene features otherworldly armor, advanced weaponry, and a lush alien environment. Prepare to be transported to a world where honor, strength, and technology collide in this captivating image.",
+    "id": "9b26024aefce50a11a6b4ff417392232",
+    "prompt_history": [
+        "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+        {
+            "input": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+            "output": "A stunning landscape illustration showcasing an alien paladin style military, inspired by the renowned artist John Schoenherr. The futuristic scene features otherworldly armor, advanced weaponry, and a lush alien environment. Prepare to be transported to a world where honor, strength, and technology collide in this captivating image.",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-11-27 10:25:37.274631",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-03-19 01:00:55.326318",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of John Schoenherr",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "John Schoenherr",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "camel",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Alien Paladin Military Landscape"
+}
