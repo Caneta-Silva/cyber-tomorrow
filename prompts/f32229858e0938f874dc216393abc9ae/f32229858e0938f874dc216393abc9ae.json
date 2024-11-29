@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien Martial landscape",
+    "id": "f32229858e0938f874dc216393abc9ae",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien Martial landscape"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.244169",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like horse in the style of Wally Wood against the backdrop of a alien Martial landscape",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Paladin on Alien Mount"
+}
