@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski",
+    "id": "e56f112d80e7de91bfa2ae7731aeec37",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.343509",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Rafal Olbinski",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "The Sentinel of Tomorrow"
+}
