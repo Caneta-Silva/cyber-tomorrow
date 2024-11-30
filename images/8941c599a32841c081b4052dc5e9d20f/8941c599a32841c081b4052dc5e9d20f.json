@@ -1,0 +1,51 @@
+{
+    "id": "8941c599a32841c081b4052dc5e9d20f",
+    "title": "Futuristic Paladin Military on Alien Camel",
+    "description": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic spaceship",
+    "created": "2024-11-30 12:37:03.681826",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic spaceship",
+        "id": "6e87def08045f4c4a81cef829d0b29e0",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.269115",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of John Schoenherr against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Military on Alien Camel"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Q3LUxWSCbUAu8L4IYjfsM79t.png?st=2024-11-30T11%3A36%3A57Z&se=2024-11-30T13%3A36%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-30T03%3A37%3A12Z&ske=2024-12-01T03%3A37%3A12Z&sks=b&skv=2024-08-04&sig=j0lEub7y68mxxyQZOknDxQXxtvpIjBoPoaQzL23/0zQ%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8941c599a32841c081b4052dc5e9d20f/8941c599a32841c081b4052dc5e9d20f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
