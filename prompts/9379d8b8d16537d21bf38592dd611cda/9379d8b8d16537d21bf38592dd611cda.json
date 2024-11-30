@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+    "id": "9379d8b8d16537d21bf38592dd611cda",
+    "prompt_history": [
+        "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.252669",
+    "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like deer in the style of Wally Wood against the backdrop of a futuristic alien spaceship",
+    "metadata": {
+        "element": "riot police robot",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Riot Police Robot on Alien Deer Against Futuristic Spaceship"
+}
