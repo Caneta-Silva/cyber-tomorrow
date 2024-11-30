@@ -1,0 +1,51 @@
+{
+    "id": "8e95249e87bb024fe57549f753815b0f",
+    "title": "Sentinel of the Stars: A Futuristic Riot Police Robot",
+    "description": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a alien fortress",
+    "created": "2024-11-30 12:34:15.546236",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a alien fortress",
+        "id": "8308046366a708f3f9352bb639bf1c90",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.363696",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Bob Pepper against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Sentinel of the Stars: A Futuristic Riot Police Robot"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-7SpGcqxHd3GzhxsZvDQyBjZP.png?st=2024-11-30T11%3A34%3A10Z&se=2024-11-30T13%3A34%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-30T03%3A35%3A17Z&ske=2024-12-01T03%3A35%3A17Z&sks=b&skv=2024-08-04&sig=qkQv%2BH4GbZZL82B32S3tAy6th%2Bzc%2BjeornUnCsLhgvo%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/8e95249e87bb024fe57549f753815b0f/8e95249e87bb024fe57549f753815b0f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
