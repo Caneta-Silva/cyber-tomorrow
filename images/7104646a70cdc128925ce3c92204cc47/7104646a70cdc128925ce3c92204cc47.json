@@ -1,0 +1,51 @@
+{
+    "id": "7104646a70cdc128925ce3c92204cc47",
+    "title": "Futuristic Alien Paladin on Elephant in Martial Landscape",
+    "description": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+    "created": "2024-12-01 01:29:21.849603",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "id": "530a034f268c2e652d33f7e682f66542",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.276609",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military mounted on an alien like elephant in the style of John Schoenherr against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "John Schoenherr",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin on Elephant in Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-pZEVDxsJOGXkCBunLQswUkb0.png?st=2024-12-01T00%3A29%3A14Z&se=2024-12-01T02%3A29%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-30T03%3A57%3A13Z&ske=2024-12-01T03%3A57%3A13Z&sks=b&skv=2024-08-04&sig=yYyl7pHdMTsaUrZ07MjXtL6NA2lKyFtGc8zXd7CMqiw%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/7104646a70cdc128925ce3c92204cc47/7104646a70cdc128925ce3c92204cc47.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
