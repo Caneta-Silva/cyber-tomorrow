@@ -1,0 +1,51 @@
+{
+    "id": "b436dba28bb97d9a4a3df95604b75fa5",
+    "title": "The Alien Paladin and the Galactic Steed",
+    "description": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic alien fortress",
+    "created": "2024-12-02 12:36:15.283304",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic alien fortress",
+        "id": "75c5e73787ca964627c1db98b21936d1",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.261999",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military mounted on an alien like giraffe in the style of Bob Pepper against the backdrop of a futuristic alien fortress",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Alien Paladin and the Galactic Steed"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ouy6GyXJOlVxDvlXPkPISd4s.png?st=2024-12-02T11%3A36%3A08Z&se=2024-12-02T13%3A36%3A08Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T09%3A45%3A48Z&ske=2024-12-03T09%3A45%3A48Z&sks=b&skv=2024-08-04&sig=CWq7b787HSgUw/n1luwYr%2BHyuH/ETIfbxiAAdXyue9A%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/b436dba28bb97d9a4a3df95604b75fa5/b436dba28bb97d9a4a3df95604b75fa5.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
