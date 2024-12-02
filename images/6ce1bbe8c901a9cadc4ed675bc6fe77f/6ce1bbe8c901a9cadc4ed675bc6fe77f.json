@@ -1,0 +1,51 @@
+{
+    "id": "6ce1bbe8c901a9cadc4ed675bc6fe77f",
+    "title": "Futuristic Paladin Warrior Riding Alien Rhino",
+    "description": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+    "created": "2024-12-02 12:35:11.659211",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "id": "9fc57ba3e6699df4bfe67e51b9080fa9",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.282926",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Warrior Riding Alien Rhino"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-8bsm045w6MML52vWvn7BsxQr.png?st=2024-12-02T11%3A35%3A05Z&se=2024-12-02T13%3A35%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-01T17%3A15%3A53Z&ske=2024-12-02T17%3A15%3A53Z&sks=b&skv=2024-08-04&sig=/1ahIXmGkp8v5ndgHTXFHqjiqdNaUPB4EjvGw%2BRAyZs%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/6ce1bbe8c901a9cadc4ed675bc6fe77f/6ce1bbe8c901a9cadc4ed675bc6fe77f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
