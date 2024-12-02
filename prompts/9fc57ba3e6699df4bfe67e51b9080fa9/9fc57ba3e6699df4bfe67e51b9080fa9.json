@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+    "id": "9fc57ba3e6699df4bfe67e51b9080fa9",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.282926",
+    "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like rhino in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Rafal Olbinski",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "rhino",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Paladin Warrior Riding Alien Rhino"
+}
