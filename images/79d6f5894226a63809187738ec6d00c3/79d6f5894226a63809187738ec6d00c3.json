@@ -1,0 +1,51 @@
+{
+    "id": "79d6f5894226a63809187738ec6d00c3",
+    "title": "Sci-Fi Encounter: Alien Riot Police Robot and Elephant on an Alien Spaceship",
+    "description": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
+    "created": "2024-12-03 12:28:56.648195",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
+        "id": "1e3385a38db3b833d69db71d8ce4c9b9",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.264773",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an alien like elephant in the style of Bob Pepper against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Bob Pepper",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Sci-Fi Encounter: Alien Riot Police Robot and Elephant on an Alien Spaceship"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-fAT7UuVqMflwyHQBm9rLORS0.png?st=2024-12-03T11%3A28%3A50Z&se=2024-12-03T13%3A28%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A17%3A07Z&ske=2024-12-04T00%3A17%3A07Z&sks=b&skv=2024-08-04&sig=JDnqDgWRv/GvjIW0EKq0B1Z1Z2HiPIloTQZPbBwGDzc%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/79d6f5894226a63809187738ec6d00c3/79d6f5894226a63809187738ec6d00c3.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
