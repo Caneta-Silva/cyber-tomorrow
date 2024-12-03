@@ -1,11 +1,11 @@
 {
     "id": "223577319785d76f6a01a1f32831ff36",
-    "title": "The Galactic Defender: A Futuristic Alien Paladin",
+    "title": "Futuristic Alien Paladin Military: A Wally Wood Inspired Landscape",
     "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
-    "created": "2024-11-27 14:29:41.647787",
+    "created": "2024-12-03 12:25:59.901229",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
-        "id": "5c7e6f300f5b5ed37db16964305f12e9",
+        "id": "6ab7fa35fd7412765b7339c3b362bf19",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-03-19 01:00:55.306709",
+        "seeded_at": "2024-03-19 01:00:55.306683",
         "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
         "metadata": {
             "element": "paladin style military",
             "style": "Wally Wood",
             "aspect_ratio": "landscape",
             "backdrop": "Martial landscape",
-            "animal": "giraffe",
+            "animal": "elephant",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
@@ -40,11 +40,11 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "The Galactic Defender: A Futuristic Alien Paladin"
+        "title": "Futuristic Alien Paladin Military: A Wally Wood Inspired Landscape"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-XsSqSR91khD1baQAVdidK6C9.png?st=2024-11-27T13%3A29%3A35Z&se=2024-11-27T15%3A29%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A07%3A42Z&ske=2024-11-28T00%3A07%3A42Z&sks=b&skv=2024-08-04&sig=cLNKrCTOSEZBVFhcMtg/sRTadnZMccmyMkOLrVXESm4%3D",
-        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/223577319785d76f6a01a1f32831ff36/223577319785d76f6a01a1f32831ff36.jpg"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-hPbIKpjIRTu78oXjVYezpyGQ.png?st=2024-12-03T11%3A25%3A54Z&se=2024-12-03T13%3A25%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A08%3A49Z&ske=2024-12-04T00%3A08%3A49Z&sks=b&skv=2024-08-04&sig=tlDhDzlnT3WymD8qfkfDRN1cDg49blGLklnapFkYoRM%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/223577319785d76f6a01a1f32831ff36/223577319785d76f6a01a1f32831ff36.jpg?raw=true"
     },
     "tags": [],
     "model_version": "dall-e-2"
