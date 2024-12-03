@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+    "id": "6ab7fa35fd7412765b7339c3b362bf19",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-03-19 01:00:55.306683",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Wally Wood",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Paladin Military: A Wally Wood Inspired Landscape"
+}
