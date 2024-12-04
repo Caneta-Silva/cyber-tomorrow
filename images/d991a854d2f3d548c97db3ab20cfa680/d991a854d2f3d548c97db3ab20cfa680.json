@@ -1,11 +1,11 @@
 {
     "id": "d991a854d2f3d548c97db3ab20cfa680",
-    "title": "Futuristic Riot Police Robot on Patrol",
+    "title": "Futuristic Riot Police Robot in the Style of John Schoenherr",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
-    "created": "2024-11-27 11:55:32.418939",
+    "created": "2024-12-04 11:11:06.598306",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
-        "id": "b044fc214b05bb68643adf498ad533cd",
+        "id": "6fc98dc2b61e4e0bc00d6821d2c60f6e",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-03-19 01:00:55.324323",
+        "seeded_at": "2024-03-19 01:00:55.324953",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of John Schoenherr",
         "metadata": {
             "element": "riot police robot",
             "style": "John Schoenherr",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "camel",
+            "backdrop": "spaceship",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -40,11 +40,11 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot on Patrol"
+        "title": "Futuristic Riot Police Robot in the Style of John Schoenherr"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-p8MqOgAiLteEeMoi2WF2Emz1.png?st=2024-11-27T10%3A55%3A26Z&se=2024-11-27T12%3A55%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-27T00%3A20%3A18Z&ske=2024-11-28T00%3A20%3A18Z&sks=b&skv=2024-08-04&sig=wQ4LiVrepI0D/GwnDTrKnqxgDinrBuWRpoWS/RmJjso%3D",
-        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/d991a854d2f3d548c97db3ab20cfa680/d991a854d2f3d548c97db3ab20cfa680.jpg"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-gZmSeSd5i1R6bKSRaXaSb1OS.png?st=2024-12-04T10%3A11%3A00Z&se=2024-12-04T12%3A11%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A15%3A57Z&ske=2024-12-05T00%3A15%3A57Z&sks=b&skv=2024-08-04&sig=REgahES5ue%2Bq34LEH3YxWPbLtHUdqWREql0w34aEnfM%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/d991a854d2f3d548c97db3ab20cfa680/d991a854d2f3d548c97db3ab20cfa680.jpg?raw=true"
     },
     "tags": [],
     "model_version": "dall-e-2"
