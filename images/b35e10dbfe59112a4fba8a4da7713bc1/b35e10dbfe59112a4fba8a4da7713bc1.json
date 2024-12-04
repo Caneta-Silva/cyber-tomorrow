@@ -1,0 +1,51 @@
+{
+    "id": "b35e10dbfe59112a4fba8a4da7713bc1",
+    "title": "Futuristic Alien Paladin: Warlord of the Stars",
+    "description": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+    "created": "2024-12-04 11:15:44.643283",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "id": "3e42f5c3e6bd5ba95dbf31fbaf9d7ea7",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.356608",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien paladin style military in the style of Wally Wood against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Wally Wood",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Paladin: Warlord of the Stars"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-iLimz0DOigFH8Ll70wcVkgVA.png?st=2024-12-04T10%3A15%3A37Z&se=2024-12-04T12%3A15%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A10%3A28Z&ske=2024-12-05T01%3A10%3A28Z&sks=b&skv=2024-08-04&sig=kBn%2BIwAKLeAc/Ix%2BwzpqwVeI5z6xeM44wM9Kuz7i1Ng%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/b35e10dbfe59112a4fba8a4da7713bc1/b35e10dbfe59112a4fba8a4da7713bc1.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
