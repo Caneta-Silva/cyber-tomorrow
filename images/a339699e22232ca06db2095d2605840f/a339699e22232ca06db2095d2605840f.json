@@ -1,0 +1,51 @@
+{
+    "id": "a339699e22232ca06db2095d2605840f",
+    "title": "Futuristic Paladin on Alien Steed",
+    "description": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+    "created": "2024-12-04 19:41:05.742729",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "id": "a890ef51fffea69c0072914c127364ab",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.282871",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like gnu in the style of Rafal Olbinski against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin on Alien Steed"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-8U6Y46FWrB6isVt3OqHQHXvx.png?st=2024-12-04T18%3A40%3A59Z&se=2024-12-04T20%3A40%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A12%3A22Z&ske=2024-12-05T19%3A12%3A22Z&sks=b&skv=2024-08-04&sig=15faxqYqqcdwn3uqa1hTdbYFb2udykdBEntf%2B%2B/FLOg%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/a339699e22232ca06db2095d2605840f/a339699e22232ca06db2095d2605840f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
