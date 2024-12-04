@@ -1,11 +1,11 @@
 {
     "id": "99bff4e03499b170c849e81841688392",
-    "title": "Wally Wood-Inspired Alien Riot Police Robot",
+    "title": "Invasion Enforcement: Alien Riot Police Robot",
     "description": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood",
-    "created": "2024-12-03 12:22:52.096682",
+    "created": "2024-12-04 19:40:46.835327",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood",
-        "id": "58bfb84e268f2f7975c05e08c4b4ee50",
+        "id": "db62dd802102d85bb85114d7b308f7d8",
         "prompt_history": [
             "Create a landscape full body image of a alien riot police robot in the style of Wally Wood"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-03-19 01:00:55.304399",
+        "seeded_at": "2024-03-19 01:00:55.305247",
         "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Wally Wood",
         "metadata": {
             "element": "riot police robot",
             "style": "Wally Wood",
             "aspect_ratio": "landscape",
-            "backdrop": "Martial landscape",
-            "animal": "deer",
+            "backdrop": "spaceship",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -40,10 +40,10 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Wally Wood-Inspired Alien Riot Police Robot"
+        "title": "Invasion Enforcement: Alien Riot Police Robot"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-woW5o82pwPBOvvsLkaQcYVzT.png?st=2024-12-03T11%3A22%3A40Z&se=2024-12-03T13%3A22%3A40Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A19%3A31Z&ske=2024-12-04T00%3A19%3A31Z&sks=b&skv=2024-08-04&sig=Q47%2Bsbz%2B1TRSakyva%2Be7IjC3uN1N4oIzB2EhEMoXQJ8%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Z0ITBW2FCl15RwbgmrCVMymF.png?st=2024-12-04T18%3A40%3A25Z&se=2024-12-04T20%3A40%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A23%3A50Z&ske=2024-12-05T19%3A23%3A50Z&sks=b&skv=2024-08-04&sig=1qo9tBq9prI9DTe%2Bf0ZbY3RRa0kLBBQg/B4Pgc1Q55M%3D",
         "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/99bff4e03499b170c849e81841688392/99bff4e03499b170c849e81841688392.jpg?raw=true"
     },
     "tags": [],
