@@ -1,0 +1,51 @@
+{
+    "id": "085a6aac996d7f6edd217b6613aae52f",
+    "title": "Futuristic Paladin Commando in the Style of Rafal Olbinski",
+    "description": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+    "created": "2024-12-13 14:29:55.821632",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+        "id": "5f0cb32abb35e6d4410e42bdce982788",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-03-19 01:00:55.333967",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Rafal Olbinski",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Rafal Olbinski",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin Commando in the Style of Rafal Olbinski"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-xV30BoxKwGH5YaBptgxI5aUk.png?st=2024-12-13T13%3A29%3A48Z&se=2024-12-13T15%3A29%3A48Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A23%3A53Z&ske=2024-12-14T03%3A23%3A53Z&sks=b&skv=2024-08-04&sig=mEApf%2BtlUjZum40xtuANFdakYM35svAO7LQti342miQ%3D",
+        "github": "https://github.com/Caneta-Silva/cyber-tomorrow/blob/main/images/085a6aac996d7f6edd217b6613aae52f/085a6aac996d7f6edd217b6613aae52f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
